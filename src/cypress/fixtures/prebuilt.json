@@ -1,0 +1,11 @@
+[
+  {
+    "description": "Find undervalued players in the right areas and positions for your team.",
+    "featured": true,
+    "id": 61,
+    "imageUrl": "/img/mls.gif",
+    "metabaseDashboardUrl": "https://gemini-sports-analytics.metabaseapp.com/public/dashboard/7eee5418-ae58-4333-ad1a-e1ef87467e92#bordered=false&titled=false",
+    "name": "MLS Value by Salary",
+    "sportId": 2
+  }
+]

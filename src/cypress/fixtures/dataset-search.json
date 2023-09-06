@@ -1,0 +1,17 @@
+{
+  "total": 0,
+  "data": [],
+  "available_models": [
+    "dashboard",
+    "card",
+    "collection",
+    "table",
+    "database"
+  ],
+  "limit": 1,
+  "offset": 0,
+  "table_db_id": null,
+  "models": [
+    "dataset"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "clusterCounts": [
+    {
+      "predictedCluster": "Cluster 1",
+      "totalClusters": 3,
+      "rowCount": 150
+    },
+    {
+      "predictedCluster": "Cluster 2",
+      "totalClusters": 3,
+      "rowCount": 301
+    },
+    {
+      "predictedCluster": "Cluster 3",
+      "totalClusters": 3,
+      "rowCount": 201
+    }
+  ],
+  "predictionFeatureImpacts": [],
+  "clusterFeatureValueAverages": [
+    {
+      "predictionId": "7d83e907-a337-4083-b009-cb2ecf0f7c98",
+      "clusterName": "Cluster 1",
+      "clusterRowCount": 150,
+      "jsonData": {
+        "row_count": 150,
+        "PREDICTION": null,
+        "prediction": "Cluster 1",
+        "Cluster_1_PREDICTION": 0.557363973654,
+        "Cluster_2_PREDICTION": 0.22739070400666667,
+        "Cluster_3_PREDICTION": 0.215245324622,
+        "TOTAL_FIELD_GOALS_MADE": 110.86
+      }
+    },
+    {
+      "predictionId": "7d83e907-a337-4083-b009-cb2ecf0f7c98",
+      "clusterName": "Cluster 2",
+      "clusterRowCount": 301,
+      "jsonData": {
+        "row_count": 301,
+        "PREDICTION": null,
+        "prediction": "Cluster 2",
+        "Cluster_1_PREDICTION": 0.19978929635448506,
+        "Cluster_2_PREDICTION": 0.617502384407309,
+        "Cluster_3_PREDICTION": 0.18270832167641196,
+        "TOTAL_FIELD_GOALS_MADE": 202.85382059800665
+      }
+    },
+    {
+      "predictionId": "7d83e907-a337-4083-b009-cb2ecf0f7c98",
+      "clusterName": "Cluster 3",
+      "clusterRowCount": 201,
+      "jsonData": {
+        "row_count": 201,
+        "PREDICTION": null,
+        "prediction": "Cluster 3",
+        "Cluster_1_PREDICTION": 0.19221483680895524,
+        "Cluster_2_PREDICTION": 0.1759351638487562,
+        "Cluster_3_PREDICTION": 0.6318500004885572,
+        "TOTAL_FIELD_GOALS_MADE": 185.98507462686567
+      }
+    }
+  ]
+}

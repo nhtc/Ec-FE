@@ -1,0 +1,1642 @@
+{
+  "modelInfo": {
+    "modelId": "1bf1121e-b9ad-4726-88c3-fc37e18f440d",
+    "modelName": "K-Means Clustering #7",
+    "modelType": "Clustering",
+    "target": null,
+    "modelFamily": "CLUSTER",
+    "optimizedMetric": "Silhouette Score",
+    "trainingRowCount": 586,
+    "samplePct": 89.878,
+    "isDeployed": false,
+    "featureCount": 53,
+    "multiclassCount": null,
+    "clusterInformation": {
+      "clusterNames": [
+        "Cluster 1",
+        "Cluster 3",
+        "Cluster 2"
+      ],
+      "totalClusterCount": 3
+    },
+    "modelNumber": 7
+  },
+  "classNames": null,
+  "metrics": [
+    {
+      "modelId": "1bf1121e-b9ad-4726-88c3-fc37e18f440d",
+      "drModelId": "64d5adb0a64a6b7fcd8471c4",
+      "metricId": 23,
+      "metricName": "Silhouette Score",
+      "validation": 0.24052,
+      "crossValidation": null,
+      "holdout": null,
+      "avgValidation": null,
+      "minValidation": null,
+      "maxValidation": null,
+      "avgCrossValidation": null,
+      "minCrossValidation": null,
+      "maxCrossValidation": null,
+      "avgHoldout": null,
+      "minHoldout": null,
+      "maxHoldout": null
+    }
+  ],
+  "liftChart": null,
+  "featureImpacts": [
+    {
+      "featureName": "FREE THROWS MADE PER GAME",
+      "impactNormalized": 1,
+      "impactUnnormalized": 0.0156124,
+      "redundantWith": null
+    },
+    {
+      "featureName": "FREE THROWS ATTEMPTED PER GAME",
+      "impactNormalized": 0.9806316,
+      "impactUnnormalized": 0.0153101,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL FREE THROWS MADE",
+      "impactNormalized": 0.9643016,
+      "impactUnnormalized": 0.0150551,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL FREE THROWS ATTEMPTED",
+      "impactNormalized": 0.9515437,
+      "impactUnnormalized": 0.0148559,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL REBOUND",
+      "impactNormalized": 0.9220868,
+      "impactUnnormalized": 0.014396,
+      "redundantWith": null
+    },
+    {
+      "featureName": "FREE THROWS MADE PER 36 MINUTES",
+      "impactNormalized": 0.9193798,
+      "impactUnnormalized": 0.0143538,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL DEFENSIVE REBOUND",
+      "impactNormalized": 0.9142424,
+      "impactUnnormalized": 0.0142736,
+      "redundantWith": null
+    },
+    {
+      "featureName": "DEFENSIVE REBOUND PER GAME",
+      "impactNormalized": 0.9109013,
+      "impactUnnormalized": 0.0142214,
+      "redundantWith": null
+    },
+    {
+      "featureName": "REBOUND PER GAME",
+      "impactNormalized": 0.9024867,
+      "impactUnnormalized": 0.01409,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL OFFENSIVE REBOUND",
+      "impactNormalized": 0.8873708,
+      "impactUnnormalized": 0.013854,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TURNOVERS PER GAME",
+      "impactNormalized": 0.8798329,
+      "impactUnnormalized": 0.0137363,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL FIELD GOALS MADE",
+      "impactNormalized": 0.8637616,
+      "impactUnnormalized": 0.0134854,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL GAME PLAYED",
+      "impactNormalized": 0.8622542,
+      "impactUnnormalized": 0.0134619,
+      "redundantWith": null
+    },
+    {
+      "featureName": "FREE THROWS ATTEMPTED PER 36 MINUTES",
+      "impactNormalized": 0.8617199,
+      "impactUnnormalized": 0.0134536,
+      "redundantWith": null
+    },
+    {
+      "featureName": "FIELD GOALS MADE PER GAME",
+      "impactNormalized": 0.8513229,
+      "impactUnnormalized": 0.0132912,
+      "redundantWith": null
+    },
+    {
+      "featureName": "POINTS PER GAME",
+      "impactNormalized": 0.8488029,
+      "impactUnnormalized": 0.0132519,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL POINTS",
+      "impactNormalized": 0.8456027,
+      "impactUnnormalized": 0.0132019,
+      "redundantWith": null
+    },
+    {
+      "featureName": "FIELD GOALS MADE PER 36 MINUTES",
+      "impactNormalized": 0.8436795,
+      "impactUnnormalized": 0.0131719,
+      "redundantWith": null
+    },
+    {
+      "featureName": "OFFENSIVE REBOUND PER GAME",
+      "impactNormalized": 0.8436241,
+      "impactUnnormalized": 0.013171,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL TURNOVERS",
+      "impactNormalized": 0.8417465,
+      "impactUnnormalized": 0.0131417,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL FIELD GOALS ATTEMPTED",
+      "impactNormalized": 0.8235342,
+      "impactUnnormalized": 0.0128574,
+      "redundantWith": null
+    },
+    {
+      "featureName": "DEFENSIVE REBOUND PER 36 MINUTES",
+      "impactNormalized": 0.8180295,
+      "impactUnnormalized": 0.0127714,
+      "redundantWith": null
+    },
+    {
+      "featureName": "REBOUND PER 36 MINUTES",
+      "impactNormalized": 0.8165697,
+      "impactUnnormalized": 0.0127486,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL STEALS",
+      "impactNormalized": 0.8151441,
+      "impactUnnormalized": 0.0127264,
+      "redundantWith": null
+    },
+    {
+      "featureName": "FIELD GOALS ATTEMPTED PER GAME",
+      "impactNormalized": 0.8142268,
+      "impactUnnormalized": 0.0127121,
+      "redundantWith": null
+    },
+    {
+      "featureName": "OFFENSIVE REBOUND PER 36 MINUTES",
+      "impactNormalized": 0.8070774,
+      "impactUnnormalized": 0.0126005,
+      "redundantWith": null
+    },
+    {
+      "featureName": "STEALS PER GAME",
+      "impactNormalized": 0.8069411,
+      "impactUnnormalized": 0.0125983,
+      "redundantWith": null
+    },
+    {
+      "featureName": "STEALS PER 36 MINUTES",
+      "impactNormalized": 0.8067097,
+      "impactUnnormalized": 0.0125947,
+      "redundantWith": null
+    },
+    {
+      "featureName": "POINTS PER 36 MINUTES",
+      "impactNormalized": 0.8045689,
+      "impactUnnormalized": 0.0125613,
+      "redundantWith": null
+    },
+    {
+      "featureName": "3 POINT MADE PER 36 MINUTES",
+      "impactNormalized": 0.7973481,
+      "impactUnnormalized": 0.0124486,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL MINUTES",
+      "impactNormalized": 0.7912853,
+      "impactUnnormalized": 0.0123539,
+      "redundantWith": null
+    },
+    {
+      "featureName": "FIELD GOALS ATTEMPTED PER 36 MINUTES",
+      "impactNormalized": 0.7895388,
+      "impactUnnormalized": 0.0123266,
+      "redundantWith": null
+    },
+    {
+      "featureName": "3 POINT ATTEMPTED PER 36 MINUTES",
+      "impactNormalized": 0.7889407,
+      "impactUnnormalized": 0.0123173,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL PERSONAL FOULS",
+      "impactNormalized": 0.7720042,
+      "impactUnnormalized": 0.0120529,
+      "redundantWith": null
+    },
+    {
+      "featureName": "3 POINT MADE PER GAME",
+      "impactNormalized": 0.7695564,
+      "impactUnnormalized": 0.0120147,
+      "redundantWith": null
+    },
+    {
+      "featureName": "PERSONAL FOULS PER 36 MINUTES",
+      "impactNormalized": 0.7658172,
+      "impactUnnormalized": 0.0119563,
+      "redundantWith": null
+    },
+    {
+      "featureName": "MINUTES PLAYED PERGAME",
+      "impactNormalized": 0.764904,
+      "impactUnnormalized": 0.011942,
+      "redundantWith": null
+    },
+    {
+      "featureName": "3 POINT ATTEMPTED PER GAME",
+      "impactNormalized": 0.7606963,
+      "impactUnnormalized": 0.0118763,
+      "redundantWith": null
+    },
+    {
+      "featureName": "BLOCKS PER GAME",
+      "impactNormalized": 0.7466716,
+      "impactUnnormalized": 0.0116574,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL BLOCKS",
+      "impactNormalized": 0.7377588,
+      "impactUnnormalized": 0.0115182,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL 3 POINT MADE",
+      "impactNormalized": 0.7357642,
+      "impactUnnormalized": 0.0114871,
+      "redundantWith": null
+    },
+    {
+      "featureName": "BLOCKS PER 36 MINUTES",
+      "impactNormalized": 0.734063,
+      "impactUnnormalized": 0.0114605,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL 3 POINT ATTEMPTED",
+      "impactNormalized": 0.7292954,
+      "impactUnnormalized": 0.0113861,
+      "redundantWith": null
+    },
+    {
+      "featureName": "ASSISTS PER GAME",
+      "impactNormalized": 0.7229515,
+      "impactUnnormalized": 0.011287,
+      "redundantWith": null
+    },
+    {
+      "featureName": "PERSONAL FOULS PER GAME",
+      "impactNormalized": 0.7191618,
+      "impactUnnormalized": 0.0112279,
+      "redundantWith": null
+    },
+    {
+      "featureName": "ASSISTS PER 36 MINUTES",
+      "impactNormalized": 0.7167972,
+      "impactUnnormalized": 0.011191,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL ASSISTS",
+      "impactNormalized": 0.7016878,
+      "impactUnnormalized": 0.0109551,
+      "redundantWith": null
+    },
+    {
+      "featureName": "FREE THROWS % PER 36 MINUTES",
+      "impactNormalized": 0.694024,
+      "impactUnnormalized": 0.0108354,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TURNOVERS PER 36 MINUTES",
+      "impactNormalized": 0.6917211,
+      "impactUnnormalized": 0.0107995,
+      "redundantWith": null
+    },
+    {
+      "featureName": "FIELD GOALS % PER 36 MINUTES",
+      "impactNormalized": 0.6826534,
+      "impactUnnormalized": 0.0106579,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL GAME STARTED",
+      "impactNormalized": 0.6806531,
+      "impactUnnormalized": 0.0106267,
+      "redundantWith": null
+    },
+    {
+      "featureName": "3 POINT % PER 36 MINUTES",
+      "impactNormalized": 0.6115787,
+      "impactUnnormalized": 0.0095482,
+      "redundantWith": null
+    },
+    {
+      "featureName": "PLAYER AGE",
+      "impactNormalized": 0.3676563,
+      "impactUnnormalized": 0.00574,
+      "redundantWith": null
+    }
+  ],
+  "clusterInsights": [
+    {
+      "featureName": "FREE THROWS MADE PER GAME",
+      "featureType": "numeric",
+      "statistic": 1.9637038,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FREE THROWS MADE PER GAME",
+      "featureType": "numeric",
+      "statistic": 3.848148,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FREE THROWS MADE PER GAME",
+      "featureType": "numeric",
+      "statistic": 3.4093924,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FREE THROWS ATTEMPTED PER GAME",
+      "featureType": "numeric",
+      "statistic": 2.7007408,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FREE THROWS ATTEMPTED PER GAME",
+      "featureType": "numeric",
+      "statistic": 4.8955555,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FREE THROWS ATTEMPTED PER GAME",
+      "featureType": "numeric",
+      "statistic": 4.9773483,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL FREE THROWS MADE",
+      "featureType": "numeric",
+      "statistic": 59.45926,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL FREE THROWS MADE",
+      "featureType": "numeric",
+      "statistic": 131.95186,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL FREE THROWS MADE",
+      "featureType": "numeric",
+      "statistic": 115.508286,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL FREE THROWS ATTEMPTED",
+      "featureType": "numeric",
+      "statistic": 81.92593,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL FREE THROWS ATTEMPTED",
+      "featureType": "numeric",
+      "statistic": 167.99629,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL FREE THROWS ATTEMPTED",
+      "featureType": "numeric",
+      "statistic": 168.51933,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL REBOUND",
+      "featureType": "numeric",
+      "statistic": 144.72592,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL REBOUND",
+      "featureType": "numeric",
+      "statistic": 174.08519,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL REBOUND",
+      "featureType": "numeric",
+      "statistic": 293.85083,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FREE THROWS MADE PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 2.7414815,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FREE THROWS MADE PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 4.137037,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FREE THROWS MADE PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 4.078453,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL DEFENSIVE REBOUND",
+      "featureType": "numeric",
+      "statistic": 104.3037,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL DEFENSIVE REBOUND",
+      "featureType": "numeric",
+      "statistic": 136.07037,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL DEFENSIVE REBOUND",
+      "featureType": "numeric",
+      "statistic": 201.31667,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "DEFENSIVE REBOUND PER GAME",
+      "featureType": "numeric",
+      "statistic": 3.4044445,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "DEFENSIVE REBOUND PER GAME",
+      "featureType": "numeric",
+      "statistic": 3.9640741,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "DEFENSIVE REBOUND PER GAME",
+      "featureType": "numeric",
+      "statistic": 5.9427776,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "REBOUND PER GAME",
+      "featureType": "numeric",
+      "statistic": 4.6977777,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "REBOUND PER GAME",
+      "featureType": "numeric",
+      "statistic": 5.067037,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "REBOUND PER GAME",
+      "featureType": "numeric",
+      "statistic": 8.681768,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL OFFENSIVE REBOUND",
+      "featureType": "numeric",
+      "statistic": 40.422222,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL OFFENSIVE REBOUND",
+      "featureType": "numeric",
+      "statistic": 38.014816,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL OFFENSIVE REBOUND",
+      "featureType": "numeric",
+      "statistic": 92.87222,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TURNOVERS PER GAME",
+      "featureType": "numeric",
+      "statistic": 1.5703704,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TURNOVERS PER GAME",
+      "featureType": "numeric",
+      "statistic": 2.3688889,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TURNOVERS PER GAME",
+      "featureType": "numeric",
+      "statistic": 2.1005526,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL FIELD GOALS MADE",
+      "featureType": "numeric",
+      "statistic": 111.35555,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL FIELD GOALS MADE",
+      "featureType": "numeric",
+      "statistic": 203.92592,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL FIELD GOALS MADE",
+      "featureType": "numeric",
+      "statistic": 185.87292,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL GAME PLAYED",
+      "featureType": "numeric",
+      "statistic": 31.622223,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL GAME PLAYED",
+      "featureType": "numeric",
+      "statistic": 34.54074,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL GAME PLAYED",
+      "featureType": "numeric",
+      "statistic": 33.928177,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FREE THROWS ATTEMPTED PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 3.8333333,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FREE THROWS ATTEMPTED PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 5.273333,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FREE THROWS ATTEMPTED PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 5.958011,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FIELD GOALS MADE PER GAME",
+      "featureType": "numeric",
+      "statistic": 3.6074073,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FIELD GOALS MADE PER GAME",
+      "featureType": "numeric",
+      "statistic": 5.941852,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FIELD GOALS MADE PER GAME",
+      "featureType": "numeric",
+      "statistic": 5.482873,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "POINTS PER GAME",
+      "featureType": "numeric",
+      "statistic": 10.122222,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "POINTS PER GAME",
+      "featureType": "numeric",
+      "statistic": 17.642221,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "POINTS PER GAME",
+      "featureType": "numeric",
+      "statistic": 14.78011,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL POINTS",
+      "featureType": "numeric",
+      "statistic": 311.96295,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL POINTS",
+      "featureType": "numeric",
+      "statistic": 605.6963,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL POINTS",
+      "featureType": "numeric",
+      "statistic": 501.0497,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FIELD GOALS MADE PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 5.0725927,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FIELD GOALS MADE PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 6.411111,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FIELD GOALS MADE PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 6.5574584,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "OFFENSIVE REBOUND PER GAME",
+      "featureType": "numeric",
+      "statistic": 1.3044444,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "OFFENSIVE REBOUND PER GAME",
+      "featureType": "numeric",
+      "statistic": 1.1059259,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "OFFENSIVE REBOUND PER GAME",
+      "featureType": "numeric",
+      "statistic": 2.7444444,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL TURNOVERS",
+      "featureType": "numeric",
+      "statistic": 48.274075,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL TURNOVERS",
+      "featureType": "numeric",
+      "statistic": 81.12592,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL TURNOVERS",
+      "featureType": "numeric",
+      "statistic": 71.00552,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL FIELD GOALS ATTEMPTED",
+      "featureType": "numeric",
+      "statistic": 237.67407,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL FIELD GOALS ATTEMPTED",
+      "featureType": "numeric",
+      "statistic": 448.74075,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL FIELD GOALS ATTEMPTED",
+      "featureType": "numeric",
+      "statistic": 345.64642,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "DEFENSIVE REBOUND PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 4.9014816,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "DEFENSIVE REBOUND PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 4.2814813,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "DEFENSIVE REBOUND PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 7.077778,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "REBOUND PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 6.842222,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "REBOUND PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 5.4911113,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "REBOUND PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 10.37569,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL STEALS",
+      "featureType": "numeric",
+      "statistic": 28.422222,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL STEALS",
+      "featureType": "numeric",
+      "statistic": 45.99259,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL STEALS",
+      "featureType": "numeric",
+      "statistic": 30.60221,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FIELD GOALS ATTEMPTED PER GAME",
+      "featureType": "numeric",
+      "statistic": 7.6896296,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FIELD GOALS ATTEMPTED PER GAME",
+      "featureType": "numeric",
+      "statistic": 13.073704,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FIELD GOALS ATTEMPTED PER GAME",
+      "featureType": "numeric",
+      "statistic": 10.187293,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "OFFENSIVE REBOUND PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 1.9422222,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "OFFENSIVE REBOUND PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 1.2051852,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "OFFENSIVE REBOUND PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 3.2844443,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "STEALS PER GAME",
+      "featureType": "numeric",
+      "statistic": 0.9222222,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "STEALS PER GAME",
+      "featureType": "numeric",
+      "statistic": 1.3362963,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "STEALS PER GAME",
+      "featureType": "numeric",
+      "statistic": 0.9016575,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "STEALS PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 1.2548147,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "STEALS PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 1.4433333,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "STEALS PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 1.0674033,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "POINTS PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 14.148149,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "POINTS PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 19.028519,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "POINTS PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 17.660774,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "3 POINT MADE PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 1.2577778,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "3 POINT MADE PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 2.0681481,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "3 POINT MADE PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 0.4779006,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL MINUTES",
+      "featureType": "numeric",
+      "statistic": 815.637,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL MINUTES",
+      "featureType": "numeric",
+      "statistic": 1149.1371,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL MINUTES",
+      "featureType": "numeric",
+      "statistic": 1026.1934,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FIELD GOALS ATTEMPTED PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 10.682963,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FIELD GOALS ATTEMPTED PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 14.106667,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FIELD GOALS ATTEMPTED PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 12.138674,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "3 POINT ATTEMPTED PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 3.4340742,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "3 POINT ATTEMPTED PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 5.494815,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "3 POINT ATTEMPTED PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 1.3867403,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL PERSONAL FOULS",
+      "featureType": "numeric",
+      "statistic": 66.44444,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL PERSONAL FOULS",
+      "featureType": "numeric",
+      "statistic": 72.35926,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL PERSONAL FOULS",
+      "featureType": "numeric",
+      "statistic": 85.36464,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "3 POINT MADE PER GAME",
+      "featureType": "numeric",
+      "statistic": 0.9474074,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "3 POINT MADE PER GAME",
+      "featureType": "numeric",
+      "statistic": 1.9177778,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "3 POINT MADE PER GAME",
+      "featureType": "numeric",
+      "statistic": 0.4088398,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "PERSONAL FOULS PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 3.145926,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "PERSONAL FOULS PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 2.2914815,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "PERSONAL FOULS PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 3.0447514,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "MINUTES PLAYED PERGAME",
+      "featureType": "numeric",
+      "statistic": 25.788149,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "MINUTES PLAYED PERGAME",
+      "featureType": "numeric",
+      "statistic": 33.36185,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "MINUTES PLAYED PERGAME",
+      "featureType": "numeric",
+      "statistic": 30.21326,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "3 POINT ATTEMPTED PER GAME",
+      "featureType": "numeric",
+      "statistic": 2.5851853,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "3 POINT ATTEMPTED PER GAME",
+      "featureType": "numeric",
+      "statistic": 5.0914817,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "3 POINT ATTEMPTED PER GAME",
+      "featureType": "numeric",
+      "statistic": 1.1900553,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "BLOCKS PER GAME",
+      "featureType": "numeric",
+      "statistic": 0.7266667,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "BLOCKS PER GAME",
+      "featureType": "numeric",
+      "statistic": 0.4251852,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "BLOCKS PER GAME",
+      "featureType": "numeric",
+      "statistic": 1.6922652,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL BLOCKS",
+      "featureType": "numeric",
+      "statistic": 22.266666,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL BLOCKS",
+      "featureType": "numeric",
+      "statistic": 14.407408,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL BLOCKS",
+      "featureType": "numeric",
+      "statistic": 56.629833,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL 3 POINT MADE",
+      "featureType": "numeric",
+      "statistic": 29.792593,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL 3 POINT MADE",
+      "featureType": "numeric",
+      "statistic": 65.91482,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL 3 POINT MADE",
+      "featureType": "numeric",
+      "statistic": 13.817679,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "BLOCKS PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 1.102963,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "BLOCKS PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 0.4622222,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "BLOCKS PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 2.0508287,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL 3 POINT ATTEMPTED",
+      "featureType": "numeric",
+      "statistic": 81.155556,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL 3 POINT ATTEMPTED",
+      "featureType": "numeric",
+      "statistic": 175.37407,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL 3 POINT ATTEMPTED",
+      "featureType": "numeric",
+      "statistic": 40.0663,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "ASSISTS PER GAME",
+      "featureType": "numeric",
+      "statistic": 1.9548148,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "ASSISTS PER GAME",
+      "featureType": "numeric",
+      "statistic": 3.478148,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "ASSISTS PER GAME",
+      "featureType": "numeric",
+      "statistic": 1.4961326,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "PERSONAL FOULS PER GAME",
+      "featureType": "numeric",
+      "statistic": 2.0977778,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "PERSONAL FOULS PER GAME",
+      "featureType": "numeric",
+      "statistic": 2.1096296,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "PERSONAL FOULS PER GAME",
+      "featureType": "numeric",
+      "statistic": 2.5220995,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "ASSISTS PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 2.514074,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "ASSISTS PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 3.7362964,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "ASSISTS PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 1.760221,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL ASSISTS",
+      "featureType": "numeric",
+      "statistic": 60.57037,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL ASSISTS",
+      "featureType": "numeric",
+      "statistic": 120.062965,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL ASSISTS",
+      "featureType": "numeric",
+      "statistic": 51.016575,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FREE THROWS % PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 0.7170741,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FREE THROWS % PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 0.7849,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FREE THROWS % PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 0.6818674,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TURNOVERS PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 2.228148,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TURNOVERS PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 2.557037,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TURNOVERS PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 2.5093923,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FIELD GOALS % PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 0.4814963,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FIELD GOALS % PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 0.4552296,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "FIELD GOALS % PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 0.5423425,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL GAME STARTED",
+      "featureType": "numeric",
+      "statistic": 23.837036,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL GAME STARTED",
+      "featureType": "numeric",
+      "statistic": 33.607407,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "TOTAL GAME STARTED",
+      "featureType": "numeric",
+      "statistic": 32.729282,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "3 POINT % PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 0.3365868,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "3 POINT % PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 0.3710815,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "3 POINT % PER 36 MINUTES",
+      "featureType": "numeric",
+      "statistic": 0.307,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "PLAYER AGE",
+      "featureType": "numeric",
+      "statistic": 20.48889,
+      "categoryLevel": null,
+      "clusterName": "Cluster 1",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "PLAYER AGE",
+      "featureType": "numeric",
+      "statistic": 21.051851,
+      "categoryLevel": null,
+      "clusterName": "Cluster 2",
+      "insightName": "avg"
+    },
+    {
+      "featureName": "PLAYER AGE",
+      "featureType": "numeric",
+      "statistic": 20.80663,
+      "categoryLevel": null,
+      "clusterName": "Cluster 3",
+      "insightName": "avg"
+    }
+  ],
+  "multiclassLiftChart": null,
+  "multiclassFeatureImpacts": null
+}

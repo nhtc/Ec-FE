@@ -1,0 +1,15 @@
+{
+  "userId": 36,
+  "awsId": "fe9be774-dd9f-4834-8be4-f3d32d0585b3",
+  "createdAt": "2023-07-26T20:26:50.315411",
+  "updatedAt": "2023-07-26T20:26:50.315444",
+  "organizationId": 1,
+  "firstName": "gold",
+  "lastName": "fish",
+  "email": "devs@goldfishcode.com",
+  "isActive": true,
+  "departmentId": 1,
+  "metabaseUserToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJkZXZzQGdvbGRmaXNoY29kZS5jb20iLCJpYXQiOiIxNjkwNDAzMjEwIiwiZXhwIjoxOTQyODY0MDEwfQ.08oE5qINQ2pxVt5U8KdlO0rV0D78QTqJeIWxXoZqxFk",
+  "metabaseSessionId": null,
+  "metabaseSessionExpiration": null
+}

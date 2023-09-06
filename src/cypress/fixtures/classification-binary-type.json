@@ -1,0 +1,8 @@
+{
+  "requestedModelType": "Binary",
+  "dataLabel": "LAST_AND_FIRST_NAME",
+  "listFeatures": [
+    "LAST_AND_FIRST_NAME"
+  ],
+  "target": "LONGEVITY"
+}

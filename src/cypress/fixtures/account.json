@@ -1,0 +1,8 @@
+{
+  "email": "devs@goldfishcode.com",
+  "password": "123456@aA",
+  "failEmailFormat": "test email fail format",
+  "wrongEmail": "test@test.com",
+  "wrongPassword": "test@password",
+  "emailForgotPassword": "devs+gemini@goldfishcode.com"
+}

@@ -1,0 +1,3442 @@
+{
+  "data": {
+    "rows": [
+      [
+        2014,
+        203947,
+        "Jordan",
+        "Bachynski",
+        "Jordan Bachynski",
+        "PF",
+        85.25,
+        "7' 1.25''",
+        86,
+        "7' 2''",
+        254.1,
+        88,
+        "7' 4''",
+        108.5,
+        "9' 0.5''",
+        7.45,
+        9.25,
+        10,
+        29,
+        33,
+        12.15,
+        3.03,
+        3.36,
+        null,
+        "0-5",
+        "3-5",
+        "3-5",
+        "5-5",
+        "4-5",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2-5",
+        "1-5",
+        "1-5",
+        "2-5",
+        "3-5",
+        "4-6",
+        "4-6",
+        "4-6",
+        null,
+        null,
+        null,
+        "19-30",
+        null,
+        "2022-09-13T14:59:10.045Z"
+      ],
+      [
+        2014,
+        203945,
+        "Alex",
+        "Kirk",
+        "Alex Kirk",
+        "PF",
+        81.25,
+        "6' 9.25''",
+        82.75,
+        "6' 10.75''",
+        252,
+        87.5,
+        "7' 3.5''",
+        109.5,
+        "9' 1.5''",
+        13.6,
+        9.25,
+        10.5,
+        28.5,
+        31.5,
+        11.2,
+        3.19,
+        3.48,
+        null,
+        "0-5",
+        "3-5",
+        "3-5",
+        "4-5",
+        "4-5",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "3-5",
+        "3-5",
+        "2-5",
+        "1-5",
+        "1-5",
+        "3-6",
+        "5-6",
+        "2-6",
+        null,
+        null,
+        null,
+        "27-40",
+        null,
+        "2022-09-13T14:59:10.045Z"
+      ]
+    ],
+    "cols": [
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "SEASON",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83305,
+          null
+        ],
+        "effective_type": "type/Number",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83305,
+        "visibility_type": "normal",
+        "display_name": "Season",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 23,
+            "nil%": 0
+          },
+          "type": {
+            "type/Number": {
+              "min": 2000,
+              "q1": 2004.5493827160494,
+              "q3": 2016.8740078740118,
+              "max": 2022,
+              "sd": 6.854784258190202,
+              "avg": 2010.6378865979382
+            }
+          }
+        },
+        "base_type": "type/Number"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "PLAYER_ID",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83292,
+          null
+        ],
+        "effective_type": "type/Number",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83292,
+        "visibility_type": "normal",
+        "display_name": "Player ID",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 1518,
+            "nil%": 0
+          },
+          "type": {
+            "type/Number": {
+              "min": -1,
+              "q1": 12180.224929057713,
+              "q3": 1628411.643395256,
+              "max": 1962937123,
+              "sd": 49816246.19173432,
+              "avg": 1878169.8079896907
+            }
+          }
+        },
+        "base_type": "type/Number"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Name",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "FIRST_NAME",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83309,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83309,
+        "visibility_type": "normal",
+        "display_name": "First Name",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 823,
+            "nil%": 0
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0.003221649484536082,
+              "average-length": 5.418170103092783
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Name",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "LAST_NAME",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83279,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83279,
+        "visibility_type": "normal",
+        "display_name": "Last Name",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 1061,
+            "nil%": 0
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0.002577319587628866,
+              "average-length": 6.521262886597938
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "PLAYER_NAME",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83294,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83294,
+        "visibility_type": "normal",
+        "display_name": "Player Name",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 1516,
+            "nil%": 0
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 12.939432989690722
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "POSITION",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83283,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83283,
+        "visibility_type": "normal",
+        "display_name": "Position",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 14,
+            "nil%": 0
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 2.801546391752577
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "HEIGHT_WO_SHOES",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83287,
+          null
+        ],
+        "effective_type": "type/Float",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83287,
+        "visibility_type": "normal",
+        "display_name": "Height Wo Shoes",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 75,
+            "nil%": 0.02835051546391753
+          },
+          "type": {
+            "type/Number": {
+              "min": 67.75,
+              "q1": 75.26289662285221,
+              "q3": 80.13649923868523,
+              "max": 89.25,
+              "sd": 3.381954505845067,
+              "avg": 77.58368700265252
+            }
+          }
+        },
+        "base_type": "type/Float"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "HEIGHT_WO_SHOES_FT_IN",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83293,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83293,
+        "visibility_type": "normal",
+        "display_name": "Height Wo Shoes Ft In",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 145,
+            "nil%": 0.02835051546391753
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 7.831185567010309
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "HEIGHT_W_SHOES",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83275,
+          null
+        ],
+        "effective_type": "type/Float",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83275,
+        "visibility_type": "normal",
+        "display_name": "Height W Shoes",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 86,
+            "nil%": 0.2235824742268041
+          },
+          "type": {
+            "type/Number": {
+              "min": 69,
+              "q1": 76.53708546108125,
+              "q3": 81.20325415124228,
+              "max": 91,
+              "sd": 3.300732004639254,
+              "avg": 78.78896265560168
+            }
+          }
+        },
+        "base_type": "type/Float"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "HEIGHT_W_SHOES_FT_IN",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83286,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83286,
+        "visibility_type": "normal",
+        "display_name": "Height W Shoes Ft In",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 146,
+            "nil%": 0.2235824742268041
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 6.318943298969073
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "WEIGHT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83274,
+          null
+        ],
+        "effective_type": "type/Float",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83274,
+        "visibility_type": "normal",
+        "display_name": "Weight",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 496,
+            "nil%": 0.02963917525773196
+          },
+          "type": {
+            "type/Number": {
+              "min": 149.2,
+              "q1": 196.13865465246104,
+              "q3": 233.62726473300364,
+              "max": 334,
+              "sd": 26.38842825574467,
+              "avg": 215.4886454183267
+            }
+          }
+        },
+        "base_type": "type/Float"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "WINGSPAN",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83300,
+          null
+        ],
+        "effective_type": "type/Float",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83300,
+        "visibility_type": "normal",
+        "display_name": "Wingspan",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 91,
+            "nil%": 0.02770618556701031
+          },
+          "type": {
+            "type/Number": {
+              "min": 70,
+              "q1": 79.73253774001681,
+              "q3": 85.3125,
+              "max": 98.25,
+              "sd": 4.030444168120048,
+              "avg": 82.40115970841617
+            }
+          }
+        },
+        "base_type": "type/Float"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "WINGSPAN_FT_IN",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83308,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83308,
+        "visibility_type": "normal",
+        "display_name": "Wingspan Ft In",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 159,
+            "nil%": 0.02770618556701031
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 7.65979381443299
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "STANDING_REACH",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83277,
+          null
+        ],
+        "effective_type": "type/Float",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83277,
+        "visibility_type": "normal",
+        "display_name": "Standing Reach",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 63,
+            "nil%": 0.02899484536082474
+          },
+          "type": {
+            "type/Number": {
+              "min": 88.5,
+              "q1": 99.98511904761905,
+              "q3": 107.16319504705159,
+              "max": 122.5,
+              "sd": 4.917446508684964,
+              "avg": 103.49147312541473
+            }
+          }
+        },
+        "base_type": "type/Float"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "STANDING_REACH_FT_IN",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83278,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83278,
+        "visibility_type": "normal",
+        "display_name": "Standing Reach Ft In",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 145,
+            "nil%": 0.02899484536082474
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 7.079896907216495
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "BODY_FAT_PCT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83315,
+          null
+        ],
+        "effective_type": "type/Float",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83315,
+        "visibility_type": "normal",
+        "display_name": "Body Fat Pct",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 202,
+            "nil%": 0.1778350515463918
+          },
+          "type": {
+            "type/Number": {
+              "min": 2.6,
+              "q1": 5.440477530981768,
+              "q3": 8.824638048282603,
+              "max": 23.1,
+              "sd": 2.9325116267620523,
+              "avg": 7.529169278996864
+            }
+          }
+        },
+        "base_type": "type/Float"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "HAND_LENGTH",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83291,
+          null
+        ],
+        "effective_type": "type/Float",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83291,
+        "visibility_type": "normal",
+        "display_name": "Hand Length",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 14,
+            "nil%": 0.5025773195876289
+          },
+          "type": {
+            "type/Number": {
+              "min": 7.5,
+              "q1": 8.398527108518085,
+              "q3": 9.045881418357364,
+              "max": 10.5,
+              "sd": 0.4716768263128989,
+              "avg": 8.723769430051814
+            }
+          }
+        },
+        "base_type": "type/Float"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "HAND_WIDTH",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83301,
+          null
+        ],
+        "effective_type": "type/Float",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83301,
+        "visibility_type": "normal",
+        "display_name": "Hand Width",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 22,
+            "nil%": 0.5025773195876289
+          },
+          "type": {
+            "type/Number": {
+              "min": 7,
+              "q1": 8.94030432121383,
+              "q3": 9.892451272494133,
+              "max": 12,
+              "sd": 0.7043351109348888,
+              "avg": 9.41839378238342
+            }
+          }
+        },
+        "base_type": "type/Float"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "STANDING_VERTICAL_LEAP",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83269,
+          null
+        ],
+        "effective_type": "type/Float",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83269,
+        "visibility_type": "normal",
+        "display_name": "Standing Vertical Leap",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 42,
+            "nil%": 0.1372422680412371
+          },
+          "type": {
+            "type/Number": {
+              "min": 19.5,
+              "q1": 27.066642788871714,
+              "q3": 31.364370834840727,
+              "max": 41.5,
+              "sd": 3.1163648666702737,
+              "avg": 29.215646004480956
+            }
+          }
+        },
+        "base_type": "type/Float"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "MAX_VERTICAL_LEAP",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83304,
+          null
+        ],
+        "effective_type": "type/Float",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83304,
+        "visibility_type": "normal",
+        "display_name": "Max Vertical Leap",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 45,
+            "nil%": 0.1372422680412371
+          },
+          "type": {
+            "type/Number": {
+              "min": 21,
+              "q1": 31.871832721811163,
+              "q3": 37.02645250708055,
+              "max": 48,
+              "sd": 3.728556554474227,
+              "avg": 34.4772218073189
+            }
+          }
+        },
+        "base_type": "type/Float"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "LANE_AGILITY_TIME",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83297,
+          null
+        ],
+        "effective_type": "type/Float",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83297,
+        "visibility_type": "normal",
+        "display_name": "Lane Agility Time",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 270,
+            "nil%": 0.1430412371134021
+          },
+          "type": {
+            "type/Number": {
+              "min": 9.65,
+              "q1": 10.998085106382975,
+              "q3": 11.761322313983998,
+              "max": 14.45,
+              "sd": 0.6017494437543786,
+              "avg": 11.424195488721804
+            }
+          }
+        },
+        "base_type": "type/Float"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "MODIFIED_LANE_AGILITY_TIME",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83284,
+          null
+        ],
+        "effective_type": "type/Float",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83284,
+        "visibility_type": "normal",
+        "display_name": "Modified Lane Agility Time",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 110,
+            "nil%": 0.6842783505154639
+          },
+          "type": {
+            "type/Number": {
+              "min": 2.22,
+              "q1": 2.976356828114975,
+              "q3": 3.2207416771935753,
+              "max": 3.76,
+              "sd": 0.22164434440851466,
+              "avg": 3.083775510204081
+            }
+          }
+        },
+        "base_type": "type/Float"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "THREE_QUARTER_SPRINT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83270,
+          null
+        ],
+        "effective_type": "type/Float",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83270,
+        "visibility_type": "normal",
+        "display_name": "Three Quarter Sprint",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 81,
+            "nil%": 0.1430412371134021
+          },
+          "type": {
+            "type/Number": {
+              "min": 2.91,
+              "q1": 3.1888435548586442,
+              "q3": 3.362163735324878,
+              "max": 3.81,
+              "sd": 0.1350190050055301,
+              "avg": 3.2800676691729316
+            }
+          }
+        },
+        "base_type": "type/Float"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "BENCH_PRESS",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83307,
+          null
+        ],
+        "effective_type": "type/Float",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83307,
+        "visibility_type": "normal",
+        "display_name": "Bench Press",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 29,
+            "nil%": 0.2944587628865979
+          },
+          "type": {
+            "type/Number": {
+              "min": 0,
+              "q1": 6.402677931132576,
+              "q3": 14.138755886903796,
+              "max": 27,
+              "sd": 5.541428695457876,
+              "avg": 10.314155251141553
+            }
+          }
+        },
+        "base_type": "type/Float"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "SPOT_FIFTEEN_CORNER_LEFT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83282,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83282,
+        "visibility_type": "normal",
+        "display_name": "Spot Fifteen Corner Left",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 9,
+            "nil%": 0.9329896907216495
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.20103092783505155
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "SPOT_FIFTEEN_BREAK_LEFT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83285,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83285,
+        "visibility_type": "normal",
+        "display_name": "Spot Fifteen Break Left",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 6,
+            "nil%": 0.9317010309278351
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.20489690721649484
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "SPOT_FIFTEEN_TOP_KEY",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83295,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83295,
+        "visibility_type": "normal",
+        "display_name": "Spot Fifteen Top Key",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 6,
+            "nil%": 0.9317010309278351
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.20489690721649484
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "SPOT_FIFTEEN_BREAK_RIGHT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83298,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83298,
+        "visibility_type": "normal",
+        "display_name": "Spot Fifteen Break Right",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 7,
+            "nil%": 0.9317010309278351
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.20489690721649484
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "SPOT_FIFTEEN_CORNER_RIGHT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83289,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83289,
+        "visibility_type": "normal",
+        "display_name": "Spot Fifteen Corner Right",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 7,
+            "nil%": 0.9317010309278351
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.20489690721649484
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "SPOT_COLLEGE_CORNER_LEFT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83312,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83312,
+        "visibility_type": "normal",
+        "display_name": "Spot College Corner Left",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 26,
+            "nil%": 0.8395618556701031
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.5740979381443299
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "SPOT_COLLEGE_BREAK_LEFT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83276,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83276,
+        "visibility_type": "normal",
+        "display_name": "Spot College Break Left",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 9,
+            "nil%": 0.889819587628866
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.33054123711340205
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "SPOT_COLLEGE_TOP_KEY",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83272,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83272,
+        "visibility_type": "normal",
+        "display_name": "Spot College Top Key",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 9,
+            "nil%": 0.889819587628866
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.33054123711340205
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "SPOT_COLLEGE_BREAK_RIGHT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83299,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83299,
+        "visibility_type": "normal",
+        "display_name": "Spot College Break Right",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 7,
+            "nil%": 0.889819587628866
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.33054123711340205
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "SPOT_COLLEGE_CORNER_RIGHT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83303,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83303,
+        "visibility_type": "normal",
+        "display_name": "Spot College Corner Right",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 7,
+            "nil%": 0.889819587628866
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.33054123711340205
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "SPOT_NBA_CORNER_LEFT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83268,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83268,
+        "visibility_type": "normal",
+        "display_name": "Spot Nba Corner Left",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 10,
+            "nil%": 0.8376288659793814
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.48711340206185566
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "SPOT_NBA_BREAK_LEFT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83311,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83311,
+        "visibility_type": "normal",
+        "display_name": "Spot Nba Break Left",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 9,
+            "nil%": 0.8376288659793814
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.48711340206185566
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "SPOT_NBA_TOP_KEY",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83280,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83280,
+        "visibility_type": "normal",
+        "display_name": "Spot Nba Top Key",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 8,
+            "nil%": 0.8376288659793814
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.48711340206185566
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "SPOT_NBA_BREAK_RIGHT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83290,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83290,
+        "visibility_type": "normal",
+        "display_name": "Spot Nba Break Right",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 8,
+            "nil%": 0.8376288659793814
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.48711340206185566
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "SPOT_NBA_CORNER_RIGHT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83296,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83296,
+        "visibility_type": "normal",
+        "display_name": "Spot Nba Corner Right",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 7,
+            "nil%": 0.8376288659793814
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.48711340206185566
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "OFF_DRIB_FIFTEEN_BREAK_LEFT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83313,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83313,
+        "visibility_type": "normal",
+        "display_name": "Off Drib Fifteen Break Left",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 23,
+            "nil%": 0.8704896907216495
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.38853092783505155
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "OFF_DRIB_FIFTEEN_TOP_KEY",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83302,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83302,
+        "visibility_type": "normal",
+        "display_name": "Off Drib Fifteen Top Key",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 19,
+            "nil%": 0.8704896907216495
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.38853092783505155
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "OFF_DRIB_FIFTEEN_BREAK_RIGHT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83288,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83288,
+        "visibility_type": "normal",
+        "display_name": "Off Drib Fifteen Break Right",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 21,
+            "nil%": 0.8704896907216495
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.38917525773195877
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "OFF_DRIB_COLLEGE_BREAK_LEFT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83306,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83306,
+        "visibility_type": "normal",
+        "display_name": "Off Drib College Break Left",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 29,
+            "nil%": 0.9310567010309277
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.30476804123711343
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "OFF_DRIB_COLLEGE_TOP_KEY",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83271,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83271,
+        "visibility_type": "normal",
+        "display_name": "Off Drib College Top Key",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 14,
+            "nil%": 0.9800257731958762
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.059922680412371136
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": "type/Category",
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "OFF_DRIB_COLLEGE_BREAK_RIGHT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83281,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83281,
+        "visibility_type": "normal",
+        "display_name": "Off Drib College Break Right",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 13,
+            "nil%": 0.9800257731958762
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.059922680412371136
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "ON_MOVE_FIFTEEN",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83273,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83273,
+        "visibility_type": "normal",
+        "display_name": "On Move Fifteen",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 123,
+            "nil%": 0.8814432989690723
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.5747422680412371
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "name": "ON_MOVE_COLLEGE",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83310,
+          null
+        ],
+        "effective_type": "type/Text",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83310,
+        "visibility_type": "normal",
+        "display_name": "On Move College",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 57,
+            "nil%": 0.9194587628865979
+          },
+          "type": {
+            "type/Text": {
+              "percent-json": 0,
+              "percent-url": 0,
+              "percent-email": 0,
+              "percent-state": 0,
+              "average-length": 0.3859536082474227
+            }
+          }
+        },
+        "base_type": "type/Text"
+      },
+      {
+        "description": null,
+        "semantic_type": null,
+        "table_id": 2802,
+        "coercion_strategy": null,
+        "unit": "default",
+        "name": "GENERATED_AT",
+        "settings": null,
+        "source": "fields",
+        "field_ref": [
+          "field",
+          83314,
+          {
+            "temporal-unit": "default"
+          }
+        ],
+        "effective_type": "type/DateTime",
+        "nfc_path": null,
+        "parent_id": null,
+        "id": 83314,
+        "visibility_type": "normal",
+        "display_name": "Generated At",
+        "fingerprint": {
+          "global": {
+            "distinct-count": 3,
+            "nil%": 0
+          },
+          "type": {
+            "type/DateTime": {
+              "earliest": "2022-09-13T14:59:10.045Z",
+              "latest": "2022-09-13T18:31:57.044Z"
+            }
+          }
+        },
+        "base_type": "type/DateTime"
+      }
+    ],
+    "download_perms": "full",
+    "native_form": {
+      "query": "SELECT \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"SEASON\" AS \"SEASON\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"PLAYER_ID\" AS \"PLAYER_ID\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"FIRST_NAME\" AS \"FIRST_NAME\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"LAST_NAME\" AS \"LAST_NAME\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"PLAYER_NAME\" AS \"PLAYER_NAME\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"POSITION\" AS \"POSITION\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"HEIGHT_WO_SHOES\" AS \"HEIGHT_WO_SHOES\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"HEIGHT_WO_SHOES_FT_IN\" AS \"HEIGHT_WO_SHOES_FT_IN\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"HEIGHT_W_SHOES\" AS \"HEIGHT_W_SHOES\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"HEIGHT_W_SHOES_FT_IN\" AS \"HEIGHT_W_SHOES_FT_IN\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"WEIGHT\" AS \"WEIGHT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"WINGSPAN\" AS \"WINGSPAN\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"WINGSPAN_FT_IN\" AS \"WINGSPAN_FT_IN\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"STANDING_REACH\" AS \"STANDING_REACH\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"STANDING_REACH_FT_IN\" AS \"STANDING_REACH_FT_IN\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"BODY_FAT_PCT\" AS \"BODY_FAT_PCT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"HAND_LENGTH\" AS \"HAND_LENGTH\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"HAND_WIDTH\" AS \"HAND_WIDTH\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"STANDING_VERTICAL_LEAP\" AS \"STANDING_VERTICAL_LEAP\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"MAX_VERTICAL_LEAP\" AS \"MAX_VERTICAL_LEAP\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"LANE_AGILITY_TIME\" AS \"LANE_AGILITY_TIME\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"MODIFIED_LANE_AGILITY_TIME\" AS \"MODIFIED_LANE_AGILITY_TIME\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"THREE_QUARTER_SPRINT\" AS \"THREE_QUARTER_SPRINT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"BENCH_PRESS\" AS \"BENCH_PRESS\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"SPOT_FIFTEEN_CORNER_LEFT\" AS \"SPOT_FIFTEEN_CORNER_LEFT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"SPOT_FIFTEEN_BREAK_LEFT\" AS \"SPOT_FIFTEEN_BREAK_LEFT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"SPOT_FIFTEEN_TOP_KEY\" AS \"SPOT_FIFTEEN_TOP_KEY\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"SPOT_FIFTEEN_BREAK_RIGHT\" AS \"SPOT_FIFTEEN_BREAK_RIGHT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"SPOT_FIFTEEN_CORNER_RIGHT\" AS \"SPOT_FIFTEEN_CORNER_RIGHT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"SPOT_COLLEGE_CORNER_LEFT\" AS \"SPOT_COLLEGE_CORNER_LEFT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"SPOT_COLLEGE_BREAK_LEFT\" AS \"SPOT_COLLEGE_BREAK_LEFT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"SPOT_COLLEGE_TOP_KEY\" AS \"SPOT_COLLEGE_TOP_KEY\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"SPOT_COLLEGE_BREAK_RIGHT\" AS \"SPOT_COLLEGE_BREAK_RIGHT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"SPOT_COLLEGE_CORNER_RIGHT\" AS \"SPOT_COLLEGE_CORNER_RIGHT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"SPOT_NBA_CORNER_LEFT\" AS \"SPOT_NBA_CORNER_LEFT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"SPOT_NBA_BREAK_LEFT\" AS \"SPOT_NBA_BREAK_LEFT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"SPOT_NBA_TOP_KEY\" AS \"SPOT_NBA_TOP_KEY\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"SPOT_NBA_BREAK_RIGHT\" AS \"SPOT_NBA_BREAK_RIGHT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"SPOT_NBA_CORNER_RIGHT\" AS \"SPOT_NBA_CORNER_RIGHT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"OFF_DRIB_FIFTEEN_BREAK_LEFT\" AS \"OFF_DRIB_FIFTEEN_BREAK_LEFT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"OFF_DRIB_FIFTEEN_TOP_KEY\" AS \"OFF_DRIB_FIFTEEN_TOP_KEY\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"OFF_DRIB_FIFTEEN_BREAK_RIGHT\" AS \"OFF_DRIB_FIFTEEN_BREAK_RIGHT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"OFF_DRIB_COLLEGE_BREAK_LEFT\" AS \"OFF_DRIB_COLLEGE_BREAK_LEFT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"OFF_DRIB_COLLEGE_TOP_KEY\" AS \"OFF_DRIB_COLLEGE_TOP_KEY\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"OFF_DRIB_COLLEGE_BREAK_RIGHT\" AS \"OFF_DRIB_COLLEGE_BREAK_RIGHT\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"ON_MOVE_FIFTEEN\" AS \"ON_MOVE_FIFTEEN\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"ON_MOVE_COLLEGE\" AS \"ON_MOVE_COLLEGE\", \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"GENERATED_AT\" AS \"GENERATED_AT\" FROM \"GEMINI_CLEAN\".\"NBA\".\"NBA_DRAFT_COMBINE_STATS\" WHERE \"NBA\".\"NBA_DRAFT_COMBINE_STATS\".\"SPOT_FIFTEEN_CORNER_LEFT\" = '0-5' LIMIT 2000",
+      "params": null
+    },
+    "results_timezone": "GMT",
+    "results_metadata": {
+      "columns": [
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "SEASON",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83305,
+            null
+          ],
+          "effective_type": "type/Number",
+          "id": 83305,
+          "visibility_type": "normal",
+          "display_name": "Season",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 23,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 2000,
+                "q1": 2004.5493827160494,
+                "q3": 2016.8740078740118,
+                "max": 2022,
+                "sd": 6.854784258190202,
+                "avg": 2010.6378865979382
+              }
+            }
+          },
+          "base_type": "type/Number"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "PLAYER_ID",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83292,
+            null
+          ],
+          "effective_type": "type/Number",
+          "id": 83292,
+          "visibility_type": "normal",
+          "display_name": "Player ID",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 1518,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": -1,
+                "q1": 12180.224929057713,
+                "q3": 1628411.643395256,
+                "max": 1962937123,
+                "sd": 49816246.19173432,
+                "avg": 1878169.8079896907
+              }
+            }
+          },
+          "base_type": "type/Number"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Name",
+          "coercion_strategy": null,
+          "name": "FIRST_NAME",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83309,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83309,
+          "visibility_type": "normal",
+          "display_name": "First Name",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 823,
+              "nil%": 0
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0.003221649484536082,
+                "average-length": 5.418170103092783
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Name",
+          "coercion_strategy": null,
+          "name": "LAST_NAME",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83279,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83279,
+          "visibility_type": "normal",
+          "display_name": "Last Name",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 1061,
+              "nil%": 0
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0.002577319587628866,
+                "average-length": 6.521262886597938
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "PLAYER_NAME",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83294,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83294,
+          "visibility_type": "normal",
+          "display_name": "Player Name",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 1516,
+              "nil%": 0
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 12.939432989690722
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "POSITION",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83283,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83283,
+          "visibility_type": "normal",
+          "display_name": "Position",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 14,
+              "nil%": 0
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 2.801546391752577
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "HEIGHT_WO_SHOES",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83287,
+            null
+          ],
+          "effective_type": "type/Float",
+          "id": 83287,
+          "visibility_type": "normal",
+          "display_name": "Height Wo Shoes",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 75,
+              "nil%": 0.02835051546391753
+            },
+            "type": {
+              "type/Number": {
+                "min": 67.75,
+                "q1": 75.26289662285221,
+                "q3": 80.13649923868523,
+                "max": 89.25,
+                "sd": 3.381954505845067,
+                "avg": 77.58368700265252
+              }
+            }
+          },
+          "base_type": "type/Float"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "HEIGHT_WO_SHOES_FT_IN",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83293,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83293,
+          "visibility_type": "normal",
+          "display_name": "Height Wo Shoes Ft In",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 145,
+              "nil%": 0.02835051546391753
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 7.831185567010309
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "HEIGHT_W_SHOES",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83275,
+            null
+          ],
+          "effective_type": "type/Float",
+          "id": 83275,
+          "visibility_type": "normal",
+          "display_name": "Height W Shoes",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 86,
+              "nil%": 0.2235824742268041
+            },
+            "type": {
+              "type/Number": {
+                "min": 69,
+                "q1": 76.53708546108125,
+                "q3": 81.20325415124228,
+                "max": 91,
+                "sd": 3.300732004639254,
+                "avg": 78.78896265560168
+              }
+            }
+          },
+          "base_type": "type/Float"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "HEIGHT_W_SHOES_FT_IN",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83286,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83286,
+          "visibility_type": "normal",
+          "display_name": "Height W Shoes Ft In",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 146,
+              "nil%": 0.2235824742268041
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 6.318943298969073
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "WEIGHT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83274,
+            null
+          ],
+          "effective_type": "type/Float",
+          "id": 83274,
+          "visibility_type": "normal",
+          "display_name": "Weight",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 496,
+              "nil%": 0.02963917525773196
+            },
+            "type": {
+              "type/Number": {
+                "min": 149.2,
+                "q1": 196.13865465246104,
+                "q3": 233.62726473300364,
+                "max": 334,
+                "sd": 26.38842825574467,
+                "avg": 215.4886454183267
+              }
+            }
+          },
+          "base_type": "type/Float"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "WINGSPAN",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83300,
+            null
+          ],
+          "effective_type": "type/Float",
+          "id": 83300,
+          "visibility_type": "normal",
+          "display_name": "Wingspan",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 91,
+              "nil%": 0.02770618556701031
+            },
+            "type": {
+              "type/Number": {
+                "min": 70,
+                "q1": 79.73253774001681,
+                "q3": 85.3125,
+                "max": 98.25,
+                "sd": 4.030444168120048,
+                "avg": 82.40115970841617
+              }
+            }
+          },
+          "base_type": "type/Float"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "WINGSPAN_FT_IN",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83308,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83308,
+          "visibility_type": "normal",
+          "display_name": "Wingspan Ft In",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 159,
+              "nil%": 0.02770618556701031
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 7.65979381443299
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "STANDING_REACH",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83277,
+            null
+          ],
+          "effective_type": "type/Float",
+          "id": 83277,
+          "visibility_type": "normal",
+          "display_name": "Standing Reach",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 63,
+              "nil%": 0.02899484536082474
+            },
+            "type": {
+              "type/Number": {
+                "min": 88.5,
+                "q1": 99.98511904761905,
+                "q3": 107.16319504705159,
+                "max": 122.5,
+                "sd": 4.917446508684964,
+                "avg": 103.49147312541473
+              }
+            }
+          },
+          "base_type": "type/Float"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "STANDING_REACH_FT_IN",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83278,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83278,
+          "visibility_type": "normal",
+          "display_name": "Standing Reach Ft In",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 145,
+              "nil%": 0.02899484536082474
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 7.079896907216495
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "BODY_FAT_PCT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83315,
+            null
+          ],
+          "effective_type": "type/Float",
+          "id": 83315,
+          "visibility_type": "normal",
+          "display_name": "Body Fat Pct",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 202,
+              "nil%": 0.1778350515463918
+            },
+            "type": {
+              "type/Number": {
+                "min": 2.6,
+                "q1": 5.440477530981768,
+                "q3": 8.824638048282603,
+                "max": 23.1,
+                "sd": 2.9325116267620523,
+                "avg": 7.529169278996864
+              }
+            }
+          },
+          "base_type": "type/Float"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "HAND_LENGTH",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83291,
+            null
+          ],
+          "effective_type": "type/Float",
+          "id": 83291,
+          "visibility_type": "normal",
+          "display_name": "Hand Length",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 14,
+              "nil%": 0.5025773195876289
+            },
+            "type": {
+              "type/Number": {
+                "min": 7.5,
+                "q1": 8.398527108518085,
+                "q3": 9.045881418357364,
+                "max": 10.5,
+                "sd": 0.4716768263128989,
+                "avg": 8.723769430051814
+              }
+            }
+          },
+          "base_type": "type/Float"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "HAND_WIDTH",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83301,
+            null
+          ],
+          "effective_type": "type/Float",
+          "id": 83301,
+          "visibility_type": "normal",
+          "display_name": "Hand Width",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 22,
+              "nil%": 0.5025773195876289
+            },
+            "type": {
+              "type/Number": {
+                "min": 7,
+                "q1": 8.94030432121383,
+                "q3": 9.892451272494133,
+                "max": 12,
+                "sd": 0.7043351109348888,
+                "avg": 9.41839378238342
+              }
+            }
+          },
+          "base_type": "type/Float"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "STANDING_VERTICAL_LEAP",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83269,
+            null
+          ],
+          "effective_type": "type/Float",
+          "id": 83269,
+          "visibility_type": "normal",
+          "display_name": "Standing Vertical Leap",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 42,
+              "nil%": 0.1372422680412371
+            },
+            "type": {
+              "type/Number": {
+                "min": 19.5,
+                "q1": 27.066642788871714,
+                "q3": 31.364370834840727,
+                "max": 41.5,
+                "sd": 3.1163648666702737,
+                "avg": 29.215646004480956
+              }
+            }
+          },
+          "base_type": "type/Float"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "MAX_VERTICAL_LEAP",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83304,
+            null
+          ],
+          "effective_type": "type/Float",
+          "id": 83304,
+          "visibility_type": "normal",
+          "display_name": "Max Vertical Leap",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 45,
+              "nil%": 0.1372422680412371
+            },
+            "type": {
+              "type/Number": {
+                "min": 21,
+                "q1": 31.871832721811163,
+                "q3": 37.02645250708055,
+                "max": 48,
+                "sd": 3.728556554474227,
+                "avg": 34.4772218073189
+              }
+            }
+          },
+          "base_type": "type/Float"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "LANE_AGILITY_TIME",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83297,
+            null
+          ],
+          "effective_type": "type/Float",
+          "id": 83297,
+          "visibility_type": "normal",
+          "display_name": "Lane Agility Time",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 270,
+              "nil%": 0.1430412371134021
+            },
+            "type": {
+              "type/Number": {
+                "min": 9.65,
+                "q1": 10.998085106382975,
+                "q3": 11.761322313983998,
+                "max": 14.45,
+                "sd": 0.6017494437543786,
+                "avg": 11.424195488721804
+              }
+            }
+          },
+          "base_type": "type/Float"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "MODIFIED_LANE_AGILITY_TIME",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83284,
+            null
+          ],
+          "effective_type": "type/Float",
+          "id": 83284,
+          "visibility_type": "normal",
+          "display_name": "Modified Lane Agility Time",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 110,
+              "nil%": 0.6842783505154639
+            },
+            "type": {
+              "type/Number": {
+                "min": 2.22,
+                "q1": 2.976356828114975,
+                "q3": 3.2207416771935753,
+                "max": 3.76,
+                "sd": 0.22164434440851466,
+                "avg": 3.083775510204081
+              }
+            }
+          },
+          "base_type": "type/Float"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "THREE_QUARTER_SPRINT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83270,
+            null
+          ],
+          "effective_type": "type/Float",
+          "id": 83270,
+          "visibility_type": "normal",
+          "display_name": "Three Quarter Sprint",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 81,
+              "nil%": 0.1430412371134021
+            },
+            "type": {
+              "type/Number": {
+                "min": 2.91,
+                "q1": 3.1888435548586442,
+                "q3": 3.362163735324878,
+                "max": 3.81,
+                "sd": 0.1350190050055301,
+                "avg": 3.2800676691729316
+              }
+            }
+          },
+          "base_type": "type/Float"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "BENCH_PRESS",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83307,
+            null
+          ],
+          "effective_type": "type/Float",
+          "id": 83307,
+          "visibility_type": "normal",
+          "display_name": "Bench Press",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 29,
+              "nil%": 0.2944587628865979
+            },
+            "type": {
+              "type/Number": {
+                "min": 0,
+                "q1": 6.402677931132576,
+                "q3": 14.138755886903796,
+                "max": 27,
+                "sd": 5.541428695457876,
+                "avg": 10.314155251141553
+              }
+            }
+          },
+          "base_type": "type/Float"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "SPOT_FIFTEEN_CORNER_LEFT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83282,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83282,
+          "visibility_type": "normal",
+          "display_name": "Spot Fifteen Corner Left",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 9,
+              "nil%": 0.9329896907216495
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.20103092783505155
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "SPOT_FIFTEEN_BREAK_LEFT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83285,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83285,
+          "visibility_type": "normal",
+          "display_name": "Spot Fifteen Break Left",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 6,
+              "nil%": 0.9317010309278351
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.20489690721649484
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "SPOT_FIFTEEN_TOP_KEY",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83295,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83295,
+          "visibility_type": "normal",
+          "display_name": "Spot Fifteen Top Key",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 6,
+              "nil%": 0.9317010309278351
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.20489690721649484
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "SPOT_FIFTEEN_BREAK_RIGHT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83298,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83298,
+          "visibility_type": "normal",
+          "display_name": "Spot Fifteen Break Right",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 7,
+              "nil%": 0.9317010309278351
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.20489690721649484
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "SPOT_FIFTEEN_CORNER_RIGHT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83289,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83289,
+          "visibility_type": "normal",
+          "display_name": "Spot Fifteen Corner Right",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 7,
+              "nil%": 0.9317010309278351
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.20489690721649484
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "SPOT_COLLEGE_CORNER_LEFT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83312,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83312,
+          "visibility_type": "normal",
+          "display_name": "Spot College Corner Left",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 26,
+              "nil%": 0.8395618556701031
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.5740979381443299
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "SPOT_COLLEGE_BREAK_LEFT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83276,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83276,
+          "visibility_type": "normal",
+          "display_name": "Spot College Break Left",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 9,
+              "nil%": 0.889819587628866
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.33054123711340205
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "SPOT_COLLEGE_TOP_KEY",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83272,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83272,
+          "visibility_type": "normal",
+          "display_name": "Spot College Top Key",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 9,
+              "nil%": 0.889819587628866
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.33054123711340205
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "SPOT_COLLEGE_BREAK_RIGHT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83299,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83299,
+          "visibility_type": "normal",
+          "display_name": "Spot College Break Right",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 7,
+              "nil%": 0.889819587628866
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.33054123711340205
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "SPOT_COLLEGE_CORNER_RIGHT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83303,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83303,
+          "visibility_type": "normal",
+          "display_name": "Spot College Corner Right",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 7,
+              "nil%": 0.889819587628866
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.33054123711340205
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "SPOT_NBA_CORNER_LEFT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83268,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83268,
+          "visibility_type": "normal",
+          "display_name": "Spot Nba Corner Left",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 10,
+              "nil%": 0.8376288659793814
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.48711340206185566
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "SPOT_NBA_BREAK_LEFT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83311,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83311,
+          "visibility_type": "normal",
+          "display_name": "Spot Nba Break Left",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 9,
+              "nil%": 0.8376288659793814
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.48711340206185566
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "SPOT_NBA_TOP_KEY",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83280,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83280,
+          "visibility_type": "normal",
+          "display_name": "Spot Nba Top Key",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 8,
+              "nil%": 0.8376288659793814
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.48711340206185566
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "SPOT_NBA_BREAK_RIGHT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83290,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83290,
+          "visibility_type": "normal",
+          "display_name": "Spot Nba Break Right",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 8,
+              "nil%": 0.8376288659793814
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.48711340206185566
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "SPOT_NBA_CORNER_RIGHT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83296,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83296,
+          "visibility_type": "normal",
+          "display_name": "Spot Nba Corner Right",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 7,
+              "nil%": 0.8376288659793814
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.48711340206185566
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "OFF_DRIB_FIFTEEN_BREAK_LEFT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83313,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83313,
+          "visibility_type": "normal",
+          "display_name": "Off Drib Fifteen Break Left",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 23,
+              "nil%": 0.8704896907216495
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.38853092783505155
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "OFF_DRIB_FIFTEEN_TOP_KEY",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83302,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83302,
+          "visibility_type": "normal",
+          "display_name": "Off Drib Fifteen Top Key",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 19,
+              "nil%": 0.8704896907216495
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.38853092783505155
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "OFF_DRIB_FIFTEEN_BREAK_RIGHT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83288,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83288,
+          "visibility_type": "normal",
+          "display_name": "Off Drib Fifteen Break Right",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 21,
+              "nil%": 0.8704896907216495
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.38917525773195877
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "OFF_DRIB_COLLEGE_BREAK_LEFT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83306,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83306,
+          "visibility_type": "normal",
+          "display_name": "Off Drib College Break Left",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 29,
+              "nil%": 0.9310567010309277
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.30476804123711343
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "OFF_DRIB_COLLEGE_TOP_KEY",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83271,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83271,
+          "visibility_type": "normal",
+          "display_name": "Off Drib College Top Key",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 14,
+              "nil%": 0.9800257731958762
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.059922680412371136
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": "type/Category",
+          "coercion_strategy": null,
+          "name": "OFF_DRIB_COLLEGE_BREAK_RIGHT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83281,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83281,
+          "visibility_type": "normal",
+          "display_name": "Off Drib College Break Right",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 13,
+              "nil%": 0.9800257731958762
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.059922680412371136
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "ON_MOVE_FIFTEEN",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83273,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83273,
+          "visibility_type": "normal",
+          "display_name": "On Move Fifteen",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 123,
+              "nil%": 0.8814432989690723
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.5747422680412371
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "name": "ON_MOVE_COLLEGE",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83310,
+            null
+          ],
+          "effective_type": "type/Text",
+          "id": 83310,
+          "visibility_type": "normal",
+          "display_name": "On Move College",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 57,
+              "nil%": 0.9194587628865979
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 0.3859536082474227
+              }
+            }
+          },
+          "base_type": "type/Text"
+        },
+        {
+          "description": null,
+          "semantic_type": null,
+          "coercion_strategy": null,
+          "unit": "default",
+          "name": "GENERATED_AT",
+          "settings": null,
+          "field_ref": [
+            "field",
+            83314,
+            {
+              "temporal-unit": "default"
+            }
+          ],
+          "effective_type": "type/DateTime",
+          "id": 83314,
+          "visibility_type": "normal",
+          "display_name": "Generated At",
+          "fingerprint": {
+            "global": {
+              "distinct-count": 3,
+              "nil%": 0
+            },
+            "type": {
+              "type/DateTime": {
+                "earliest": "2022-09-13T14:59:10.045Z",
+                "latest": "2022-09-13T18:31:57.044Z"
+              }
+            }
+          },
+          "base_type": "type/DateTime"
+        }
+      ]
+    },
+    "insights": null
+  },
+  "database_id": 101,
+  "started_at": "2023-08-02T06:33:55.840471Z",
+  "json_query": {
+    "query": {
+      "source-table": 2802,
+      "filter": [
+        "=",
+        [
+          "field",
+          83282,
+          null
+        ],
+        "0-5"
+      ]
+    },
+    "type": "query",
+    "database": 101,
+    "middleware": {
+      "js-int-to-string?": true,
+      "add-default-userland-constraints?": true
+    }
+  },
+  "average_execution_time": null,
+  "status": "completed",
+  "context": "ad-hoc",
+  "row_count": 2,
+  "running_time": 426
+}

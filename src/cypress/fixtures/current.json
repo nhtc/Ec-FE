@@ -1,0 +1,35 @@
+{
+  "email": "devops@geminisports.ai",
+  "ldap_auth": false,
+  "first_name": "Dev",
+  "permissions": {
+    "can_access_setting": false,
+    "can_access_subscription": false,
+    "can_access_monitoring": false,
+    "can_access_data_model": false,
+    "can_access_db_details": false,
+    "is_group_manager": false
+  },
+  "first_login": "2023-03-23T18:23:47.465242Z",
+  "has_invited_second_user": false,
+  "locale": null,
+  "has_question_and_dashboard": true,
+  "last_login": "2023-08-03T09:39:39.790788Z",
+  "is_active": true,
+  "is_qbnewb": false,
+  "is_installer": false,
+  "updated_at": "2023-08-03T09:39:39.790788",
+  "group_ids": [
+    1,
+    34
+  ],
+  "is_superuser": false,
+  "login_attributes": {},
+  "id": 37,
+  "last_name": "Ops",
+  "date_joined": "2023-03-23T18:22:22.271592Z",
+  "sso_source": "jwt",
+  "personal_collection_id": 42,
+  "common_name": "Dev Ops",
+  "google_auth": false
+}

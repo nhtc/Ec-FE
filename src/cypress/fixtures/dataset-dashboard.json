@@ -1,0 +1,145 @@
+{
+  "total": 9,
+  "data": [
+    {
+      "description": "testing from predictions",
+      "collection_position": null,
+      "name": "guiv's test dash",
+      "id": 111,
+      "entity_id": "lP1fTni51oWeFfqGv0ezY",
+      "last-edit-info": {
+        "id": 37,
+        "last_name": "Ops",
+        "first_name": "Dev",
+        "email": "devops@geminisports.ai",
+        "timestamp": "2023-08-03T07:28:11.050306Z"
+      },
+      "model": "dashboard"
+    },
+    {
+      "description": "see above",
+      "collection_position": null,
+      "name": "Mat's NBA Example 23 yr old per game stats",
+      "id": 41,
+      "entity_id": "8lqg5xkuxs96OuFt0Zc3x",
+      "last-edit-info": {
+        "id": 37,
+        "last_name": "Ops",
+        "first_name": "Dev",
+        "email": "devops@geminisports.ai",
+        "timestamp": "2023-04-12T18:57:31.62512Z"
+      },
+      "model": "dashboard"
+    },
+    {
+      "description": null,
+      "collection_position": null,
+      "name": "NBA longevity by age ",
+      "id": 38,
+      "entity_id": "6Za8BIwWMnxGv5YHofFq8",
+      "last-edit-info": {
+        "id": 37,
+        "last_name": "Ops",
+        "first_name": "Dev",
+        "email": "devops@geminisports.ai",
+        "timestamp": "2023-08-02T02:07:54.574748Z"
+      },
+      "model": "dashboard"
+    },
+    {
+      "description": "test dustin",
+      "collection_position": null,
+      "name": "SIS Injury data",
+      "id": 112,
+      "entity_id": "LhEjxxs2n71ke8aK6BR_H",
+      "last-edit-info": {
+        "id": 37,
+        "last_name": "Ops",
+        "first_name": "Dev",
+        "email": "devops@geminisports.ai",
+        "timestamp": "2023-07-25T22:00:39.727542Z"
+      },
+      "model": "dashboard"
+    },
+    {
+      "description": "from prediction",
+      "collection_position": null,
+      "name": "test",
+      "id": 107,
+      "entity_id": "QWNvguCLkwYH2oYjeQSX-",
+      "last-edit-info": {
+        "id": 37,
+        "last_name": "Ops",
+        "first_name": "Dev",
+        "email": "devops@geminisports.ai",
+        "timestamp": "2023-08-02T06:50:35.62529Z"
+      },
+      "model": "dashboard"
+    },
+    {
+      "description": "testing from pred",
+      "collection_position": null,
+      "name": "test",
+      "id": 108,
+      "entity_id": "LgBKJ6wTsOlqCsWlr3MHA",
+      "last-edit-info": {
+        "id": 37,
+        "last_name": "Ops",
+        "first_name": "Dev",
+        "email": "devops@geminisports.ai",
+        "timestamp": "2023-07-19T18:14:29.614691Z"
+      },
+      "model": "dashboard"
+    },
+    {
+      "description": "test",
+      "collection_position": null,
+      "name": "test dash",
+      "id": 109,
+      "entity_id": "oPwNmOTkIxipVmy7_1APl",
+      "last-edit-info": {
+        "id": 37,
+        "last_name": "Ops",
+        "first_name": "Dev",
+        "email": "devops@geminisports.ai",
+        "timestamp": "2023-07-19T20:36:17.064129Z"
+      },
+      "model": "dashboard"
+    },
+    {
+      "description": "..",
+      "collection_position": null,
+      "name": "Test data set",
+      "id": 113,
+      "entity_id": "-IUSGL2fO6vXLiTC03V1B",
+      "last-edit-info": {
+        "id": 37,
+        "last_name": "Ops",
+        "first_name": "Dev",
+        "email": "devops@geminisports.ai",
+        "timestamp": "2023-08-02T07:54:13.912286Z"
+      },
+      "model": "dashboard"
+    },
+    {
+      "description": "Dustin",
+      "collection_position": null,
+      "name": "test with allow-forms on iframe",
+      "id": 106,
+      "entity_id": "uYhmKvEzJXPzWIN4c96Fu",
+      "last-edit-info": {
+        "id": 37,
+        "last_name": "Ops",
+        "first_name": "Dev",
+        "email": "devops@geminisports.ai",
+        "timestamp": "2023-07-19T17:53:54.747371Z"
+      },
+      "model": "dashboard"
+    }
+  ],
+  "models": [
+    "dashboard"
+  ],
+  "limit": null,
+  "offset": null
+}

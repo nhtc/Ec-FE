@@ -1,0 +1,15 @@
+{
+  "createPredictionStep1": "/predictions-new/step-1",
+  "createPredictionStep1AskNew": "/predictions-new/step-1/ask-new",
+  "createPredictionStep1Csv": "/predictions-new/step-1/csv",
+  "createPredictionStep1ExistingDataset": "/predictions-new/step-1/existing-dataset",
+  "createPredictionStep1NewDataset": "/predictions-new/step-1/new-dataset",
+  "createPredictionStep1PreviousPrediction": "/predictions-new/step-1/previous-prediction",
+  "createPredictionStep2": "/predictions-new/step-2",
+  "predictions": "/predictions",
+  "forgotPassword": "/forgot-password",
+  "resetPassword": "/reset-password",
+  "signIn": "/sign-in",
+  "prebuiltAi": "/prebuilt-ai",
+  "explorer": "/explorer"
+}

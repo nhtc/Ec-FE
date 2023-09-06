@@ -1,0 +1,8 @@
+{
+    "requestedModelType": "Multiclass",
+    "dataLabel": "POSITION",
+    "listFeatures": [
+        "POSITION"
+    ],
+    "target": "SPOT FIFTEEN BREAK RIGHT"
+}

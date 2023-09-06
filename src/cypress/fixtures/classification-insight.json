@@ -1,0 +1,222 @@
+{
+    "modelInfo": {
+        "modelId": "72815f25-a24d-4d5e-9b02-b5e6d7e91536",
+        "modelName": "RandomForest Classifier (Gini) #62",
+        "modelType": "Multiclass",
+        "target": "SPOT FIFTEEN BREAK RIGHT",
+        "modelFamily": "RF",
+        "optimizedMetric": "LogLoss",
+        "trainingRowCount": 106,
+        "samplePct": 100,
+        "isDeployed": false,
+        "featureCount": 7,
+        "multiclassCount": 6,
+        "clusterInformation": null,
+        "modelNumber": 62
+    },
+    "classNames": [
+        "0-5",
+        "1-5",
+        "2-5",
+        "3-5",
+        "4-5",
+        "5-5"
+    ],
+    "metrics": [
+        {
+            "modelId": "72815f25-a24d-4d5e-9b02-b5e6d7e91536",
+            "drModelId": "64dbc0d7158ddae4f82a7372",
+            "metricId": 18,
+            "metricName": "LogLoss",
+            "validation": 1.53645,
+            "crossValidation": 1.915348,
+            "holdout": 3.2339,
+            "avgValidation": null,
+            "minValidation": null,
+            "maxValidation": null,
+            "avgCrossValidation": null,
+            "minCrossValidation": null,
+            "maxCrossValidation": null,
+            "avgHoldout": null,
+            "minHoldout": null,
+            "maxHoldout": null
+        },
+        {
+            "modelId": "72815f25-a24d-4d5e-9b02-b5e6d7e91536",
+            "drModelId": "64dbc0d7158ddae4f82a7372",
+            "metricId": 14,
+            "metricName": "AUC",
+            "validation": 0.54148,
+            "crossValidation": 0.465152,
+            "holdout": 0.48659,
+            "avgValidation": null,
+            "minValidation": null,
+            "maxValidation": null,
+            "avgCrossValidation": null,
+            "minCrossValidation": null,
+            "maxCrossValidation": null,
+            "avgHoldout": null,
+            "minHoldout": null,
+            "maxHoldout": null
+        }
+    ],
+    "liftChart": null,
+    "featureImpacts": null,
+    "clusterInsights": null,
+    "multiclassLiftChart": [
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "className": "1-5",
+            "binX": 1,
+            "binWeight": 1,
+            "actual": 0,
+            "predicted": 0.0780671
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "className": "2-5",
+            "binX": 1,
+            "binWeight": 1,
+            "actual": 0,
+            "predicted": 0.0877789
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "className": "3-5",
+            "binX": 1,
+            "binWeight": 1,
+            "actual": 0,
+            "predicted": 0.1353983
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "className": "4-5",
+            "binX": 1,
+            "binWeight": 1,
+            "actual": 0,
+            "predicted": 0.2313029
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "className": "5-5",
+            "binX": 1,
+            "binWeight": 1,
+            "actual": 0,
+            "predicted": 0.0960836
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "className": "0-5",
+            "binX": 1,
+            "binWeight": 2,
+            "actual": 0,
+            "predicted": 0
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "className": "1-5",
+            "binX": 1,
+            "binWeight": 2,
+            "actual": 0,
+            "predicted": 0.0413817
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "className": "2-5",
+            "binX": 1,
+            "binWeight": 2,
+            "actual": 0,
+            "predicted": 0.0872776
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "className": "3-5",
+            "binX": 1,
+            "binWeight": 2,
+            "actual": 0.5,
+            "predicted": 0.1150274
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "className": "4-5",
+            "binX": 1,
+            "binWeight": 2,
+            "actual": 0,
+            "predicted": 0.2332203
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "className": "5-5",
+            "binX": 1,
+            "binWeight": 2,
+            "actual": 0.5,
+            "predicted": 0.0696437
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "className": "0-5",
+            "binX": 1,
+            "binWeight": 1,
+            "actual": 0,
+            "predicted": 0
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "className": "1-5",
+            "binX": 1,
+            "binWeight": 1,
+            "actual": 0,
+            "predicted": 0.0546844
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "className": "2-5",
+            "binX": 1,
+            "binWeight": 1,
+            "actual": 0,
+            "predicted": 0.099572
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "className": "3-5",
+            "binX": 1,
+            "binWeight": 1,
+            "actual": 0,
+            "predicted": 0.1284994
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "className": "4-5",
+            "binX": 1,
+            "binWeight": 1,
+            "actual": 0,
+            "predicted": 0.2939562
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "className": "5-5",
+            "binX": 1,
+            "binWeight": 1,
+            "actual": 0,
+            "predicted": 0.0964938
+        }
+    ],
+    "multiclassFeatureImpacts": []
+}

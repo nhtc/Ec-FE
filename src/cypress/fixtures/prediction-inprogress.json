@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "predictionTaskId": "cfed6259-a6b2-411d-bb5a-c9f87eecb9b1",
+      "projectId": "c00dbe9b-c5f4-4453-87c2-cfa4a7d200d6",
+      "metabaseCardId": null,
+      "predictionFileName": null,
+      "predictionTaskStatus": "AutopilotStart",
+      "name": "tesst inprogress",
+      "description": "test inprogress",
+      "createdAt": "2023-08-31T07:23:08.451493",
+      "updatedAt": "0001-01-01T00:00:00",
+      "predictionId": null,
+      "modelType": "Clustering",
+      "targetType": null
+    }
+  ],
+  "totalCount": 0,
+  "page": 1
+}

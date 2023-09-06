@@ -1,0 +1,49 @@
+{
+    "total": 2,
+    "data": [
+        {
+            "description": "dustin test",
+            "collection_position": null,
+            "name": "Nba Draft Combine Stats",
+            "moderated_status": null,
+            "fully_parametrized": true,
+            "id": 3362,
+            "display": "table",
+            "entity_id": "cw52HgtUuifLzqa4VHKhB",
+            "collection_preview": true,
+            "last-edit-info": {
+                "id": 37,
+                "last_name": "Ops",
+                "first_name": "Dev",
+                "email": "devops@geminisports.ai",
+                "timestamp": "2023-07-26T15:29:42.339777Z"
+            },
+            "model": "card"
+        },
+        {
+            "description": null,
+            "collection_position": null,
+            "name": "NFL WR Valuation Training Data",
+            "moderated_status": null,
+            "fully_parametrized": true,
+            "id": 3410,
+            "display": "table",
+            "entity_id": "sbD7pAw9lWuRM7WRY3Rhk",
+            "collection_preview": true,
+            "last-edit-info": {
+                "id": 37,
+                "last_name": "Ops",
+                "first_name": "Dev",
+                "email": "devops@geminisports.ai",
+                "timestamp": "2023-07-28T19:38:01.796317Z"
+            },
+            "model": "card"
+        }
+    ],
+    "models": [
+        "card",
+        "dataset"
+    ],
+    "limit": 20,
+    "offset": 0
+}

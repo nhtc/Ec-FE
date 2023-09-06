@@ -1,0 +1,1689 @@
+{
+  "modelInfo": {
+    "modelId": "05e7df07-4352-4c2f-9cea-8f23cb75068b",
+    "modelName": "eXtreme Gradient Boosted Trees Classifier #83",
+    "modelType": "Binary",
+    "target": "LONGEVITY",
+    "modelFamily": "GBM",
+    "optimizedMetric": "LogLoss",
+    "trainingRowCount": 652,
+    "samplePct": 100,
+    "isDeployed": false,
+    "featureCount": 5,
+    "multiclassCount": null,
+    "clusterInformation": null,
+    "modelNumber": 83
+  },
+  "classNames": null,
+  "metrics": [
+    {
+      "modelId": "05e7df07-4352-4c2f-9cea-8f23cb75068b",
+      "drModelId": "64ee6a8e6fae8664f276e95a",
+      "metricId": 5,
+      "metricName": "Gini Norm",
+      "validation": 0.18324,
+      "crossValidation": 0.212136,
+      "holdout": 0.33002,
+      "avgValidation": null,
+      "minValidation": null,
+      "maxValidation": null,
+      "avgCrossValidation": null,
+      "minCrossValidation": null,
+      "maxCrossValidation": null,
+      "avgHoldout": null,
+      "minHoldout": null,
+      "maxHoldout": null
+    },
+    {
+      "modelId": "05e7df07-4352-4c2f-9cea-8f23cb75068b",
+      "drModelId": "64ee6a8e6fae8664f276e95a",
+      "metricId": 10,
+      "metricName": "RMSE",
+      "validation": 0.49306,
+      "crossValidation": 0.490626,
+      "holdout": 0.48239,
+      "avgValidation": null,
+      "minValidation": null,
+      "maxValidation": null,
+      "avgCrossValidation": null,
+      "minCrossValidation": null,
+      "maxCrossValidation": null,
+      "avgHoldout": null,
+      "minHoldout": null,
+      "maxHoldout": null
+    },
+    {
+      "modelId": "05e7df07-4352-4c2f-9cea-8f23cb75068b",
+      "drModelId": "64ee6a8e6fae8664f276e95a",
+      "metricId": 14,
+      "metricName": "AUC",
+      "validation": 0.59162,
+      "crossValidation": 0.606068,
+      "holdout": 0.66501,
+      "avgValidation": null,
+      "minValidation": null,
+      "maxValidation": null,
+      "avgCrossValidation": null,
+      "minCrossValidation": null,
+      "maxCrossValidation": null,
+      "avgHoldout": null,
+      "minHoldout": null,
+      "maxHoldout": null
+    },
+    {
+      "modelId": "05e7df07-4352-4c2f-9cea-8f23cb75068b",
+      "drModelId": "64ee6a8e6fae8664f276e95a",
+      "metricId": 15,
+      "metricName": "Area Under PR Curve",
+      "validation": 0.5761,
+      "crossValidation": 0.594644,
+      "holdout": 0.67574,
+      "avgValidation": null,
+      "minValidation": null,
+      "maxValidation": null,
+      "avgCrossValidation": null,
+      "minCrossValidation": null,
+      "maxCrossValidation": null,
+      "avgHoldout": null,
+      "minHoldout": null,
+      "maxHoldout": null
+    },
+    {
+      "modelId": "05e7df07-4352-4c2f-9cea-8f23cb75068b",
+      "drModelId": "64ee6a8e6fae8664f276e95a",
+      "metricId": 16,
+      "metricName": "FVE Binomial",
+      "validation": 0.01847,
+      "crossValidation": 0.026628,
+      "holdout": 0.04879,
+      "avgValidation": null,
+      "minValidation": null,
+      "maxValidation": null,
+      "avgCrossValidation": null,
+      "minCrossValidation": null,
+      "maxCrossValidation": null,
+      "avgHoldout": null,
+      "minHoldout": null,
+      "maxHoldout": null
+    },
+    {
+      "modelId": "05e7df07-4352-4c2f-9cea-8f23cb75068b",
+      "drModelId": "64ee6a8e6fae8664f276e95a",
+      "metricId": 17,
+      "metricName": "Kolmogorov-Smirnov",
+      "validation": 0.25762,
+      "crossValidation": 0.259994,
+      "holdout": 0.29924,
+      "avgValidation": null,
+      "minValidation": null,
+      "maxValidation": null,
+      "avgCrossValidation": null,
+      "minCrossValidation": null,
+      "maxCrossValidation": null,
+      "avgHoldout": null,
+      "minHoldout": null,
+      "maxHoldout": null
+    },
+    {
+      "modelId": "05e7df07-4352-4c2f-9cea-8f23cb75068b",
+      "drModelId": "64ee6a8e6fae8664f276e95a",
+      "metricId": 18,
+      "metricName": "LogLoss",
+      "validation": 0.6803,
+      "crossValidation": 0.674496,
+      "holdout": 0.65922,
+      "avgValidation": null,
+      "minValidation": null,
+      "maxValidation": null,
+      "avgCrossValidation": null,
+      "minCrossValidation": null,
+      "maxCrossValidation": null,
+      "avgHoldout": null,
+      "minHoldout": null,
+      "maxHoldout": null
+    },
+    {
+      "modelId": "05e7df07-4352-4c2f-9cea-8f23cb75068b",
+      "drModelId": "64ee6a8e6fae8664f276e95a",
+      "metricId": 19,
+      "metricName": "Max MCC",
+      "validation": 0.2579,
+      "crossValidation": 0.292862,
+      "holdout": 0.33433,
+      "avgValidation": null,
+      "minValidation": null,
+      "maxValidation": null,
+      "avgCrossValidation": null,
+      "minCrossValidation": null,
+      "maxCrossValidation": null,
+      "avgHoldout": null,
+      "minHoldout": null,
+      "maxHoldout": null
+    },
+    {
+      "modelId": "05e7df07-4352-4c2f-9cea-8f23cb75068b",
+      "drModelId": "64ee6a8e6fae8664f276e95a",
+      "metricId": 20,
+      "metricName": "Rate@Top10%",
+      "validation": 0.5,
+      "crossValidation": 0.543638,
+      "holdout": 0.73333,
+      "avgValidation": null,
+      "minValidation": null,
+      "maxValidation": null,
+      "avgCrossValidation": null,
+      "minCrossValidation": null,
+      "maxCrossValidation": null,
+      "avgHoldout": null,
+      "minHoldout": null,
+      "maxHoldout": null
+    },
+    {
+      "modelId": "05e7df07-4352-4c2f-9cea-8f23cb75068b",
+      "drModelId": "64ee6a8e6fae8664f276e95a",
+      "metricId": 21,
+      "metricName": "Rate@Top5%",
+      "validation": 0.5,
+      "crossValidation": 0.557142,
+      "holdout": 0.875,
+      "avgValidation": null,
+      "minValidation": null,
+      "maxValidation": null,
+      "avgCrossValidation": null,
+      "minCrossValidation": null,
+      "maxCrossValidation": null,
+      "avgHoldout": null,
+      "minHoldout": null,
+      "maxHoldout": null
+    },
+    {
+      "modelId": "05e7df07-4352-4c2f-9cea-8f23cb75068b",
+      "drModelId": "64ee6a8e6fae8664f276e95a",
+      "metricId": 22,
+      "metricName": "Rate@TopTenth%",
+      "validation": 1,
+      "crossValidation": 0.7,
+      "holdout": 1,
+      "avgValidation": null,
+      "minValidation": null,
+      "maxValidation": null,
+      "avgCrossValidation": null,
+      "minCrossValidation": null,
+      "maxCrossValidation": null,
+      "avgHoldout": null,
+      "minHoldout": null,
+      "maxHoldout": null
+    }
+  ],
+  "liftChart": [
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 1,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.2379518
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 2,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.2819725
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 3,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.3525339
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 4,
+      "binWeight": 1,
+      "actual": 0,
+      "predicted": 0.3833809
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 5,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.4109991
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 6,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.4166406
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 7,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.4177673
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 8,
+      "binWeight": 1,
+      "actual": 0,
+      "predicted": 0.4186286
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 9,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4186286
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 10,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.4186286
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 11,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.4190027
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 12,
+      "binWeight": 1,
+      "actual": 1,
+      "predicted": 0.422509
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 13,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4240587
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 14,
+      "binWeight": 1,
+      "actual": 0,
+      "predicted": 0.4262368
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 15,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4262368
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 16,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.4274014
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 17,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4301601
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 18,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.4361346
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 19,
+      "binWeight": 1,
+      "actual": 1,
+      "predicted": 0.4388139
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 20,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4444809
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 21,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.451154
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 22,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.4582509
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 23,
+      "binWeight": 1,
+      "actual": 0,
+      "predicted": 0.4616634
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 24,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4638189
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 25,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.4713649
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 26,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.4758521
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 27,
+      "binWeight": 1,
+      "actual": 0,
+      "predicted": 0.4815301
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 28,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4830546
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 29,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4847699
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 30,
+      "binWeight": 1,
+      "actual": 0,
+      "predicted": 0.4897675
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 31,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4969773
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 32,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.5154657
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 33,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.5302899
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 34,
+      "binWeight": 1,
+      "actual": 1,
+      "predicted": 0.5317145
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 35,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.5388175
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 36,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.5449864
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 37,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.5569423
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 38,
+      "binWeight": 1,
+      "actual": 0,
+      "predicted": 0.559127
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 39,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.5646978
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 40,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.5671492
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 41,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.5730571
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 42,
+      "binWeight": 1,
+      "actual": 1,
+      "predicted": 0.5806605
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 43,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.5925141
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 44,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.5938938
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 45,
+      "binWeight": 1,
+      "actual": 1,
+      "predicted": 0.5976921
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 46,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.602487
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 47,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.6087934
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 48,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.6087934
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 49,
+      "binWeight": 1,
+      "actual": 1,
+      "predicted": 0.6198565
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 50,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.6198565
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 51,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.6198565
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 52,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.6217456
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 53,
+      "binWeight": 1,
+      "actual": 1,
+      "predicted": 0.6226953
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 54,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.6244722
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 55,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.625571
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 56,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.6279099
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 57,
+      "binWeight": 1,
+      "actual": 1,
+      "predicted": 0.6279099
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 58,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.647765
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 59,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.6516159
+    },
+    {
+      "sourceId": 1,
+      "sourceName": "validation",
+      "binX": 60,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.6648029
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 1,
+      "binWeight": 9,
+      "actual": 0.3333333,
+      "predicted": 0.2233409
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 2,
+      "binWeight": 9,
+      "actual": 0.1111111,
+      "predicted": 0.2926321
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 3,
+      "binWeight": 9,
+      "actual": 0.3333333,
+      "predicted": 0.3732059
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 4,
+      "binWeight": 8,
+      "actual": 0.125,
+      "predicted": 0.3991337
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 5,
+      "binWeight": 9,
+      "actual": 0.4444444,
+      "predicted": 0.4093201
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 6,
+      "binWeight": 9,
+      "actual": 0.7777778,
+      "predicted": 0.4166406
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 7,
+      "binWeight": 8,
+      "actual": 0.25,
+      "predicted": 0.4167814
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 8,
+      "binWeight": 9,
+      "actual": 0.3333333,
+      "predicted": 0.4184372
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 9,
+      "binWeight": 9,
+      "actual": 0.4444444,
+      "predicted": 0.4186286
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 10,
+      "binWeight": 8,
+      "actual": 0.375,
+      "predicted": 0.4193969
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 11,
+      "binWeight": 9,
+      "actual": 0.4444444,
+      "predicted": 0.4218951
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 12,
+      "binWeight": 9,
+      "actual": 0.2222222,
+      "predicted": 0.4255495
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 13,
+      "binWeight": 8,
+      "actual": 0.25,
+      "predicted": 0.426528
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 14,
+      "binWeight": 9,
+      "actual": 0.6666667,
+      "predicted": 0.4274626
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 15,
+      "binWeight": 9,
+      "actual": 0.4444444,
+      "predicted": 0.4297846
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 16,
+      "binWeight": 8,
+      "actual": 0.375,
+      "predicted": 0.433658
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 17,
+      "binWeight": 9,
+      "actual": 0.6666667,
+      "predicted": 0.4378225
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 18,
+      "binWeight": 9,
+      "actual": 0.5555556,
+      "predicted": 0.4467738
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 19,
+      "binWeight": 8,
+      "actual": 0.25,
+      "predicted": 0.4486807
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 20,
+      "binWeight": 9,
+      "actual": 0.4444444,
+      "predicted": 0.4524324
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 21,
+      "binWeight": 9,
+      "actual": 0.4444444,
+      "predicted": 0.4595152
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 22,
+      "binWeight": 9,
+      "actual": 0.3333333,
+      "predicted": 0.463618
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 23,
+      "binWeight": 8,
+      "actual": 0.5,
+      "predicted": 0.4678325
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 24,
+      "binWeight": 9,
+      "actual": 0.2222222,
+      "predicted": 0.473987
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 25,
+      "binWeight": 9,
+      "actual": 0.4444444,
+      "predicted": 0.475264
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 26,
+      "binWeight": 8,
+      "actual": 0.5,
+      "predicted": 0.4800083
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 27,
+      "binWeight": 9,
+      "actual": 0.4444444,
+      "predicted": 0.4840712
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 28,
+      "binWeight": 9,
+      "actual": 0.5555556,
+      "predicted": 0.4864652
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 29,
+      "binWeight": 8,
+      "actual": 0.375,
+      "predicted": 0.4920546
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 30,
+      "binWeight": 9,
+      "actual": 0.6666667,
+      "predicted": 0.4991466
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 31,
+      "binWeight": 9,
+      "actual": 0.5555556,
+      "predicted": 0.5089589
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 32,
+      "binWeight": 8,
+      "actual": 0.625,
+      "predicted": 0.5228442
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 33,
+      "binWeight": 9,
+      "actual": 0.5555556,
+      "predicted": 0.5302899
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 34,
+      "binWeight": 9,
+      "actual": 0.7777778,
+      "predicted": 0.5338007
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 35,
+      "binWeight": 8,
+      "actual": 0.625,
+      "predicted": 0.5390552
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 36,
+      "binWeight": 9,
+      "actual": 0.5555556,
+      "predicted": 0.5414552
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 37,
+      "binWeight": 9,
+      "actual": 0.6666667,
+      "predicted": 0.545411
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 38,
+      "binWeight": 8,
+      "actual": 0.5,
+      "predicted": 0.5522289
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 39,
+      "binWeight": 9,
+      "actual": 0.4444444,
+      "predicted": 0.5578889
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 40,
+      "binWeight": 9,
+      "actual": 0.6666667,
+      "predicted": 0.5623167
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 41,
+      "binWeight": 9,
+      "actual": 0.5555556,
+      "predicted": 0.5650375
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 42,
+      "binWeight": 8,
+      "actual": 0.875,
+      "predicted": 0.5677778
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 43,
+      "binWeight": 9,
+      "actual": 0.3333333,
+      "predicted": 0.5711381
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 44,
+      "binWeight": 9,
+      "actual": 0.4444444,
+      "predicted": 0.5783608
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 45,
+      "binWeight": 8,
+      "actual": 0.875,
+      "predicted": 0.5855335
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 46,
+      "binWeight": 9,
+      "actual": 0.8888889,
+      "predicted": 0.5980792
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 47,
+      "binWeight": 9,
+      "actual": 0.6666667,
+      "predicted": 0.6014022
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 48,
+      "binWeight": 8,
+      "actual": 0.375,
+      "predicted": 0.6087934
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 49,
+      "binWeight": 9,
+      "actual": 0.8888889,
+      "predicted": 0.6106185
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 50,
+      "binWeight": 9,
+      "actual": 0.5555556,
+      "predicted": 0.6198565
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 51,
+      "binWeight": 8,
+      "actual": 0.25,
+      "predicted": 0.6198565
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 52,
+      "binWeight": 9,
+      "actual": 0.7777778,
+      "predicted": 0.6200652
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 53,
+      "binWeight": 9,
+      "actual": 0.6666667,
+      "predicted": 0.6215134
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 54,
+      "binWeight": 8,
+      "actual": 0.625,
+      "predicted": 0.6238584
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 55,
+      "binWeight": 9,
+      "actual": 0.6666667,
+      "predicted": 0.6260083
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 56,
+      "binWeight": 9,
+      "actual": 0.4444444,
+      "predicted": 0.6283482
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 57,
+      "binWeight": 8,
+      "actual": 0.875,
+      "predicted": 0.634222
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 58,
+      "binWeight": 9,
+      "actual": 0.5555556,
+      "predicted": 0.647765
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 59,
+      "binWeight": 9,
+      "actual": 0.4444444,
+      "predicted": 0.6513003
+    },
+    {
+      "sourceId": 2,
+      "sourceName": "crossValidation",
+      "binX": 60,
+      "binWeight": 9,
+      "actual": 0.4444444,
+      "predicted": 0.6596553
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 1,
+      "binWeight": 3,
+      "actual": 0.3333333,
+      "predicted": 0.2411555
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 2,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.3207805
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 3,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.3428779
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 4,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.3830239
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 5,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.4043847
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 6,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.4123916
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 7,
+      "binWeight": 3,
+      "actual": 0.6666667,
+      "predicted": 0.4166406
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 8,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.4176346
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 9,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4186286
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 10,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4186286
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 11,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4202757
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 12,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4222506
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 13,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.4268497
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 14,
+      "binWeight": 3,
+      "actual": 0.3333333,
+      "predicted": 0.4288105
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 15,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.4312394
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 16,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4388139
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 17,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4434683
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 18,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4492387
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 19,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4518882
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 20,
+      "binWeight": 3,
+      "actual": 0.3333333,
+      "predicted": 0.4606416
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 21,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.4681457
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 22,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.4699137
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 23,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4738308
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 24,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.4745346
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 25,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.4747956
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 26,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.4770829
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 27,
+      "binWeight": 3,
+      "actual": 0.3333333,
+      "predicted": 0.4833055
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 28,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.4888534
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 29,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.4907354
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 30,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.498814
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 31,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.5119294
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 32,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.5238823
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 33,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.5242531
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 34,
+      "binWeight": 3,
+      "actual": 0.6666667,
+      "predicted": 0.5339769
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 35,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.549109
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 36,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.5569491
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 37,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.560534
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 38,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.5610955
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 39,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.5616571
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 40,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.5662754
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 41,
+      "binWeight": 3,
+      "actual": 0.3333333,
+      "predicted": 0.5681216
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 42,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.5686586
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 43,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.5770201
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 44,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.5807163
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 45,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.5914114
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 46,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.598856
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 47,
+      "binWeight": 3,
+      "actual": 1,
+      "predicted": 0.6032906
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 48,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.6087934
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 49,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.6153793
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 50,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.6198565
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 51,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.6203262
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 52,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.6213657
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 53,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.6220305
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 54,
+      "binWeight": 3,
+      "actual": 0.6666667,
+      "predicted": 0.6246124
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 55,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.625571
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 56,
+      "binWeight": 2,
+      "actual": 0,
+      "predicted": 0.6302191
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 57,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.6469211
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 58,
+      "binWeight": 2,
+      "actual": 1,
+      "predicted": 0.6496904
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 59,
+      "binWeight": 2,
+      "actual": 0.5,
+      "predicted": 0.6526263
+    },
+    {
+      "sourceId": 3,
+      "sourceName": "holdout",
+      "binX": 60,
+      "binWeight": 3,
+      "actual": 1,
+      "predicted": 0.6585966
+    }
+  ],
+  "featureImpacts": [
+    {
+      "featureName": "FIELD GOALS % PER 36 MINUTES",
+      "impactNormalized": 1,
+      "impactUnnormalized": 0.0212696,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL MINUTES",
+      "impactNormalized": 0.622734,
+      "impactUnnormalized": 0.0132453,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL GAME STARTED",
+      "impactNormalized": 0.4860698,
+      "impactUnnormalized": 0.0103385,
+      "redundantWith": null
+    },
+    {
+      "featureName": "TOTAL GAME PLAYED",
+      "impactNormalized": 0.126182,
+      "impactUnnormalized": 0.0026838,
+      "redundantWith": null
+    }
+  ],
+  "clusterInsights": null,
+  "multiclassLiftChart": null,
+  "multiclassFeatureImpacts": null
+}

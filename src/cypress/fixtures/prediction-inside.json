@@ -1,0 +1,1767 @@
+{
+    "modelInfo": {
+        "modelId": "7af506fc-d55d-49a4-89a1-f5d5d12e1148",
+        "modelName": "Ridge Regressor #85",
+        "modelType": "Regression",
+        "target": "LONGEVITY",
+        "modelFamily": "GLMNET",
+        "optimizedMetric": "RMSE",
+        "trainingRowCount": 652,
+        "samplePct": 100,
+        "isDeployed": false,
+        "featureCount": 12,
+        "multiclassCount": null,
+        "clusterInformation": null,
+        "modelNumber": 85
+    },
+    "classNames": null,
+    "metrics": [
+        {
+            "modelId": "7af506fc-d55d-49a4-89a1-f5d5d12e1148",
+            "drModelId": "64b7fa8caf035cd410f8ce5c",
+            "metricId": 1,
+            "metricName": "FVE Gamma",
+            "validation": 0.15916,
+            "crossValidation": 0.093662,
+            "holdout": -0.07385,
+            "avgValidation": null,
+            "minValidation": null,
+            "maxValidation": null,
+            "avgCrossValidation": null,
+            "minCrossValidation": null,
+            "maxCrossValidation": null,
+            "avgHoldout": null,
+            "minHoldout": null,
+            "maxHoldout": null
+        },
+        {
+            "modelId": "7af506fc-d55d-49a4-89a1-f5d5d12e1148",
+            "drModelId": "64b7fa8caf035cd410f8ce5c",
+            "metricId": 2,
+            "metricName": "FVE Poisson",
+            "validation": 0.17458,
+            "crossValidation": 0.111678,
+            "holdout": -0.06564,
+            "avgValidation": null,
+            "minValidation": null,
+            "maxValidation": null,
+            "avgCrossValidation": null,
+            "minCrossValidation": null,
+            "maxCrossValidation": null,
+            "avgHoldout": null,
+            "minHoldout": null,
+            "maxHoldout": null
+        },
+        {
+            "modelId": "7af506fc-d55d-49a4-89a1-f5d5d12e1148",
+            "drModelId": "64b7fa8caf035cd410f8ce5c",
+            "metricId": 3,
+            "metricName": "FVE Tweedie",
+            "validation": 0.17008,
+            "crossValidation": 0.104828,
+            "holdout": -0.06987,
+            "avgValidation": null,
+            "minValidation": null,
+            "maxValidation": null,
+            "avgCrossValidation": null,
+            "minCrossValidation": null,
+            "maxCrossValidation": null,
+            "avgHoldout": null,
+            "minHoldout": null,
+            "maxHoldout": null
+        },
+        {
+            "modelId": "7af506fc-d55d-49a4-89a1-f5d5d12e1148",
+            "drModelId": "64b7fa8caf035cd410f8ce5c",
+            "metricId": 4,
+            "metricName": "Gamma Deviance",
+            "validation": 0.31498,
+            "crossValidation": 0.427032,
+            "holdout": 0.41781,
+            "avgValidation": null,
+            "minValidation": null,
+            "maxValidation": null,
+            "avgCrossValidation": null,
+            "minCrossValidation": null,
+            "maxCrossValidation": null,
+            "avgHoldout": null,
+            "minHoldout": null,
+            "maxHoldout": null
+        },
+        {
+            "modelId": "7af506fc-d55d-49a4-89a1-f5d5d12e1148",
+            "drModelId": "64b7fa8caf035cd410f8ce5c",
+            "metricId": 5,
+            "metricName": "Gini Norm",
+            "validation": 0.41228,
+            "crossValidation": 0.345756,
+            "holdout": 0.11193,
+            "avgValidation": null,
+            "minValidation": null,
+            "maxValidation": null,
+            "avgCrossValidation": null,
+            "minCrossValidation": null,
+            "maxCrossValidation": null,
+            "avgHoldout": null,
+            "minHoldout": null,
+            "maxHoldout": null
+        },
+        {
+            "modelId": "7af506fc-d55d-49a4-89a1-f5d5d12e1148",
+            "drModelId": "64b7fa8caf035cd410f8ce5c",
+            "metricId": 6,
+            "metricName": "MAE",
+            "validation": 2.2445,
+            "crossValidation": 2.569682,
+            "holdout": 2.43603,
+            "avgValidation": null,
+            "minValidation": null,
+            "maxValidation": null,
+            "avgCrossValidation": null,
+            "minCrossValidation": null,
+            "maxCrossValidation": null,
+            "avgHoldout": null,
+            "minHoldout": null,
+            "maxHoldout": null
+        },
+        {
+            "modelId": "7af506fc-d55d-49a4-89a1-f5d5d12e1148",
+            "drModelId": "64b7fa8caf035cd410f8ce5c",
+            "metricId": 7,
+            "metricName": "MAPE",
+            "validation": 67.46508,
+            "crossValidation": 87.76914,
+            "holdout": 81.99759,
+            "avgValidation": null,
+            "minValidation": null,
+            "maxValidation": null,
+            "avgCrossValidation": null,
+            "minCrossValidation": null,
+            "maxCrossValidation": null,
+            "avgHoldout": null,
+            "minHoldout": null,
+            "maxHoldout": null
+        },
+        {
+            "modelId": "7af506fc-d55d-49a4-89a1-f5d5d12e1148",
+            "drModelId": "64b7fa8caf035cd410f8ce5c",
+            "metricId": 8,
+            "metricName": "Poisson Deviance",
+            "validation": 1.47945,
+            "crossValidation": 1.887782,
+            "holdout": 1.80939,
+            "avgValidation": null,
+            "minValidation": null,
+            "maxValidation": null,
+            "avgCrossValidation": null,
+            "minCrossValidation": null,
+            "maxCrossValidation": null,
+            "avgHoldout": null,
+            "minHoldout": null,
+            "maxHoldout": null
+        },
+        {
+            "modelId": "7af506fc-d55d-49a4-89a1-f5d5d12e1148",
+            "drModelId": "64b7fa8caf035cd410f8ce5c",
+            "metricId": 9,
+            "metricName": "R Squared",
+            "validation": 0.16731,
+            "crossValidation": 0.112606,
+            "holdout": -0.05858,
+            "avgValidation": null,
+            "minValidation": null,
+            "maxValidation": null,
+            "avgCrossValidation": null,
+            "minCrossValidation": null,
+            "maxCrossValidation": null,
+            "avgHoldout": null,
+            "minHoldout": null,
+            "maxHoldout": null
+        },
+        {
+            "modelId": "7af506fc-d55d-49a4-89a1-f5d5d12e1148",
+            "drModelId": "64b7fa8caf035cd410f8ce5c",
+            "metricId": 10,
+            "metricName": "RMSE",
+            "validation": 2.89797,
+            "crossValidation": 3.17275,
+            "holdout": 3.03795,
+            "avgValidation": null,
+            "minValidation": null,
+            "maxValidation": null,
+            "avgCrossValidation": null,
+            "minCrossValidation": null,
+            "maxCrossValidation": null,
+            "avgHoldout": null,
+            "minHoldout": null,
+            "maxHoldout": null
+        },
+        {
+            "modelId": "7af506fc-d55d-49a4-89a1-f5d5d12e1148",
+            "drModelId": "64b7fa8caf035cd410f8ce5c",
+            "metricId": 11,
+            "metricName": "RMSLE",
+            "validation": 0.4744,
+            "crossValidation": 0.544204,
+            "holdout": 0.53691,
+            "avgValidation": null,
+            "minValidation": null,
+            "maxValidation": null,
+            "avgCrossValidation": null,
+            "minCrossValidation": null,
+            "maxCrossValidation": null,
+            "avgHoldout": null,
+            "minHoldout": null,
+            "maxHoldout": null
+        },
+        {
+            "modelId": "7af506fc-d55d-49a4-89a1-f5d5d12e1148",
+            "drModelId": "64b7fa8caf035cd410f8ce5c",
+            "metricId": 12,
+            "metricName": "SMAPE",
+            "validation": 42.41124,
+            "crossValidation": 52.08496,
+            "holdout": 50.42552,
+            "avgValidation": null,
+            "minValidation": null,
+            "maxValidation": null,
+            "avgCrossValidation": null,
+            "minCrossValidation": null,
+            "maxCrossValidation": null,
+            "avgHoldout": null,
+            "minHoldout": null,
+            "maxHoldout": null
+        },
+        {
+            "modelId": "7af506fc-d55d-49a4-89a1-f5d5d12e1148",
+            "drModelId": "64b7fa8caf035cd410f8ce5c",
+            "metricId": 13,
+            "metricName": "Tweedie Deviance",
+            "validation": 0.66417,
+            "crossValidation": 0.873694,
+            "holdout": 0.8496,
+            "avgValidation": null,
+            "minValidation": null,
+            "maxValidation": null,
+            "avgCrossValidation": null,
+            "minCrossValidation": null,
+            "maxCrossValidation": null,
+            "avgHoldout": null,
+            "minHoldout": null,
+            "maxHoldout": null
+        }
+    ],
+    "liftChart": [
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 1,
+            "binWeight": 2,
+            "actual": 3,
+            "predicted": 2.248971
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 2,
+            "binWeight": 2,
+            "actual": 3.5,
+            "predicted": 2.722933
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 3,
+            "binWeight": 2,
+            "actual": 2.5,
+            "predicted": 3.2668068
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 4,
+            "binWeight": 1,
+            "actual": 2,
+            "predicted": 3.5172248
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 5,
+            "binWeight": 2,
+            "actual": 3.5,
+            "predicted": 3.6556704
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 6,
+            "binWeight": 2,
+            "actual": 2,
+            "predicted": 3.9886203
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 7,
+            "binWeight": 2,
+            "actual": 6.5,
+            "predicted": 4.1020455
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 8,
+            "binWeight": 1,
+            "actual": 1,
+            "predicted": 4.1693788
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 9,
+            "binWeight": 2,
+            "actual": 3,
+            "predicted": 4.307131
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 10,
+            "binWeight": 2,
+            "actual": 4.5,
+            "predicted": 4.4186063
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 11,
+            "binWeight": 2,
+            "actual": 3.5,
+            "predicted": 4.449873
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 12,
+            "binWeight": 1,
+            "actual": 4,
+            "predicted": 4.451988
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 13,
+            "binWeight": 2,
+            "actual": 4,
+            "predicted": 4.5065856
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 14,
+            "binWeight": 2,
+            "actual": 4,
+            "predicted": 4.5777183
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 15,
+            "binWeight": 1,
+            "actual": 5,
+            "predicted": 4.6216545
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 16,
+            "binWeight": 2,
+            "actual": 4.5,
+            "predicted": 4.687997
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 17,
+            "binWeight": 2,
+            "actual": 9,
+            "predicted": 4.7476106
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 18,
+            "binWeight": 2,
+            "actual": 6.5,
+            "predicted": 4.8515153
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 19,
+            "binWeight": 1,
+            "actual": 4,
+            "predicted": 4.891609
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 20,
+            "binWeight": 2,
+            "actual": 5,
+            "predicted": 4.918655
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 21,
+            "binWeight": 2,
+            "actual": 6,
+            "predicted": 4.969499
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 22,
+            "binWeight": 2,
+            "actual": 3.5,
+            "predicted": 5.024115
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 23,
+            "binWeight": 1,
+            "actual": 4,
+            "predicted": 5.0707498
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 24,
+            "binWeight": 2,
+            "actual": 6,
+            "predicted": 5.1083503
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 25,
+            "binWeight": 2,
+            "actual": 6.5,
+            "predicted": 5.1896367
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 26,
+            "binWeight": 2,
+            "actual": 5.5,
+            "predicted": 5.269423
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 27,
+            "binWeight": 1,
+            "actual": 4,
+            "predicted": 5.327759
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 28,
+            "binWeight": 2,
+            "actual": 11.5,
+            "predicted": 5.3685713
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 29,
+            "binWeight": 2,
+            "actual": 4,
+            "predicted": 5.4545946
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 30,
+            "binWeight": 1,
+            "actual": 10,
+            "predicted": 5.497168
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 31,
+            "binWeight": 2,
+            "actual": 10,
+            "predicted": 5.584581
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 32,
+            "binWeight": 2,
+            "actual": 9,
+            "predicted": 5.6246157
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 33,
+            "binWeight": 2,
+            "actual": 5,
+            "predicted": 5.6499043
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 34,
+            "binWeight": 1,
+            "actual": 9,
+            "predicted": 5.657289
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 35,
+            "binWeight": 2,
+            "actual": 4.5,
+            "predicted": 5.6981516
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 36,
+            "binWeight": 2,
+            "actual": 1.5,
+            "predicted": 5.7461195
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 37,
+            "binWeight": 2,
+            "actual": 7,
+            "predicted": 5.7825904
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 38,
+            "binWeight": 1,
+            "actual": 6,
+            "predicted": 5.8022137
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 39,
+            "binWeight": 2,
+            "actual": 5.5,
+            "predicted": 5.8900805
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 40,
+            "binWeight": 2,
+            "actual": 4,
+            "predicted": 5.9611917
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 41,
+            "binWeight": 2,
+            "actual": 7.5,
+            "predicted": 5.9991903
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 42,
+            "binWeight": 1,
+            "actual": 4,
+            "predicted": 6.0546203
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 43,
+            "binWeight": 2,
+            "actual": 6,
+            "predicted": 6.0736656
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 44,
+            "binWeight": 2,
+            "actual": 3,
+            "predicted": 6.1671934
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 45,
+            "binWeight": 1,
+            "actual": 6,
+            "predicted": 6.191806
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 46,
+            "binWeight": 2,
+            "actual": 4.5,
+            "predicted": 6.249584
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 47,
+            "binWeight": 2,
+            "actual": 5,
+            "predicted": 6.34901
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 48,
+            "binWeight": 2,
+            "actual": 6.5,
+            "predicted": 6.4246383
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 49,
+            "binWeight": 1,
+            "actual": 8,
+            "predicted": 6.58239
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 50,
+            "binWeight": 2,
+            "actual": 12.5,
+            "predicted": 6.689522
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 51,
+            "binWeight": 2,
+            "actual": 6.5,
+            "predicted": 6.744087
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 52,
+            "binWeight": 2,
+            "actual": 6.5,
+            "predicted": 6.8349714
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 53,
+            "binWeight": 1,
+            "actual": 6,
+            "predicted": 6.930842
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 54,
+            "binWeight": 2,
+            "actual": 9.5,
+            "predicted": 6.964705
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 55,
+            "binWeight": 2,
+            "actual": 7,
+            "predicted": 7.0260773
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 56,
+            "binWeight": 2,
+            "actual": 9,
+            "predicted": 7.1987877
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 57,
+            "binWeight": 1,
+            "actual": 4,
+            "predicted": 7.311515
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 58,
+            "binWeight": 2,
+            "actual": 8.5,
+            "predicted": 7.439487
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 59,
+            "binWeight": 2,
+            "actual": 8.5,
+            "predicted": 7.6996374
+        },
+        {
+            "sourceId": 1,
+            "sourceName": "validation",
+            "binX": 60,
+            "binWeight": 2,
+            "actual": 7,
+            "predicted": 7.8497167
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 1,
+            "binWeight": 9,
+            "actual": 3.8888888,
+            "predicted": 2.5489695
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 2,
+            "binWeight": 9,
+            "actual": 3.777778,
+            "predicted": 3.1780553
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 3,
+            "binWeight": 9,
+            "actual": 3.3333333,
+            "predicted": 3.4728901
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 4,
+            "binWeight": 8,
+            "actual": 3,
+            "predicted": 3.6305997
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 5,
+            "binWeight": 9,
+            "actual": 2.222222,
+            "predicted": 3.7556944
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 6,
+            "binWeight": 9,
+            "actual": 3.3333333,
+            "predicted": 3.8582823
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 7,
+            "binWeight": 8,
+            "actual": 6.125,
+            "predicted": 3.9734929
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 8,
+            "binWeight": 9,
+            "actual": 3.8888888,
+            "predicted": 4.0482974
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 9,
+            "binWeight": 9,
+            "actual": 2.4444444,
+            "predicted": 4.099484
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 10,
+            "binWeight": 8,
+            "actual": 4,
+            "predicted": 4.1880016
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 11,
+            "binWeight": 9,
+            "actual": 4.444444,
+            "predicted": 4.243523
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 12,
+            "binWeight": 9,
+            "actual": 5,
+            "predicted": 4.341948
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 13,
+            "binWeight": 8,
+            "actual": 5.375,
+            "predicted": 4.415814
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 14,
+            "binWeight": 9,
+            "actual": 4.444444,
+            "predicted": 4.449847
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 15,
+            "binWeight": 9,
+            "actual": 3.777778,
+            "predicted": 4.4984183
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 16,
+            "binWeight": 8,
+            "actual": 4,
+            "predicted": 4.5462933
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 17,
+            "binWeight": 9,
+            "actual": 5.2222223,
+            "predicted": 4.6027784
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 18,
+            "binWeight": 9,
+            "actual": 4.2222223,
+            "predicted": 4.6563573
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 19,
+            "binWeight": 8,
+            "actual": 8.375,
+            "predicted": 4.7456794
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 20,
+            "binWeight": 9,
+            "actual": 4.555556,
+            "predicted": 4.8167887
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 21,
+            "binWeight": 9,
+            "actual": 4.111111,
+            "predicted": 4.8698907
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 22,
+            "binWeight": 9,
+            "actual": 3.1111112,
+            "predicted": 4.9159474
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 23,
+            "binWeight": 8,
+            "actual": 4.25,
+            "predicted": 4.9510036
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 24,
+            "binWeight": 9,
+            "actual": 5.111111,
+            "predicted": 4.9959016
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 25,
+            "binWeight": 9,
+            "actual": 4.3333335,
+            "predicted": 5.072648
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 26,
+            "binWeight": 8,
+            "actual": 5.875,
+            "predicted": 5.108038
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 27,
+            "binWeight": 9,
+            "actual": 5.555556,
+            "predicted": 5.1483884
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 28,
+            "binWeight": 9,
+            "actual": 4,
+            "predicted": 5.194892
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 29,
+            "binWeight": 8,
+            "actual": 7.25,
+            "predicted": 5.2351947
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 30,
+            "binWeight": 9,
+            "actual": 3.8888888,
+            "predicted": 5.2832665
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 31,
+            "binWeight": 9,
+            "actual": 6.6666665,
+            "predicted": 5.33551
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 32,
+            "binWeight": 8,
+            "actual": 6.75,
+            "predicted": 5.3669157
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 33,
+            "binWeight": 9,
+            "actual": 5.111111,
+            "predicted": 5.4054294
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 34,
+            "binWeight": 9,
+            "actual": 5.6666665,
+            "predicted": 5.4495873
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 35,
+            "binWeight": 8,
+            "actual": 6.75,
+            "predicted": 5.487095
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 36,
+            "binWeight": 9,
+            "actual": 4,
+            "predicted": 5.5272565
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 37,
+            "binWeight": 9,
+            "actual": 7.111111,
+            "predicted": 5.5885735
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 38,
+            "binWeight": 8,
+            "actual": 5.875,
+            "predicted": 5.6377153
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 39,
+            "binWeight": 9,
+            "actual": 5.555556,
+            "predicted": 5.687281
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 40,
+            "binWeight": 9,
+            "actual": 3.8888888,
+            "predicted": 5.7511415
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 41,
+            "binWeight": 9,
+            "actual": 6.7777777,
+            "predicted": 5.8067455
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 42,
+            "binWeight": 8,
+            "actual": 4.375,
+            "predicted": 5.844404
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 43,
+            "binWeight": 9,
+            "actual": 6,
+            "predicted": 5.906213
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 44,
+            "binWeight": 9,
+            "actual": 5.2222223,
+            "predicted": 5.9873986
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 45,
+            "binWeight": 8,
+            "actual": 4.375,
+            "predicted": 6.045633
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 46,
+            "binWeight": 9,
+            "actual": 6.2222223,
+            "predicted": 6.1157875
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 47,
+            "binWeight": 9,
+            "actual": 5.3333335,
+            "predicted": 6.163026
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 48,
+            "binWeight": 8,
+            "actual": 4.375,
+            "predicted": 6.2017813
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 49,
+            "binWeight": 9,
+            "actual": 6.6666665,
+            "predicted": 6.2931533
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 50,
+            "binWeight": 9,
+            "actual": 7,
+            "predicted": 6.3597536
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 51,
+            "binWeight": 8,
+            "actual": 4.625,
+            "predicted": 6.448633
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 52,
+            "binWeight": 9,
+            "actual": 8.333333,
+            "predicted": 6.526618
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 53,
+            "binWeight": 9,
+            "actual": 7,
+            "predicted": 6.7055187
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 54,
+            "binWeight": 8,
+            "actual": 9,
+            "predicted": 6.8168454
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 55,
+            "binWeight": 9,
+            "actual": 8.555555,
+            "predicted": 6.899624
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 56,
+            "binWeight": 9,
+            "actual": 7.7777777,
+            "predicted": 6.994432
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 57,
+            "binWeight": 8,
+            "actual": 8.125,
+            "predicted": 7.1340895
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 58,
+            "binWeight": 9,
+            "actual": 7.2222223,
+            "predicted": 7.377135
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 59,
+            "binWeight": 9,
+            "actual": 7.888889,
+            "predicted": 7.757167
+        },
+        {
+            "sourceId": 2,
+            "sourceName": "crossValidation",
+            "binX": 60,
+            "binWeight": 9,
+            "actual": 6.888889,
+            "predicted": 8.273451
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 1,
+            "binWeight": 3,
+            "actual": 6.6666665,
+            "predicted": 2.675273
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 2,
+            "binWeight": 2,
+            "actual": 4.5,
+            "predicted": 3.390693
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 3,
+            "binWeight": 2,
+            "actual": 4.5,
+            "predicted": 3.5573535
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 4,
+            "binWeight": 2,
+            "actual": 1,
+            "predicted": 3.646378
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 5,
+            "binWeight": 2,
+            "actual": 7.5,
+            "predicted": 3.7444062
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 6,
+            "binWeight": 2,
+            "actual": 6,
+            "predicted": 3.8865366
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 7,
+            "binWeight": 3,
+            "actual": 3,
+            "predicted": 4.0080295
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 8,
+            "binWeight": 2,
+            "actual": 3,
+            "predicted": 4.1838646
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 9,
+            "binWeight": 2,
+            "actual": 3,
+            "predicted": 4.2355094
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 10,
+            "binWeight": 2,
+            "actual": 2,
+            "predicted": 4.2937064
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 11,
+            "binWeight": 2,
+            "actual": 5,
+            "predicted": 4.3355227
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 12,
+            "binWeight": 2,
+            "actual": 5,
+            "predicted": 4.3855476
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 13,
+            "binWeight": 2,
+            "actual": 7.5,
+            "predicted": 4.418951
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 14,
+            "binWeight": 3,
+            "actual": 2.6666667,
+            "predicted": 4.450519
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 15,
+            "binWeight": 2,
+            "actual": 4.5,
+            "predicted": 4.557625
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 16,
+            "binWeight": 2,
+            "actual": 4,
+            "predicted": 4.574763
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 17,
+            "binWeight": 2,
+            "actual": 8.5,
+            "predicted": 4.604058
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 18,
+            "binWeight": 2,
+            "actual": 4,
+            "predicted": 4.6285443
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 19,
+            "binWeight": 2,
+            "actual": 8.5,
+            "predicted": 4.6900187
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 20,
+            "binWeight": 2,
+            "actual": 4,
+            "predicted": 4.8185425
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 21,
+            "binWeight": 3,
+            "actual": 4.3333335,
+            "predicted": 4.866777
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 22,
+            "binWeight": 2,
+            "actual": 6.5,
+            "predicted": 4.94323
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 23,
+            "binWeight": 2,
+            "actual": 6,
+            "predicted": 4.9944158
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 24,
+            "binWeight": 2,
+            "actual": 6.5,
+            "predicted": 5.0201616
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 25,
+            "binWeight": 2,
+            "actual": 4,
+            "predicted": 5.041522
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 26,
+            "binWeight": 2,
+            "actual": 4,
+            "predicted": 5.105741
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 27,
+            "binWeight": 3,
+            "actual": 10.333333,
+            "predicted": 5.16236
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 28,
+            "binWeight": 2,
+            "actual": 4.5,
+            "predicted": 5.185527
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 29,
+            "binWeight": 2,
+            "actual": 7,
+            "predicted": 5.204572
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 30,
+            "binWeight": 2,
+            "actual": 7,
+            "predicted": 5.2283273
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 31,
+            "binWeight": 2,
+            "actual": 6,
+            "predicted": 5.269632
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 32,
+            "binWeight": 2,
+            "actual": 1.5,
+            "predicted": 5.3250613
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 33,
+            "binWeight": 2,
+            "actual": 7.5,
+            "predicted": 5.376498
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 34,
+            "binWeight": 3,
+            "actual": 4.6666665,
+            "predicted": 5.422635
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 35,
+            "binWeight": 2,
+            "actual": 5,
+            "predicted": 5.487313
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 36,
+            "binWeight": 2,
+            "actual": 3,
+            "predicted": 5.531199
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 37,
+            "binWeight": 2,
+            "actual": 5,
+            "predicted": 5.599023
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 38,
+            "binWeight": 2,
+            "actual": 5.5,
+            "predicted": 5.6317196
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 39,
+            "binWeight": 2,
+            "actual": 3,
+            "predicted": 5.67439
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 40,
+            "binWeight": 2,
+            "actual": 5.5,
+            "predicted": 5.7078905
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 41,
+            "binWeight": 3,
+            "actual": 4,
+            "predicted": 5.732957
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 42,
+            "binWeight": 2,
+            "actual": 8,
+            "predicted": 5.756009
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 43,
+            "binWeight": 2,
+            "actual": 6.5,
+            "predicted": 5.790627
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 44,
+            "binWeight": 2,
+            "actual": 4,
+            "predicted": 5.822819
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 45,
+            "binWeight": 2,
+            "actual": 5.5,
+            "predicted": 5.8540263
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 46,
+            "binWeight": 2,
+            "actual": 5.5,
+            "predicted": 5.9254293
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 47,
+            "binWeight": 3,
+            "actual": 5.3333335,
+            "predicted": 5.9699864
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 48,
+            "binWeight": 2,
+            "actual": 3.5,
+            "predicted": 6.0465474
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 49,
+            "binWeight": 2,
+            "actual": 6,
+            "predicted": 6.0902505
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 50,
+            "binWeight": 2,
+            "actual": 4,
+            "predicted": 6.1550155
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 51,
+            "binWeight": 2,
+            "actual": 4,
+            "predicted": 6.2688127
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 52,
+            "binWeight": 2,
+            "actual": 6.5,
+            "predicted": 6.312467
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 53,
+            "binWeight": 2,
+            "actual": 4,
+            "predicted": 6.359701
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 54,
+            "binWeight": 3,
+            "actual": 4.6666665,
+            "predicted": 6.467458
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 55,
+            "binWeight": 2,
+            "actual": 5.5,
+            "predicted": 6.5525246
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 56,
+            "binWeight": 2,
+            "actual": 8,
+            "predicted": 6.7802634
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 57,
+            "binWeight": 2,
+            "actual": 9,
+            "predicted": 6.94468
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 58,
+            "binWeight": 2,
+            "actual": 5,
+            "predicted": 7.0943394
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 59,
+            "binWeight": 2,
+            "actual": 8.5,
+            "predicted": 7.5421276
+        },
+        {
+            "sourceId": 3,
+            "sourceName": "holdout",
+            "binX": 60,
+            "binWeight": 3,
+            "actual": 4.3333335,
+            "predicted": 8.190907
+        }
+    ],
+    "featureImpacts": [
+        {
+            "featureName": "TOTAL OFFENSIVE REBOUND",
+            "impactNormalized": 1,
+            "impactUnnormalized": 0.1705664,
+            "redundantWith": null
+        },
+        {
+            "featureName": "STEALS PER 36 MINUTES",
+            "impactNormalized": 0.5254448,
+            "impactUnnormalized": 0.0896232,
+            "redundantWith": null
+        },
+        {
+            "featureName": "TOTAL GAME STARTED",
+            "impactNormalized": 0.5118859,
+            "impactUnnormalized": 0.0873105,
+            "redundantWith": null
+        },
+        {
+            "featureName": "PLAYER AGE",
+            "impactNormalized": 0.4658778,
+            "impactUnnormalized": 0.0794631,
+            "redundantWith": null
+        },
+        {
+            "featureName": "TOTAL GAME PLAYED",
+            "impactNormalized": 0.2495435,
+            "impactUnnormalized": 0.0425637,
+            "redundantWith": null
+        },
+        {
+            "featureName": "DEFENSIVE REBOUND PER 36 MINUTES",
+            "impactNormalized": 0.1537328,
+            "impactUnnormalized": 0.0262216,
+            "redundantWith": null
+        },
+        {
+            "featureName": "TOTAL ASSISTS",
+            "impactNormalized": 0.0608858,
+            "impactUnnormalized": 0.0103851,
+            "redundantWith": null
+        },
+        {
+            "featureName": "TOTAL FREE THROWS ATTEMPTED",
+            "impactNormalized": 0.0400805,
+            "impactUnnormalized": 0.0068364,
+            "redundantWith": null
+        },
+        {
+            "featureName": "3 POINT % PER 36 MINUTES",
+            "impactNormalized": 0.0235002,
+            "impactUnnormalized": 0.0040083,
+            "redundantWith": null
+        },
+        {
+            "featureName": "OFFENSIVE REBOUND PER GAME",
+            "impactNormalized": 0.009857,
+            "impactUnnormalized": 0.0016813,
+            "redundantWith": "TOTAL OFFENSIVE REBOUND"
+        },
+        {
+            "featureName": "FREE THROWS % PER 36 MINUTES",
+            "impactNormalized": 0.0082098,
+            "impactUnnormalized": 0.0014003,
+            "redundantWith": null
+        }
+    ],
+    "clusterInsights": null,
+    "multiclassLiftChart": null,
+    "multiclassFeatureImpacts": null
+}

@@ -1,0 +1,1372 @@
+{
+  "multiclassFeatureEffectsPartial": [
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.292914152145386,
+      "labelNumeric": 0.8,
+      "label": "0.8"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.292175203561783,
+      "labelNumeric": 0.9,
+      "label": "0.9"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.29143875837326,
+      "labelNumeric": 1,
+      "label": "1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.290704727172852,
+      "labelNumeric": 1.1,
+      "label": "1.1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.28997340798378,
+      "labelNumeric": 1.2,
+      "label": "1.2"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.289244562387466,
+      "labelNumeric": 1.3,
+      "label": "1.3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.288518488407135,
+      "labelNumeric": 1.4,
+      "label": "1.4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.287795215845108,
+      "labelNumeric": 1.5,
+      "label": "1.5"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.28707492351532,
+      "labelNumeric": 1.6,
+      "label": "1.6"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.286357760429382,
+      "labelNumeric": 1.7,
+      "label": "1.7"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.285643309354782,
+      "labelNumeric": 1.8,
+      "label": "1.8"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.284932225942612,
+      "labelNumeric": 1.9,
+      "label": "1.9"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.28422412276268,
+      "labelNumeric": 2,
+      "label": "2"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.283519685268402,
+      "labelNumeric": 2.1,
+      "label": "2.1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.282817959785461,
+      "labelNumeric": 2.2,
+      "label": "2.2"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.282120406627655,
+      "labelNumeric": 2.3,
+      "label": "2.3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.281426042318344,
+      "labelNumeric": 2.4,
+      "label": "2.4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.280735313892364,
+      "labelNumeric": 2.5,
+      "label": "2.5"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.280048280954361,
+      "labelNumeric": 2.6,
+      "label": "2.6"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.279365003108978,
+      "labelNumeric": 2.7,
+      "label": "2.7"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.278685420751572,
+      "labelNumeric": 2.8,
+      "label": "2.8"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.278009802103043,
+      "labelNumeric": 2.9,
+      "label": "2.9"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.277338236570358,
+      "labelNumeric": 3,
+      "label": "3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.276670396327972,
+      "labelNumeric": 3.1,
+      "label": "3.1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.276006937026978,
+      "labelNumeric": 3.2,
+      "label": "3.2"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.27534756064415,
+      "labelNumeric": 3.3,
+      "label": "3.3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.274692386388779,
+      "labelNumeric": 3.4,
+      "label": "3.4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.27404123544693,
+      "labelNumeric": 3.5,
+      "label": "3.5"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.273394972085953,
+      "labelNumeric": 3.6,
+      "label": "3.6"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.272752940654755,
+      "labelNumeric": 3.7,
+      "label": "3.7"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.27211531996727,
+      "labelNumeric": 3.8,
+      "label": "3.8"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.27148225903511,
+      "labelNumeric": 3.9,
+      "label": "3.9"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.27085354924202,
+      "labelNumeric": 4,
+      "label": "4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.2702297270298,
+      "labelNumeric": 4.1,
+      "label": "4.1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.269610613584518,
+      "labelNumeric": 4.2,
+      "label": "4.2"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.268996298313141,
+      "labelNumeric": 4.3,
+      "label": "4.3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.268386691808701,
+      "labelNumeric": 4.4,
+      "label": "4.4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.267781794071198,
+      "labelNumeric": 4.5,
+      "label": "4.5"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.267181903123856,
+      "labelNumeric": 4.6,
+      "label": "4.6"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.2665875852108,
+      "labelNumeric": 4.7,
+      "label": "4.7"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.265997678041458,
+      "labelNumeric": 4.8,
+      "label": "4.8"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.265413135290146,
+      "labelNumeric": 4.9,
+      "label": "4.9"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.264833271503448,
+      "labelNumeric": 5,
+      "label": "5"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.264258772134781,
+      "labelNumeric": 5.1,
+      "label": "5.1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.263689488172531,
+      "labelNumeric": 5.2,
+      "label": "5.2"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.263125449419022,
+      "labelNumeric": 5.3,
+      "label": "5.3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.262566685676575,
+      "labelNumeric": 5.4,
+      "label": "5.4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.26201319694519,
+      "labelNumeric": 5.5,
+      "label": "5.5"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.261465042829514,
+      "labelNumeric": 5.6,
+      "label": "5.6"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.260922402143478,
+      "labelNumeric": 5.7,
+      "label": "5.7"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.260385036468506,
+      "labelNumeric": 5.8,
+      "label": "5.8"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.259853154420853,
+      "labelNumeric": 5.9,
+      "label": "5.9"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.259326696395874,
+      "labelNumeric": 6,
+      "label": "6"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.258805930614471,
+      "labelNumeric": 6.1,
+      "label": "6.1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.257780760526657,
+      "labelNumeric": 6.3,
+      "label": "6.3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.257276475429535,
+      "labelNumeric": 6.4,
+      "label": "6.4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 1",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.276006937026978,
+      "labelNumeric": null,
+      "label": "nan"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.381625801324844,
+      "labelNumeric": 0.8,
+      "label": "0.8"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.382180750370026,
+      "labelNumeric": 0.9,
+      "label": "0.9"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.382733911275864,
+      "labelNumeric": 1,
+      "label": "1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.383285939693451,
+      "labelNumeric": 1.1,
+      "label": "1.1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.383835971355438,
+      "labelNumeric": 1.2,
+      "label": "1.2"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.384384840726852,
+      "labelNumeric": 1.3,
+      "label": "1.3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.384931743144989,
+      "labelNumeric": 1.4,
+      "label": "1.4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.385477125644684,
+      "labelNumeric": 1.5,
+      "label": "1.5"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.386020809412003,
+      "labelNumeric": 1.6,
+      "label": "1.6"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.386562347412109,
+      "labelNumeric": 1.7,
+      "label": "1.7"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.387102246284485,
+      "labelNumeric": 1.8,
+      "label": "1.8"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.387640058994293,
+      "labelNumeric": 1.9,
+      "label": "1.9"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.388175666332245,
+      "labelNumeric": 2,
+      "label": "2"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.388709664344788,
+      "labelNumeric": 2.1,
+      "label": "2.1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.389241129159927,
+      "labelNumeric": 2.2,
+      "label": "2.2"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.389770478010178,
+      "labelNumeric": 2.3,
+      "label": "2.3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.390297442674637,
+      "labelNumeric": 2.4,
+      "label": "2.4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.390822112560272,
+      "labelNumeric": 2.5,
+      "label": "2.5"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.391344428062439,
+      "labelNumeric": 2.6,
+      "label": "2.6"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.391864001750946,
+      "labelNumeric": 2.7,
+      "label": "2.7"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.392381727695465,
+      "labelNumeric": 2.8,
+      "label": "2.8"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.392896205186844,
+      "labelNumeric": 2.9,
+      "label": "2.9"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.39340814948082,
+      "labelNumeric": 3,
+      "label": "3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.393917411565781,
+      "labelNumeric": 3.1,
+      "label": "3.1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.394424200057983,
+      "labelNumeric": 3.2,
+      "label": "3.2"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.394928008317947,
+      "labelNumeric": 3.3,
+      "label": "3.3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.395428895950317,
+      "labelNumeric": 3.4,
+      "label": "3.4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.395926773548126,
+      "labelNumeric": 3.5,
+      "label": "3.5"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.396421790122986,
+      "labelNumeric": 3.6,
+      "label": "3.6"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.396913468837738,
+      "labelNumeric": 3.7,
+      "label": "3.7"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.397402375936508,
+      "labelNumeric": 3.8,
+      "label": "3.8"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.397887885570526,
+      "labelNumeric": 3.9,
+      "label": "3.9"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.398370444774628,
+      "labelNumeric": 4,
+      "label": "4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.398849606513977,
+      "labelNumeric": 4.1,
+      "label": "4.1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.399325281381607,
+      "labelNumeric": 4.2,
+      "label": "4.2"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.399797558784485,
+      "labelNumeric": 4.3,
+      "label": "4.3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.400266528129578,
+      "labelNumeric": 4.4,
+      "label": "4.4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.400732189416885,
+      "labelNumeric": 4.5,
+      "label": "4.5"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.401194125413895,
+      "labelNumeric": 4.6,
+      "label": "4.6"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.401652455329895,
+      "labelNumeric": 4.7,
+      "label": "4.7"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.402107238769531,
+      "labelNumeric": 4.8,
+      "label": "4.8"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.402558267116547,
+      "labelNumeric": 4.9,
+      "label": "4.9"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.403005927801132,
+      "labelNumeric": 5,
+      "label": "5"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.403449296951294,
+      "labelNumeric": 5.1,
+      "label": "5.1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.403889238834381,
+      "labelNumeric": 5.2,
+      "label": "5.2"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.404325008392334,
+      "labelNumeric": 5.3,
+      "label": "5.3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.404757380485535,
+      "labelNumeric": 5.4,
+      "label": "5.4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.405185043811798,
+      "labelNumeric": 5.5,
+      "label": "5.5"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.405609309673309,
+      "labelNumeric": 5.6,
+      "label": "5.6"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.406029671430588,
+      "labelNumeric": 5.7,
+      "label": "5.7"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.40644583106041,
+      "labelNumeric": 5.8,
+      "label": "5.8"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.406857520341873,
+      "labelNumeric": 5.9,
+      "label": "5.9"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.407265603542328,
+      "labelNumeric": 6,
+      "label": "6"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.407669425010681,
+      "labelNumeric": 6.1,
+      "label": "6.1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.408464074134827,
+      "labelNumeric": 6.3,
+      "label": "6.3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.408855020999908,
+      "labelNumeric": 6.4,
+      "label": "6.4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 2",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.394424200057983,
+      "labelNumeric": null,
+      "label": "nan"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.325460106134415,
+      "labelNumeric": 0.8,
+      "label": "0.8"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.325644105672836,
+      "labelNumeric": 0.9,
+      "label": "0.9"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.325827330350876,
+      "labelNumeric": 1,
+      "label": "1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.326009392738342,
+      "labelNumeric": 1.1,
+      "label": "1.1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.32619059085846,
+      "labelNumeric": 1.2,
+      "label": "1.2"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.326370716094971,
+      "labelNumeric": 1.3,
+      "label": "1.3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.326549619436264,
+      "labelNumeric": 1.4,
+      "label": "1.4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.326727509498596,
+      "labelNumeric": 1.5,
+      "label": "1.5"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.326904296875,
+      "labelNumeric": 1.6,
+      "label": "1.6"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.327079921960831,
+      "labelNumeric": 1.7,
+      "label": "1.7"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.327254354953766,
+      "labelNumeric": 1.8,
+      "label": "1.8"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.32742777466774,
+      "labelNumeric": 1.9,
+      "label": "1.9"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.327600091695786,
+      "labelNumeric": 2,
+      "label": "2"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.327770680189133,
+      "labelNumeric": 2.1,
+      "label": "2.1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.327940762042999,
+      "labelNumeric": 2.2,
+      "label": "2.2"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.3281090259552,
+      "labelNumeric": 2.3,
+      "label": "2.3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.32827627658844,
+      "labelNumeric": 2.4,
+      "label": "2.4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.328442454338074,
+      "labelNumeric": 2.5,
+      "label": "2.5"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.328606992959976,
+      "labelNumeric": 2.6,
+      "label": "2.6"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.328770846128464,
+      "labelNumeric": 2.7,
+      "label": "2.7"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.328933000564575,
+      "labelNumeric": 2.8,
+      "label": "2.8"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.329093992710114,
+      "labelNumeric": 2.9,
+      "label": "2.9"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.329253405332565,
+      "labelNumeric": 3,
+      "label": "3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.329411804676056,
+      "labelNumeric": 3.1,
+      "label": "3.1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.32956874370575,
+      "labelNumeric": 3.2,
+      "label": "3.2"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.329724580049515,
+      "labelNumeric": 3.3,
+      "label": "3.3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.329878598451614,
+      "labelNumeric": 3.4,
+      "label": "3.4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.330031782388687,
+      "labelNumeric": 3.5,
+      "label": "3.5"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.33018347620964,
+      "labelNumeric": 3.6,
+      "label": "3.6"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.33033350110054,
+      "labelNumeric": 3.7,
+      "label": "3.7"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.330482244491577,
+      "labelNumeric": 3.8,
+      "label": "3.8"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.330629885196686,
+      "labelNumeric": 3.9,
+      "label": "3.9"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.330776035785675,
+      "labelNumeric": 4,
+      "label": "4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.3309206366539,
+      "labelNumeric": 4.1,
+      "label": "4.1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.331064164638519,
+      "labelNumeric": 4.2,
+      "label": "4.2"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.331206202507019,
+      "labelNumeric": 4.3,
+      "label": "4.3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.331346601247788,
+      "labelNumeric": 4.4,
+      "label": "4.4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.331486105918884,
+      "labelNumeric": 4.5,
+      "label": "4.5"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.331623703241348,
+      "labelNumeric": 4.6,
+      "label": "4.6"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.331760317087173,
+      "labelNumeric": 4.7,
+      "label": "4.7"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.331895291805267,
+      "labelNumeric": 4.8,
+      "label": "4.8"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.332028836011887,
+      "labelNumeric": 4.9,
+      "label": "4.9"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.332160919904709,
+      "labelNumeric": 5,
+      "label": "5"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.332292050123215,
+      "labelNumeric": 5.1,
+      "label": "5.1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.332421183586121,
+      "labelNumeric": 5.2,
+      "label": "5.2"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.332549631595612,
+      "labelNumeric": 5.3,
+      "label": "5.3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.332676112651825,
+      "labelNumeric": 5.4,
+      "label": "5.4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.332801431417465,
+      "labelNumeric": 5.5,
+      "label": "5.5"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.332925468683243,
+      "labelNumeric": 5.6,
+      "label": "5.6"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.333048075437546,
+      "labelNumeric": 5.7,
+      "label": "5.7"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.333169728517532,
+      "labelNumeric": 5.8,
+      "label": "5.8"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.333289176225662,
+      "labelNumeric": 5.9,
+      "label": "5.9"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.333407610654831,
+      "labelNumeric": 6,
+      "label": "6"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.333524703979492,
+      "labelNumeric": 6.1,
+      "label": "6.1"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.333755135536194,
+      "labelNumeric": 6.3,
+      "label": "6.3"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.333868205547333,
+      "labelNumeric": 6.4,
+      "label": "6.4"
+    },
+    {
+      "source": "training",
+      "class": "Cluster 3",
+      "featureName": "FREE THROWS MADE PER GAME",
+      "dependence": 0.32956874370575,
+      "labelNumeric": null,
+      "label": "nan"
+    }
+  ]
+}

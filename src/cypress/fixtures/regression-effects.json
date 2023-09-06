@@ -1,0 +1,590 @@
+[
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.3334642,
+    "labelNumeric": 100.30000000000007,
+    "label": "100.30000000000007"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.359715,
+    "labelNumeric": 102,
+    "label": "102"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.2406307,
+    "labelNumeric": 10.27,
+    "label": "10.27"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.4169476,
+    "labelNumeric": 104.84000000000003,
+    "label": "104.84000000000003"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.4559984,
+    "labelNumeric": 107,
+    "label": "107"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.4794438,
+    "labelNumeric": 108,
+    "label": "108"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.5165986,
+    "labelNumeric": 110,
+    "label": "110"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.570562,
+    "labelNumeric": 113,
+    "label": "113"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.6265631,
+    "labelNumeric": 116,
+    "label": "116"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.6668031,
+    "labelNumeric": 118.46000000000004,
+    "label": "118.46000000000004"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.2746173,
+    "labelNumeric": 12,
+    "label": "12"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.8159841,
+    "labelNumeric": 128.19000000000005,
+    "label": "128.19000000000005"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.30857,
+    "labelNumeric": 13,
+    "label": "13"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.3385746,
+    "labelNumeric": 14,
+    "label": "14"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.372315,
+    "labelNumeric": 15,
+    "label": "15"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.3892013,
+    "labelNumeric": 16,
+    "label": "16"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.4186893,
+    "labelNumeric": 17,
+    "label": "17"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.4535155,
+    "labelNumeric": 18.239999999999995,
+    "label": "18.239999999999995"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.4652972,
+    "labelNumeric": 19,
+    "label": "19"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.507125,
+    "labelNumeric": 20,
+    "label": "20"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.5392592,
+    "labelNumeric": 21,
+    "label": "21"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.565634,
+    "labelNumeric": 22,
+    "label": "22"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.5832562,
+    "labelNumeric": 23,
+    "label": "23"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.6158787,
+    "labelNumeric": 24,
+    "label": "24"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.6473124,
+    "labelNumeric": 25,
+    "label": "25"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.6827227,
+    "labelNumeric": 26,
+    "label": "26"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.7008048,
+    "labelNumeric": 27,
+    "label": "27"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.7289909,
+    "labelNumeric": 28,
+    "label": "28"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.7559812,
+    "labelNumeric": 29,
+    "label": "29"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.7750152,
+    "labelNumeric": 29.829999999999984,
+    "label": "29.829999999999984"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.7849127,
+    "labelNumeric": 30.099999999999994,
+    "label": "30.099999999999994"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.824216,
+    "labelNumeric": 32,
+    "label": "32"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.8386211,
+    "labelNumeric": 32.640000000000015,
+    "label": "32.640000000000015"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.8564777,
+    "labelNumeric": 33,
+    "label": "33"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.8753523,
+    "labelNumeric": 34,
+    "label": "34"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.902109,
+    "labelNumeric": 35,
+    "label": "35"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.9352339,
+    "labelNumeric": 36,
+    "label": "36"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.9659672,
+    "labelNumeric": 37,
+    "label": "37"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 4.9831295,
+    "labelNumeric": 38,
+    "label": "38"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.0293836,
+    "labelNumeric": 40,
+    "label": "40"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.0570319,
+    "labelNumeric": 41,
+    "label": "41"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.0947811,
+    "labelNumeric": 43,
+    "label": "43"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.1244955,
+    "labelNumeric": 44,
+    "label": "44"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.1663627,
+    "labelNumeric": 46,
+    "label": "46"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.1960063,
+    "labelNumeric": 47,
+    "label": "47"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.2237396,
+    "labelNumeric": 48,
+    "label": "48"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.2477369,
+    "labelNumeric": 49,
+    "label": "49"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.2655526,
+    "labelNumeric": 50.04000000000002,
+    "label": "50.04000000000002"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.3152854,
+    "labelNumeric": 52,
+    "label": "52"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.3328651,
+    "labelNumeric": 53,
+    "label": "53"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.3571526,
+    "labelNumeric": 54,
+    "label": "54"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.3857703,
+    "labelNumeric": 55,
+    "label": "55"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.4127747,
+    "labelNumeric": 56,
+    "label": "56"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.4297814,
+    "labelNumeric": 57,
+    "label": "57"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.4575146,
+    "labelNumeric": 58,
+    "label": "58"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.4809176,
+    "labelNumeric": 59,
+    "label": "59"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.5268478,
+    "labelNumeric": 61.74000000000001,
+    "label": "61.74000000000001"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.5720924,
+    "labelNumeric": 64,
+    "label": "64"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.5889504,
+    "labelNumeric": 65,
+    "label": "65"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.6138605,
+    "labelNumeric": 66,
+    "label": "66"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.6397541,
+    "labelNumeric": 67,
+    "label": "67"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.6971562,
+    "labelNumeric": 70,
+    "label": "70"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.7254201,
+    "labelNumeric": 71,
+    "label": "71"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.7422781,
+    "labelNumeric": 72,
+    "label": "72"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.7720735,
+    "labelNumeric": 73.16999999999996,
+    "label": "73.16999999999996"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.7925511,
+    "labelNumeric": 74,
+    "label": "74"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.8169305,
+    "labelNumeric": 75,
+    "label": "75"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.8559604,
+    "labelNumeric": 77,
+    "label": "77"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.8671532,
+    "labelNumeric": 77.25,
+    "label": "77.25"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.9033182,
+    "labelNumeric": 79,
+    "label": "79"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.9196527,
+    "labelNumeric": 80,
+    "label": "80"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.9450369,
+    "labelNumeric": 81,
+    "label": "81"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 5.9884749,
+    "labelNumeric": 83,
+    "label": "83"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.0317581,
+    "labelNumeric": 85.60000000000002,
+    "label": "85.60000000000002"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.0579731,
+    "labelNumeric": 87,
+    "label": "87"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.0809515,
+    "labelNumeric": 88,
+    "label": "88"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.1079419,
+    "labelNumeric": 89,
+    "label": "89"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.1313236,
+    "labelNumeric": 90,
+    "label": "90"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.1695911,
+    "labelNumeric": 91.94999999999993,
+    "label": "91.94999999999993"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.181254,
+    "labelNumeric": 92.22000000000003,
+    "label": "92.22000000000003"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.2225676,
+    "labelNumeric": 94.49000000000001,
+    "label": "94.49000000000001"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.2793958,
+    "labelNumeric": 97.75999999999999,
+    "label": "97.75999999999999"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 6.3042587,
+    "labelNumeric": 99,
+    "label": "99"
+  },
+  {
+    "source": "training",
+    "featureName": "TOTAL OFFENSIVE REBOUND",
+    "dependence": 8.7521654,
+    "labelNumeric": null,
+    "label": "nan"
+  }
+]

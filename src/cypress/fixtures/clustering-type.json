@@ -1,0 +1,8 @@
+{
+  "requestedModelType": "Clustering",
+  "dataLabel": "TOTAL_FIELD_GOALS_MADE",
+  "listFeatures": [
+    "TOTAL_FIELD_GOALS_MADE"
+  ],
+  "target": null
+}

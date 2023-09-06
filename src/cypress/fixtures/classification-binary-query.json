@@ -1,0 +1,5191 @@
+{
+  "data": {
+    "rows": [
+      [
+        0.5332555175,
+        0.4667444825,
+        "4+",
+        0.5,
+        "4+",
+        "TOTAL MINUTES",
+        0.1553007469,
+        1244,
+        "++",
+        "TOTAL GAME STARTED",
+        -0.1043386782,
+        33,
+        "--",
+        "FIELD GOALS % PER 36 MINUTES",
+        0.0773231022,
+        0.461,
+        "++",
+        "TOTAL GAME PLAYED",
+        -0.0634188668,
+        33,
+        "--",
+        null,
+        null,
+        null,
+        null,
+        21,
+        212,
+        460,
+        88,
+        205,
+        159,
+        192,
+        17,
+        104,
+        121,
+        192,
+        42,
+        8,
+        125,
+        87,
+        671,
+        37.7,
+        6.4,
+        13.9,
+        2.7,
+        6.2,
+        4.8,
+        5.8,
+        0.5,
+        3.2,
+        3.7,
+        5.8,
+        1.3,
+        0.2,
+        3.8,
+        2.6,
+        20.3,
+        33,
+        33,
+        1244,
+        6.1,
+        13.3,
+        0.461,
+        2.5,
+        5.9,
+        0.429,
+        4.6,
+        5.6,
+        0.828,
+        0.5,
+        3,
+        3.5,
+        5.6,
+        1.2,
+        0.2,
+        3.6,
+        2.5,
+        19.4,
+        "4+",
+        "Holiday, Aaron"
+      ],
+      [
+        0.4379805028,
+        0.5620194972,
+        "0-4",
+        0.5,
+        "4+",
+        "TOTAL MINUTES",
+        -0.1553006041,
+        919,
+        "--",
+        "TOTAL GAME STARTED",
+        -0.1043385697,
+        33,
+        "--",
+        "TOTAL GAME PLAYED",
+        -0.0634189248,
+        33,
+        "--",
+        "FIELD GOALS % PER 36 MINUTES",
+        0.0053435822,
+        0.4379999999999999,
+        "+",
+        null,
+        null,
+        null,
+        null,
+        22,
+        117,
+        267,
+        46,
+        105,
+        67,
+        96,
+        58,
+        141,
+        199,
+        31,
+        29,
+        26,
+        54,
+        72,
+        347,
+        27.8,
+        3.5,
+        8.1,
+        1.4,
+        3.2,
+        2,
+        2.9,
+        1.8,
+        4.3,
+        6,
+        0.9,
+        0.9,
+        0.8,
+        1.6,
+        2.2,
+        10.5,
+        33,
+        33,
+        919,
+        4.6,
+        10.5,
+        0.438,
+        1.8,
+        4.1,
+        0.438,
+        2.6,
+        3.8,
+        0.698,
+        2.3,
+        5.5,
+        7.8,
+        1.2,
+        1.1,
+        1,
+        2.1,
+        2.8,
+        13.6,
+        "4+",
+        "Jackson, Justin"
+      ],
+      [
+        0.3047480285,
+        0.6952519715,
+        "0-4",
+        0.5,
+        "4+",
+        "FIELD GOALS % PER 36 MINUTES",
+        -0.4799686308,
+        0.402,
+        "---",
+        "TOTAL GAME STARTED",
+        -0.1944532814,
+        24,
+        "--",
+        "TOTAL MINUTES",
+        -0.1553007482,
+        867,
+        "--",
+        "TOTAL GAME PLAYED",
+        -0.0634189315,
+        26,
+        "-",
+        null,
+        null,
+        null,
+        null,
+        20,
+        163,
+        405,
+        67,
+        198,
+        85,
+        99,
+        12,
+        50,
+        62,
+        101,
+        57,
+        6,
+        75,
+        43,
+        478,
+        33.3,
+        6.3,
+        15.6,
+        2.6,
+        7.6,
+        3.3,
+        3.8,
+        0.5,
+        1.9,
+        2.4,
+        3.9,
+        2.2,
+        0.2,
+        2.9,
+        1.7,
+        18.4,
+        26,
+        24,
+        867,
+        6.8,
+        16.8,
+        0.402,
+        2.8,
+        8.2,
+        0.338,
+        3.5,
+        4.1,
+        0.859,
+        0.5,
+        2.1,
+        2.6,
+        4.2,
+        2.4,
+        0.2,
+        3.1,
+        1.8,
+        19.8,
+        "4+",
+        "Mills, Patty"
+      ],
+      [
+        0.5332555175,
+        0.4667444825,
+        "4+",
+        0.5,
+        "4+",
+        "TOTAL MINUTES",
+        0.1553007469,
+        1120,
+        "++",
+        "TOTAL GAME STARTED",
+        -0.1043386782,
+        33,
+        "--",
+        "FIELD GOALS % PER 36 MINUTES",
+        0.0773231022,
+        0.48,
+        "++",
+        "TOTAL GAME PLAYED",
+        -0.0634188668,
+        33,
+        "--",
+        null,
+        null,
+        null,
+        null,
+        22,
+        154,
+        321,
+        5,
+        17,
+        69,
+        99,
+        88,
+        195,
+        283,
+        75,
+        23,
+        61,
+        54,
+        75,
+        382,
+        33.9,
+        4.7,
+        9.7,
+        0.2,
+        0.5,
+        2.1,
+        3,
+        2.7,
+        5.9,
+        8.6,
+        2.3,
+        0.7,
+        1.8,
+        1.6,
+        2.3,
+        11.6,
+        33,
+        33,
+        1120,
+        5,
+        10.3,
+        0.48,
+        0.2,
+        0.5,
+        0.294,
+        2.2,
+        3.2,
+        0.697,
+        2.8,
+        6.3,
+        9.1,
+        2.4,
+        0.7,
+        2,
+        1.7,
+        2.4,
+        12.3,
+        "4+",
+        "Allen, Lavoy"
+      ],
+      [
+        0.4159365296,
+        0.5840634704,
+        "0-4",
+        0.5,
+        "4+",
+        "TOTAL GAME STARTED",
+        -0.1944534067,
+        30,
+        "--",
+        "TOTAL MINUTES",
+        -0.1553007668,
+        1006,
+        "--",
+        "TOTAL GAME PLAYED",
+        -0.0634190157,
+        30,
+        "--",
+        "FIELD GOALS % PER 36 MINUTES",
+        0.0053434154,
+        0.428,
+        "+",
+        null,
+        null,
+        null,
+        null,
+        23,
+        152,
+        355,
+        61,
+        179,
+        113,
+        134,
+        19,
+        98,
+        117,
+        59,
+        46,
+        1,
+        50,
+        62,
+        478,
+        33.5,
+        5.1,
+        11.8,
+        2,
+        6,
+        3.8,
+        4.5,
+        0.6,
+        3.3,
+        3.9,
+        2,
+        1.5,
+        0,
+        1.7,
+        2.1,
+        15.9,
+        30,
+        30,
+        1006,
+        5.4,
+        12.7,
+        0.428,
+        2.2,
+        6.4,
+        0.341,
+        4,
+        4.8,
+        0.843,
+        0.7,
+        3.5,
+        4.2,
+        2.1,
+        1.6,
+        0,
+        1.8,
+        2.2,
+        17.1,
+        "4+",
+        "Lee, Damion"
+      ],
+      [
+        0.6162059903,
+        0.3837940097,
+        "4+",
+        0.5,
+        "4+",
+        "TOTAL MINUTES",
+        0.15530065,
+        1311,
+        "++",
+        "TOTAL GAME STARTED",
+        0.1515111689,
+        35,
+        "++",
+        "FIELD GOALS % PER 36 MINUTES",
+        0.0773230919,
+        0.479,
+        "++",
+        "TOTAL GAME PLAYED",
+        0.0209879792,
+        36,
+        "+",
+        null,
+        null,
+        null,
+        null,
+        20,
+        183,
+        382,
+        69,
+        170,
+        87,
+        112,
+        17,
+        121,
+        138,
+        164,
+        71,
+        4,
+        82,
+        59,
+        522,
+        36.4,
+        5.1,
+        10.6,
+        1.9,
+        4.7,
+        2.4,
+        3.1,
+        0.5,
+        3.4,
+        3.8,
+        4.6,
+        2,
+        0.1,
+        2.3,
+        1.6,
+        14.5,
+        36,
+        35,
+        1311,
+        5,
+        10.5,
+        0.479,
+        1.9,
+        4.7,
+        0.406,
+        2.4,
+        3.1,
+        0.777,
+        0.5,
+        3.3,
+        3.8,
+        4.5,
+        1.9,
+        0.1,
+        2.3,
+        1.6,
+        14.3,
+        "4+",
+        "Larkin, Shane"
+      ],
+      [
+        0.6162059903,
+        0.3837940097,
+        "4+",
+        0.5,
+        "4+",
+        "TOTAL MINUTES",
+        0.15530065,
+        1165,
+        "++",
+        "TOTAL GAME STARTED",
+        0.1515111689,
+        35,
+        "++",
+        "FIELD GOALS % PER 36 MINUTES",
+        0.0773230919,
+        0.654,
+        "++",
+        "TOTAL GAME PLAYED",
+        0.0209879792,
+        35,
+        "+",
+        null,
+        null,
+        null,
+        null,
+        20,
+        300,
+        459,
+        3,
+        8,
+        191,
+        324,
+        135,
+        369,
+        504,
+        80,
+        39,
+        41,
+        116,
+        89,
+        794,
+        33.3,
+        8.6,
+        13.1,
+        0.1,
+        0.2,
+        5.5,
+        9.3,
+        3.9,
+        10.5,
+        14.4,
+        2.3,
+        1.1,
+        1.2,
+        3.3,
+        2.5,
+        22.7,
+        35,
+        35,
+        1165,
+        9.3,
+        14.2,
+        0.654,
+        0.1,
+        0.2,
+        0.375,
+        5.9,
+        10,
+        0.59,
+        4.2,
+        11.4,
+        15.6,
+        2.5,
+        1.2,
+        1.3,
+        3.6,
+        2.8,
+        24.5,
+        "4+",
+        "Griffin, Blake"
+      ],
+      [
+        0.5363472104,
+        0.4636527896,
+        "4+",
+        0.5,
+        "4+",
+        "TOTAL MINUTES",
+        0.1553005176,
+        1131,
+        "+++",
+        "TOTAL GAME STARTED",
+        -0.1043387128,
+        34,
+        "--",
+        "TOTAL GAME PLAYED",
+        0.020987857,
+        35,
+        "+",
+        "FIELD GOALS % PER 36 MINUTES",
+        0.0053433515,
+        0.429,
+        "+",
+        null,
+        null,
+        null,
+        null,
+        19,
+        195,
+        455,
+        81,
+        230,
+        115,
+        142,
+        37,
+        103,
+        140,
+        94,
+        63,
+        15,
+        60,
+        73,
+        586,
+        32.3,
+        5.6,
+        13,
+        2.3,
+        6.6,
+        3.3,
+        4.1,
+        1.1,
+        2.9,
+        4,
+        2.7,
+        1.8,
+        0.4,
+        1.7,
+        2.1,
+        16.7,
+        35,
+        34,
+        1131,
+        6.2,
+        14.5,
+        0.429,
+        2.6,
+        7.3,
+        0.352,
+        3.7,
+        4.5,
+        0.81,
+        1.2,
+        3.3,
+        4.5,
+        3,
+        2,
+        0.5,
+        1.9,
+        2.3,
+        18.7,
+        "4+",
+        "Harris, Gary"
+      ],
+      [
+        0.6162059903,
+        0.3837940097,
+        "4+",
+        0.5,
+        "4+",
+        "TOTAL MINUTES",
+        0.15530065,
+        1162,
+        "++",
+        "TOTAL GAME STARTED",
+        0.1515111689,
+        36,
+        "++",
+        "FIELD GOALS % PER 36 MINUTES",
+        0.0773230919,
+        0.528,
+        "++",
+        "TOTAL GAME PLAYED",
+        0.0209879792,
+        36,
+        "+",
+        null,
+        null,
+        null,
+        null,
+        22,
+        245,
+        464,
+        18,
+        51,
+        187,
+        226,
+        107,
+        158,
+        265,
+        63,
+        46,
+        21,
+        68,
+        90,
+        695,
+        32.3,
+        6.8,
+        12.9,
+        0.5,
+        1.4,
+        5.2,
+        6.3,
+        3,
+        4.4,
+        7.4,
+        1.8,
+        1.3,
+        0.6,
+        1.9,
+        2.5,
+        19.3,
+        36,
+        36,
+        1162,
+        7.6,
+        14.4,
+        0.528,
+        0.6,
+        1.6,
+        0.353,
+        5.8,
+        7,
+        0.827,
+        3.3,
+        4.9,
+        8.2,
+        2,
+        1.4,
+        0.7,
+        2.1,
+        2.8,
+        21.5,
+        "4+",
+        "Pondexter, Quincy"
+      ],
+      [
+        0.4335215986,
+        0.5664784014,
+        "0-4",
+        0.5,
+        "4+",
+        "TOTAL GAME STARTED",
+        -0.1944532918,
+        29,
+        "--",
+        "TOTAL MINUTES",
+        -0.1553007517,
+        691,
+        "--",
+        "FIELD GOALS % PER 36 MINUTES",
+        0.0773230641,
+        0.5,
+        "++",
+        "TOTAL GAME PLAYED",
+        -0.063418991,
+        31,
+        "--",
+        null,
+        null,
+        null,
+        null,
+        23,
+        88,
+        176,
+        0,
+        3,
+        32,
+        47,
+        70,
+        146,
+        216,
+        19,
+        34,
+        66,
+        49,
+        93,
+        208,
+        22.3,
+        2.8,
+        5.7,
+        0,
+        0.1,
+        1,
+        1.5,
+        2.3,
+        4.7,
+        7,
+        0.6,
+        1.1,
+        2.1,
+        1.6,
+        3,
+        6.7,
+        31,
+        29,
+        691,
+        4.6,
+        9.2,
+        0.5,
+        0,
+        0.2,
+        0,
+        1.7,
+        2.4,
+        0.681,
+        3.6,
+        7.6,
+        11.3,
+        1,
+        1.8,
+        3.4,
+        2.6,
+        4.8,
+        10.8,
+        "4+",
+        "Dedmon, Dewayne"
+      ],
+      [
+        0.6333196163,
+        0.3666803837,
+        "4+",
+        0.5,
+        "4+",
+        "TOTAL GAME STARTED",
+        0.1687520073,
+        38,
+        "++",
+        "TOTAL MINUTES",
+        0.1553008157,
+        1255,
+        "++",
+        "TOTAL GAME PLAYED",
+        0.1487361236,
+        38,
+        "++",
+        "FIELD GOALS % PER 36 MINUTES",
+        0.0053437398,
+        0.432,
+        "+",
+        null,
+        null,
+        null,
+        null,
+        21,
+        205,
+        474,
+        62,
+        169,
+        146,
+        187,
+        31,
+        123,
+        154,
+        107,
+        43,
+        25,
+        64,
+        76,
+        618,
+        33,
+        5.4,
+        12.5,
+        1.6,
+        4.4,
+        3.8,
+        4.9,
+        0.8,
+        3.2,
+        4.1,
+        2.8,
+        1.1,
+        0.7,
+        1.7,
+        2,
+        16.3,
+        38,
+        38,
+        1255,
+        5.9,
+        13.6,
+        0.432,
+        1.8,
+        4.8,
+        0.367,
+        4.2,
+        5.4,
+        0.781,
+        0.9,
+        3.5,
+        4.4,
+        3.1,
+        1.2,
+        0.7,
+        1.8,
+        2.2,
+        17.7,
+        "0-4",
+        "Johnson, Nick"
+      ],
+      [
+        0.4335215986,
+        0.5664784014,
+        "0-4",
+        0.5,
+        "4+",
+        "TOTAL GAME STARTED",
+        -0.1944532918,
+        26,
+        "--",
+        "TOTAL MINUTES",
+        -0.1553007517,
+        847,
+        "--",
+        "FIELD GOALS % PER 36 MINUTES",
+        0.0773230641,
+        0.4579999999999999,
+        "++",
+        "TOTAL GAME PLAYED",
+        -0.063418991,
+        26,
+        "--",
+        null,
+        null,
+        null,
+        null,
+        22,
+        160,
+        349,
+        0,
+        3,
+        129,
+        168,
+        86,
+        222,
+        308,
+        45,
+        31,
+        47,
+        51,
+        70,
+        449,
+        32.6,
+        6.2,
+        13.4,
+        0,
+        0.1,
+        5,
+        6.5,
+        3.3,
+        8.5,
+        11.8,
+        1.7,
+        1.2,
+        1.8,
+        2,
+        2.7,
+        17.3,
+        26,
+        26,
+        847,
+        6.8,
+        14.8,
+        0.458,
+        0,
+        0.1,
+        0,
+        5.5,
+        7.1,
+        0.768,
+        3.7,
+        9.4,
+        13.1,
+        1.9,
+        1.3,
+        2,
+        2.2,
+        3,
+        19.1,
+        "0-4",
+        "Williams, Alan"
+      ],
+      [
+        0.5845379829,
+        0.4154620171,
+        "4+",
+        0.5,
+        "4+",
+        "TOTAL GAME STARTED",
+        0.1515112153,
+        36,
+        "+++",
+        "FIELD GOALS % PER 36 MINUTES",
+        0.0773230328,
+        0.536,
+        "++",
+        "TOTAL MINUTES",
+        0.0232558854,
+        1081,
+        "+",
+        "TOTAL GAME PLAYED",
+        0.020988024,
+        36,
+        "+",
+        null,
+        null,
+        null,
+        null,
+        23,
+        125,
+        233,
+        5,
+        14,
+        91,
+        130,
+        82,
+        128,
+        210,
+        48,
+        47,
+        36,
+        62,
+        100,
+        346,
+        30,
+        3.5,
+        6.5,
+        0.1,
+        0.4,
+        2.5,
+        3.6,
+        2.3,
+        3.6,
+        5.8,
+        1.3,
+        1.3,
+        1,
+        1.7,
+        2.8,
+        9.6,
+        36,
+        36,
+        1081,
+        4.2,
+        7.8,
+        0.536,
+        0.2,
+        0.5,
+        0.357,
+        3,
+        4.3,
+        0.7,
+        2.7,
+        4.3,
+        7,
+        1.6,
+        1.6,
+        1.2,
+        2.1,
+        3.3,
+        11.5,
+        "0-4",
+        "Griffin, Taylor"
+      ],
+      [
+        0.4379805028,
+        0.5620194972,
+        "0-4",
+        0.5,
+        "4+",
+        "TOTAL MINUTES",
+        -0.1553006041,
+        1040,
+        "--",
+        "TOTAL GAME STARTED",
+        -0.1043385697,
+        33,
+        "--",
+        "TOTAL GAME PLAYED",
+        -0.0634189248,
+        33,
+        "--",
+        "FIELD GOALS % PER 36 MINUTES",
+        0.0053435822,
+        0.4479999999999999,
+        "+",
+        null,
+        null,
+        null,
+        null,
+        23,
+        218,
+        487,
+        66,
+        173,
+        122,
+        150,
+        48,
+        161,
+        209,
+        36,
+        32,
+        84,
+        38,
+        51,
+        624,
+        31.5,
+        6.6,
+        14.8,
+        2,
+        5.2,
+        3.7,
+        4.5,
+        1.5,
+        4.9,
+        6.3,
+        1.1,
+        1,
+        2.5,
+        1.2,
+        1.5,
+        18.9,
+        33,
+        33,
+        1040,
+        7.5,
+        16.9,
+        0.448,
+        2.3,
+        6,
+        0.382,
+        4.2,
+        5.2,
+        0.813,
+        1.7,
+        5.6,
+        7.2,
+        1.2,
+        1.1,
+        2.9,
+        1.3,
+        1.8,
+        21.6,
+        "0-4",
+        "Uthoff, Jarrod"
+      ],
+      [
+        0.5406287313,
+        0.4593712687,
+        "4+",
+        0.5,
+        "4+",
+        "TOTAL MINUTES",
+        -0.15530065,
+        1054,
+        "--",
+        "TOTAL GAME STARTED",
+        0.1515111217,
+        36,
+        "++",
+        "FIELD GOALS % PER 36 MINUTES",
+        0.0773230354,
+        0.522,
+        "++",
+        "TOTAL GAME PLAYED",
+        0.0209879943,
+        36,
+        "+",
+        null,
+        null,
+        null,
+        null,
+        21,
+        229,
+        439,
+        5,
+        14,
+        174,
+        255,
+        74,
+        213,
+        287,
+        88,
+        48,
+        35,
+        92,
+        111,
+        637,
+        29.3,
+        6.4,
+        12.2,
+        0.1,
+        0.4,
+        4.8,
+        7.1,
+        2.1,
+        5.9,
+        8,
+        2.4,
+        1.3,
+        1,
+        2.6,
+        3.1,
+        17.7,
+        36,
+        36,
+        1054,
+        7.8,
+        15,
+        0.522,
+        0.2,
+        0.5,
+        0.357,
+        5.9,
+        8.7,
+        0.682,
+        2.5,
+        7.3,
+        9.8,
+        3,
+        1.6,
+        1.2,
+        3.1,
+        3.8,
+        21.8,
+        "0-4",
+        "Davies, Brandon"
+      ],
+      [
+        0.5990469456,
+        0.4009530544,
+        "4+",
+        0.5,
+        "4+",
+        "TOTAL MINUTES",
+        0.1553005481,
+        1286,
+        "++",
+        "TOTAL GAME STARTED",
+        0.1515111481,
+        35,
+        "++",
+        "TOTAL GAME PLAYED",
+        0.0209878565,
+        35,
+        "+",
+        "FIELD GOALS % PER 36 MINUTES",
+        0.005343379,
+        0.44,
+        "+",
+        null,
+        null,
+        null,
+        null,
+        21,
+        269,
+        612,
+        76,
+        214,
+        239,
+        282,
+        26,
+        123,
+        149,
+        324,
+        69,
+        7,
+        120,
+        104,
+        853,
+        36.7,
+        7.7,
+        17.5,
+        2.2,
+        6.1,
+        6.8,
+        8.1,
+        0.7,
+        3.5,
+        4.3,
+        9.3,
+        2,
+        0.2,
+        3.4,
+        3,
+        24.4,
+        35,
+        35,
+        1286,
+        7.5,
+        17.1,
+        0.44,
+        2.1,
+        6,
+        0.355,
+        6.7,
+        7.9,
+        0.848,
+        0.7,
+        3.4,
+        4.2,
+        9.1,
+        1.9,
+        0.2,
+        3.4,
+        2.9,
+        23.9,
+        "0-4",
+        "Felder, Kay"
+      ],
+      [
+        0.5990469456,
+        0.4009530544,
+        "4+",
+        0.5,
+        "4+",
+        "TOTAL MINUTES",
+        0.1553005481,
+        1209,
+        "++",
+        "TOTAL GAME STARTED",
+        0.1515111481,
+        35,
+        "++",
+        "TOTAL GAME PLAYED",
+        0.0209878565,
+        35,
+        "+",
+        "FIELD GOALS % PER 36 MINUTES",
+        0.005343379,
+        0.446,
+        "+",
+        null,
+        null,
+        null,
+        null,
+        22,
+        204,
+        457,
+        58,
+        172,
+        80,
+        93,
+        50,
+        140,
+        190,
+        71,
+        56,
+        3,
+        50,
+        72,
+        546,
+        34.5,
+        5.8,
+        13.1,
+        1.7,
+        4.9,
+        2.3,
+        2.7,
+        1.4,
+        4,
+        5.4,
+        2,
+        1.6,
+        0.1,
+        1.4,
+        2.1,
+        15.6,
+        35,
+        35,
+        1209,
+        6.1,
+        13.6,
+        0.446,
+        1.7,
+        5.1,
+        0.337,
+        2.4,
+        2.8,
+        0.86,
+        1.5,
+        4.2,
+        5.7,
+        2.1,
+        1.7,
+        0.1,
+        1.5,
+        2.1,
+        16.3,
+        "0-4",
+        "Christopher, Patrick"
+      ],
+      [
+        0.5406287313,
+        0.4593712687,
+        "4+",
+        0.5,
+        "4+",
+        "TOTAL MINUTES",
+        -0.15530065,
+        1048,
+        "--",
+        "TOTAL GAME STARTED",
+        0.1515111217,
+        35,
+        "++",
+        "FIELD GOALS % PER 36 MINUTES",
+        0.0773230354,
+        0.617,
+        "++",
+        "TOTAL GAME PLAYED",
+        0.0209879943,
+        35,
+        "+",
+        null,
+        null,
+        null,
+        null,
+        20,
+        235,
+        381,
+        27,
+        58,
+        72,
+        106,
+        78,
+        209,
+        287,
+        85,
+        22,
+        39,
+        52,
+        89,
+        569,
+        29.9,
+        6.7,
+        10.9,
+        0.8,
+        1.7,
+        2.1,
+        3,
+        2.2,
+        6,
+        8.2,
+        2.4,
+        0.6,
+        1.1,
+        1.5,
+        2.5,
+        16.3,
+        35,
+        35,
+        1048,
+        8.1,
+        13.1,
+        0.617,
+        0.9,
+        2,
+        0.466,
+        2.5,
+        3.6,
+        0.679,
+        2.7,
+        7.2,
+        9.9,
+        2.9,
+        0.8,
+        1.3,
+        1.8,
+        3.1,
+        19.5,
+        "0-4",
+        "Leaf, T.J."
+      ],
+      [
+        0.6162059903,
+        0.3837940097,
+        "4+",
+        0.5,
+        "4+",
+        "TOTAL MINUTES",
+        0.15530065,
+        1141,
+        "++",
+        "TOTAL GAME STARTED",
+        0.1515111689,
+        36,
+        "++",
+        "FIELD GOALS % PER 36 MINUTES",
+        0.0773230919,
+        0.5820000000000001,
+        "++",
+        "TOTAL GAME PLAYED",
+        0.0209879792,
+        36,
+        "+",
+        null,
+        null,
+        null,
+        null,
+        22,
+        184,
+        316,
+        0,
+        0,
+        128,
+        210,
+        107,
+        262,
+        369,
+        32,
+        24,
+        170,
+        71,
+        88,
+        496,
+        31.7,
+        5.1,
+        8.8,
+        0,
+        0,
+        3.6,
+        5.8,
+        3,
+        7.3,
+        10.3,
+        0.9,
+        0.7,
+        4.7,
+        2,
+        2.4,
+        13.8,
+        36,
+        36,
+        1141,
+        5.8,
+        10,
+        0.582,
+        0,
+        0,
+        null,
+        4,
+        6.6,
+        0.61,
+        3.4,
+        8.3,
+        11.6,
+        1,
+        0.8,
+        5.4,
+        2.2,
+        2.8,
+        15.6,
+        "0-4",
+        "Varnado, Jarvis"
+      ],
+      [
+        0.4804292619,
+        0.5195707381,
+        "0-4",
+        0.5,
+        "4+",
+        "FIELD GOALS % PER 36 MINUTES",
+        -0.2186253737,
+        0.411,
+        "--",
+        "TOTAL MINUTES",
+        0.1553006436,
+        1215,
+        "++",
+        "TOTAL GAME STARTED",
+        -0.1043387664,
+        34,
+        "--",
+        "TOTAL GAME PLAYED",
+        0.0209879396,
+        34,
+        "+",
+        null,
+        null,
+        null,
+        null,
+        19,
+        148,
+        360,
+        30,
+        85,
+        114,
+        149,
+        27,
+        88,
+        115,
+        187,
+        71,
+        6,
+        58,
+        69,
+        440,
+        35.7,
+        4.4,
+        10.6,
+        0.9,
+        2.5,
+        3.4,
+        4.4,
+        0.8,
+        2.6,
+        3.4,
+        5.5,
+        2.1,
+        0.2,
+        1.7,
+        2,
+        12.9,
+        34,
+        34,
+        1215,
+        4.4,
+        10.7,
+        0.411,
+        0.9,
+        2.5,
+        0.353,
+        3.4,
+        4.4,
+        0.765,
+        0.8,
+        2.6,
+        3.4,
+        5.5,
+        2.1,
+        0.2,
+        1.7,
+        2,
+        13,
+        "0-4",
+        "Ennis, Tyler"
+      ]
+    ],
+    "cols": [
+      {
+        "display_name": "LONGEVITY_4+_PREDICTION",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "LONGEVITY_4+_PREDICTION",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "LONGEVITY_4+_PREDICTION",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "LONGEVITY_0-4_PREDICTION",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "LONGEVITY_0-4_PREDICTION",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "LONGEVITY_0-4_PREDICTION",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "LONGEVITY_PREDICTION",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "LONGEVITY_PREDICTION",
+          {
+            "base-type": "type/Text"
+          }
+        ],
+        "name": "LONGEVITY_PREDICTION",
+        "base_type": "type/Text",
+        "effective_type": "type/Text"
+      },
+      {
+        "display_name": "THRESHOLD",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "THRESHOLD",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "THRESHOLD",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "POSITIVE_CLASS",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "POSITIVE_CLASS",
+          {
+            "base-type": "type/Text"
+          }
+        ],
+        "name": "POSITIVE_CLASS",
+        "base_type": "type/Text",
+        "effective_type": "type/Text"
+      },
+      {
+        "display_name": "EXPLANATION_1_FEATURE_NAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_1_FEATURE_NAME",
+          {
+            "base-type": "type/Text"
+          }
+        ],
+        "name": "EXPLANATION_1_FEATURE_NAME",
+        "base_type": "type/Text",
+        "effective_type": "type/Text"
+      },
+      {
+        "display_name": "EXPLANATION_1_STRENGTH",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_1_STRENGTH",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "EXPLANATION_1_STRENGTH",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "EXPLANATION_1_ACTUAL_VALUE",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_1_ACTUAL_VALUE",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "EXPLANATION_1_ACTUAL_VALUE",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "EXPLANATION_1_QUALITATIVE_STRENGTH",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_1_QUALITATIVE_STRENGTH",
+          {
+            "base-type": "type/Text"
+          }
+        ],
+        "name": "EXPLANATION_1_QUALITATIVE_STRENGTH",
+        "base_type": "type/Text",
+        "effective_type": "type/Text"
+      },
+      {
+        "display_name": "EXPLANATION_2_FEATURE_NAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_2_FEATURE_NAME",
+          {
+            "base-type": "type/Text"
+          }
+        ],
+        "name": "EXPLANATION_2_FEATURE_NAME",
+        "base_type": "type/Text",
+        "effective_type": "type/Text"
+      },
+      {
+        "display_name": "EXPLANATION_2_STRENGTH",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_2_STRENGTH",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "EXPLANATION_2_STRENGTH",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "EXPLANATION_2_ACTUAL_VALUE",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_2_ACTUAL_VALUE",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "EXPLANATION_2_ACTUAL_VALUE",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "EXPLANATION_2_QUALITATIVE_STRENGTH",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_2_QUALITATIVE_STRENGTH",
+          {
+            "base-type": "type/Text"
+          }
+        ],
+        "name": "EXPLANATION_2_QUALITATIVE_STRENGTH",
+        "base_type": "type/Text",
+        "effective_type": "type/Text"
+      },
+      {
+        "display_name": "EXPLANATION_3_FEATURE_NAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_3_FEATURE_NAME",
+          {
+            "base-type": "type/Text"
+          }
+        ],
+        "name": "EXPLANATION_3_FEATURE_NAME",
+        "base_type": "type/Text",
+        "effective_type": "type/Text"
+      },
+      {
+        "display_name": "EXPLANATION_3_STRENGTH",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_3_STRENGTH",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "EXPLANATION_3_STRENGTH",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "EXPLANATION_3_ACTUAL_VALUE",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_3_ACTUAL_VALUE",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "EXPLANATION_3_ACTUAL_VALUE",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "EXPLANATION_3_QUALITATIVE_STRENGTH",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_3_QUALITATIVE_STRENGTH",
+          {
+            "base-type": "type/Text"
+          }
+        ],
+        "name": "EXPLANATION_3_QUALITATIVE_STRENGTH",
+        "base_type": "type/Text",
+        "effective_type": "type/Text"
+      },
+      {
+        "display_name": "EXPLANATION_4_FEATURE_NAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_4_FEATURE_NAME",
+          {
+            "base-type": "type/Text"
+          }
+        ],
+        "name": "EXPLANATION_4_FEATURE_NAME",
+        "base_type": "type/Text",
+        "effective_type": "type/Text"
+      },
+      {
+        "display_name": "EXPLANATION_4_STRENGTH",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_4_STRENGTH",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "EXPLANATION_4_STRENGTH",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "EXPLANATION_4_ACTUAL_VALUE",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_4_ACTUAL_VALUE",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "EXPLANATION_4_ACTUAL_VALUE",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "EXPLANATION_4_QUALITATIVE_STRENGTH",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_4_QUALITATIVE_STRENGTH",
+          {
+            "base-type": "type/Text"
+          }
+        ],
+        "name": "EXPLANATION_4_QUALITATIVE_STRENGTH",
+        "base_type": "type/Text",
+        "effective_type": "type/Text"
+      },
+      {
+        "display_name": "EXPLANATION_5_FEATURE_NAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_5_FEATURE_NAME",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "EXPLANATION_5_FEATURE_NAME",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "EXPLANATION_5_STRENGTH",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_5_STRENGTH",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "EXPLANATION_5_STRENGTH",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "EXPLANATION_5_ACTUAL_VALUE",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_5_ACTUAL_VALUE",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "EXPLANATION_5_ACTUAL_VALUE",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "EXPLANATION_5_QUALITATIVE_STRENGTH",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "EXPLANATION_5_QUALITATIVE_STRENGTH",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "EXPLANATION_5_QUALITATIVE_STRENGTH",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "PLAYER AGE",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "PLAYER AGE",
+          {
+            "base-type": "type/Number"
+          }
+        ],
+        "name": "PLAYER AGE",
+        "base_type": "type/Number",
+        "effective_type": "type/Number"
+      },
+      {
+        "display_name": "TOTAL FIELD GOALS MADE",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TOTAL FIELD GOALS MADE",
+          {
+            "base-type": "type/Number"
+          }
+        ],
+        "name": "TOTAL FIELD GOALS MADE",
+        "base_type": "type/Number",
+        "effective_type": "type/Number"
+      },
+      {
+        "display_name": "TOTAL FIELD GOALS ATTEMPTED",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TOTAL FIELD GOALS ATTEMPTED",
+          {
+            "base-type": "type/Number"
+          }
+        ],
+        "name": "TOTAL FIELD GOALS ATTEMPTED",
+        "base_type": "type/Number",
+        "effective_type": "type/Number"
+      },
+      {
+        "display_name": "TOTAL 3 POINT MADE",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TOTAL 3 POINT MADE",
+          {
+            "base-type": "type/Number"
+          }
+        ],
+        "name": "TOTAL 3 POINT MADE",
+        "base_type": "type/Number",
+        "effective_type": "type/Number"
+      },
+      {
+        "display_name": "TOTAL 3 POINT ATTEMPTED",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TOTAL 3 POINT ATTEMPTED",
+          {
+            "base-type": "type/Number"
+          }
+        ],
+        "name": "TOTAL 3 POINT ATTEMPTED",
+        "base_type": "type/Number",
+        "effective_type": "type/Number"
+      },
+      {
+        "display_name": "TOTAL FREE THROWS MADE",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TOTAL FREE THROWS MADE",
+          {
+            "base-type": "type/Number"
+          }
+        ],
+        "name": "TOTAL FREE THROWS MADE",
+        "base_type": "type/Number",
+        "effective_type": "type/Number"
+      },
+      {
+        "display_name": "TOTAL FREE THROWS ATTEMPTED",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TOTAL FREE THROWS ATTEMPTED",
+          {
+            "base-type": "type/Number"
+          }
+        ],
+        "name": "TOTAL FREE THROWS ATTEMPTED",
+        "base_type": "type/Number",
+        "effective_type": "type/Number"
+      },
+      {
+        "display_name": "TOTAL OFFENSIVE REBOUND",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TOTAL OFFENSIVE REBOUND",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "TOTAL OFFENSIVE REBOUND",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "TOTAL DEFENSIVE REBOUND",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TOTAL DEFENSIVE REBOUND",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "TOTAL DEFENSIVE REBOUND",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "TOTAL REBOUND",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TOTAL REBOUND",
+          {
+            "base-type": "type/Number"
+          }
+        ],
+        "name": "TOTAL REBOUND",
+        "base_type": "type/Number",
+        "effective_type": "type/Number"
+      },
+      {
+        "display_name": "TOTAL ASSISTS",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TOTAL ASSISTS",
+          {
+            "base-type": "type/Number"
+          }
+        ],
+        "name": "TOTAL ASSISTS",
+        "base_type": "type/Number",
+        "effective_type": "type/Number"
+      },
+      {
+        "display_name": "TOTAL STEALS",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TOTAL STEALS",
+          {
+            "base-type": "type/Number"
+          }
+        ],
+        "name": "TOTAL STEALS",
+        "base_type": "type/Number",
+        "effective_type": "type/Number"
+      },
+      {
+        "display_name": "TOTAL BLOCKS",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TOTAL BLOCKS",
+          {
+            "base-type": "type/Number"
+          }
+        ],
+        "name": "TOTAL BLOCKS",
+        "base_type": "type/Number",
+        "effective_type": "type/Number"
+      },
+      {
+        "display_name": "TOTAL TURNOVERS",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TOTAL TURNOVERS",
+          {
+            "base-type": "type/Number"
+          }
+        ],
+        "name": "TOTAL TURNOVERS",
+        "base_type": "type/Number",
+        "effective_type": "type/Number"
+      },
+      {
+        "display_name": "TOTAL PERSONAL FOULS",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TOTAL PERSONAL FOULS",
+          {
+            "base-type": "type/Number"
+          }
+        ],
+        "name": "TOTAL PERSONAL FOULS",
+        "base_type": "type/Number",
+        "effective_type": "type/Number"
+      },
+      {
+        "display_name": "TOTAL POINTS",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TOTAL POINTS",
+          {
+            "base-type": "type/Number"
+          }
+        ],
+        "name": "TOTAL POINTS",
+        "base_type": "type/Number",
+        "effective_type": "type/Number"
+      },
+      {
+        "display_name": "MINUTES PLAYED PERGAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "MINUTES PLAYED PERGAME",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "MINUTES PLAYED PERGAME",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "FIELD GOALS MADE PER GAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "FIELD GOALS MADE PER GAME",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "FIELD GOALS MADE PER GAME",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "FIELD GOALS ATTEMPTED PER GAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "FIELD GOALS ATTEMPTED PER GAME",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "FIELD GOALS ATTEMPTED PER GAME",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "3 POINT MADE PER GAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "3 POINT MADE PER GAME",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "3 POINT MADE PER GAME",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "3 POINT ATTEMPTED PER GAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "3 POINT ATTEMPTED PER GAME",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "3 POINT ATTEMPTED PER GAME",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "FREE THROWS MADE PER GAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "FREE THROWS MADE PER GAME",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "FREE THROWS MADE PER GAME",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "FREE THROWS ATTEMPTED PER GAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "FREE THROWS ATTEMPTED PER GAME",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "FREE THROWS ATTEMPTED PER GAME",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "OFFENSIVE REBOUND PER GAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "OFFENSIVE REBOUND PER GAME",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "OFFENSIVE REBOUND PER GAME",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "DEFENSIVE REBOUND PER GAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "DEFENSIVE REBOUND PER GAME",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "DEFENSIVE REBOUND PER GAME",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "REBOUND PER GAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "REBOUND PER GAME",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "REBOUND PER GAME",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "ASSISTS PER GAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "ASSISTS PER GAME",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "ASSISTS PER GAME",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "STEALS PER GAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "STEALS PER GAME",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "STEALS PER GAME",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "BLOCKS PER GAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "BLOCKS PER GAME",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "BLOCKS PER GAME",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "TURNOVERS PER GAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TURNOVERS PER GAME",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "TURNOVERS PER GAME",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "PERSONAL FOULS PER GAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "PERSONAL FOULS PER GAME",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "PERSONAL FOULS PER GAME",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "POINTS PER GAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "POINTS PER GAME",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "POINTS PER GAME",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "TOTAL GAME PLAYED",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TOTAL GAME PLAYED",
+          {
+            "base-type": "type/Number"
+          }
+        ],
+        "name": "TOTAL GAME PLAYED",
+        "base_type": "type/Number",
+        "effective_type": "type/Number"
+      },
+      {
+        "display_name": "TOTAL GAME STARTED",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TOTAL GAME STARTED",
+          {
+            "base-type": "type/Number"
+          }
+        ],
+        "name": "TOTAL GAME STARTED",
+        "base_type": "type/Number",
+        "effective_type": "type/Number"
+      },
+      {
+        "display_name": "TOTAL MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TOTAL MINUTES",
+          {
+            "base-type": "type/Number"
+          }
+        ],
+        "name": "TOTAL MINUTES",
+        "base_type": "type/Number",
+        "effective_type": "type/Number"
+      },
+      {
+        "display_name": "FIELD GOALS MADE PER 36 MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "FIELD GOALS MADE PER 36 MINUTES",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "FIELD GOALS MADE PER 36 MINUTES",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "FIELD GOALS ATTEMPTED PER 36 MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "FIELD GOALS ATTEMPTED PER 36 MINUTES",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "FIELD GOALS ATTEMPTED PER 36 MINUTES",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "FIELD GOALS % PER 36 MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "FIELD GOALS % PER 36 MINUTES",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "FIELD GOALS % PER 36 MINUTES",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "3 POINT MADE PER 36 MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "3 POINT MADE PER 36 MINUTES",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "3 POINT MADE PER 36 MINUTES",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "3 POINT ATTEMPTED PER 36 MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "3 POINT ATTEMPTED PER 36 MINUTES",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "3 POINT ATTEMPTED PER 36 MINUTES",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "3 POINT % PER 36 MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "3 POINT % PER 36 MINUTES",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "3 POINT % PER 36 MINUTES",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "FREE THROWS MADE PER 36 MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "FREE THROWS MADE PER 36 MINUTES",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "FREE THROWS MADE PER 36 MINUTES",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "FREE THROWS ATTEMPTED PER 36 MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "FREE THROWS ATTEMPTED PER 36 MINUTES",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "FREE THROWS ATTEMPTED PER 36 MINUTES",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "FREE THROWS % PER 36 MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "FREE THROWS % PER 36 MINUTES",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "FREE THROWS % PER 36 MINUTES",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "OFFENSIVE REBOUND PER 36 MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "OFFENSIVE REBOUND PER 36 MINUTES",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "OFFENSIVE REBOUND PER 36 MINUTES",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "DEFENSIVE REBOUND PER 36 MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "DEFENSIVE REBOUND PER 36 MINUTES",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "DEFENSIVE REBOUND PER 36 MINUTES",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "REBOUND PER 36 MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "REBOUND PER 36 MINUTES",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "REBOUND PER 36 MINUTES",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "ASSISTS PER 36 MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "ASSISTS PER 36 MINUTES",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "ASSISTS PER 36 MINUTES",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "STEALS PER 36 MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "STEALS PER 36 MINUTES",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "STEALS PER 36 MINUTES",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "BLOCKS PER 36 MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "BLOCKS PER 36 MINUTES",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "BLOCKS PER 36 MINUTES",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "TURNOVERS PER 36 MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "TURNOVERS PER 36 MINUTES",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "TURNOVERS PER 36 MINUTES",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "PERSONAL FOULS PER 36 MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "PERSONAL FOULS PER 36 MINUTES",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "PERSONAL FOULS PER 36 MINUTES",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "POINTS PER 36 MINUTES",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "POINTS PER 36 MINUTES",
+          {
+            "base-type": "type/Float"
+          }
+        ],
+        "name": "POINTS PER 36 MINUTES",
+        "base_type": "type/Float",
+        "effective_type": "type/Float"
+      },
+      {
+        "display_name": "LONGEVITY",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "LONGEVITY",
+          {
+            "base-type": "type/Text"
+          }
+        ],
+        "name": "LONGEVITY",
+        "base_type": "type/Text",
+        "effective_type": "type/Text"
+      },
+      {
+        "display_name": "LAST AND FIRST NAME",
+        "source": "native",
+        "field_ref": [
+          "field",
+          "LAST AND FIRST NAME",
+          {
+            "base-type": "type/Text"
+          }
+        ],
+        "name": "LAST AND FIRST NAME",
+        "base_type": "type/Text",
+        "effective_type": "type/Text"
+      }
+    ],
+    "download_perms": "full",
+    "native_form": {
+      "query": "SELECT * FROM XDB_B69FE52C_6CFF_4BB0_9599_DE026DDD2875.PREDICTION_RESULTS.\"PR_193E4C98_FF9B_4BDF_878A_2AE63DC4B81E\""
+    },
+    "results_timezone": "GMT",
+    "results_metadata": {
+      "columns": [
+        {
+          "display_name": "LONGEVITY_4+_PREDICTION",
+          "field_ref": [
+            "field",
+            "LONGEVITY_4+_PREDICTION",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "LONGEVITY_4+_PREDICTION",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 12,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0.3047480285,
+                "q1": 0.4379805028,
+                "q3": 0.6061544546321062,
+                "max": 0.6333196163,
+                "sd": 0.0901872811794634,
+                "avg": 0.52545045912
+              }
+            }
+          }
+        },
+        {
+          "display_name": "LONGEVITY_0-4_PREDICTION",
+          "field_ref": [
+            "field",
+            "LONGEVITY_0-4_PREDICTION",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "LONGEVITY_0-4_PREDICTION",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 12,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0.3666803837,
+                "q1": 0.39384554536789385,
+                "q3": 0.5620194972,
+                "max": 0.6952519715,
+                "sd": 0.09018728117946338,
+                "avg": 0.47454954088
+              }
+            }
+          }
+        },
+        {
+          "display_name": "LONGEVITY_PREDICTION",
+          "field_ref": [
+            "field",
+            "LONGEVITY_PREDICTION",
+            {
+              "base-type": "type/Text"
+            }
+          ],
+          "name": "LONGEVITY_PREDICTION",
+          "base_type": "type/Text",
+          "effective_type": "type/Text",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 2,
+              "nil%": 0
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 2.35
+              }
+            }
+          }
+        },
+        {
+          "display_name": "THRESHOLD",
+          "field_ref": [
+            "field",
+            "THRESHOLD",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "THRESHOLD",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 1,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0.5,
+                "q1": 0.5,
+                "q3": 0.5,
+                "max": 0.5,
+                "sd": 0,
+                "avg": 0.5
+              }
+            }
+          }
+        },
+        {
+          "display_name": "POSITIVE_CLASS",
+          "field_ref": [
+            "field",
+            "POSITIVE_CLASS",
+            {
+              "base-type": "type/Text"
+            }
+          ],
+          "name": "POSITIVE_CLASS",
+          "base_type": "type/Text",
+          "effective_type": "type/Text",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 1,
+              "nil%": 0
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 2
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_1_FEATURE_NAME",
+          "field_ref": [
+            "field",
+            "EXPLANATION_1_FEATURE_NAME",
+            {
+              "base-type": "type/Text"
+            }
+          ],
+          "name": "EXPLANATION_1_FEATURE_NAME",
+          "base_type": "type/Text",
+          "effective_type": "type/Text",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 3,
+              "nil%": 0
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 15.75
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_1_STRENGTH",
+          "field_ref": [
+            "field",
+            "EXPLANATION_1_STRENGTH",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "EXPLANATION_1_STRENGTH",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 12,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": -0.4799686308,
+                "q1": -0.1748769709,
+                "q3": 0.15530065,
+                "max": 0.1687520073,
+                "sd": 0.19932242085370555,
+                "avg": -0.009259378639999982
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_1_ACTUAL_VALUE",
+          "field_ref": [
+            "field",
+            "EXPLANATION_1_ACTUAL_VALUE",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "EXPLANATION_1_ACTUAL_VALUE",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 20,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0.402,
+                "q1": 33,
+                "q3": 1163.5,
+                "max": 1311,
+                "sd": 553.9550923170839,
+                "avg": 749.49065
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_1_QUALITATIVE_STRENGTH",
+          "field_ref": [
+            "field",
+            "EXPLANATION_1_QUALITATIVE_STRENGTH",
+            {
+              "base-type": "type/Text"
+            }
+          ],
+          "name": "EXPLANATION_1_QUALITATIVE_STRENGTH",
+          "base_type": "type/Text",
+          "effective_type": "type/Text",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 4,
+              "nil%": 0
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 2.15
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_2_FEATURE_NAME",
+          "field_ref": [
+            "field",
+            "EXPLANATION_2_FEATURE_NAME",
+            {
+              "base-type": "type/Text"
+            }
+          ],
+          "name": "EXPLANATION_2_FEATURE_NAME",
+          "base_type": "type/Text",
+          "effective_type": "type/Text",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 3,
+              "nil%": 0
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 17.25
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_2_STRENGTH",
+          "field_ref": [
+            "field",
+            "EXPLANATION_2_STRENGTH",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "EXPLANATION_2_STRENGTH",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 12,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": -0.1944532814,
+                "q1": -0.10433869846821074,
+                "q3": 0.1515111633266568,
+                "max": 0.1553008157,
+                "sd": 0.14395276958713202,
+                "avg": 0.02089824735500001
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_2_ACTUAL_VALUE",
+          "field_ref": [
+            "field",
+            "EXPLANATION_2_ACTUAL_VALUE",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "EXPLANATION_2_ACTUAL_VALUE",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 11,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0.536,
+                "q1": 33.279240779943876,
+                "q3": 451.25336052119275,
+                "max": 1255,
+                "sd": 445.36352506636285,
+                "avg": 274.3768
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_2_QUALITATIVE_STRENGTH",
+          "field_ref": [
+            "field",
+            "EXPLANATION_2_QUALITATIVE_STRENGTH",
+            {
+              "base-type": "type/Text"
+            }
+          ],
+          "name": "EXPLANATION_2_QUALITATIVE_STRENGTH",
+          "base_type": "type/Text",
+          "effective_type": "type/Text",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 2,
+              "nil%": 0
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 2
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_3_FEATURE_NAME",
+          "field_ref": [
+            "field",
+            "EXPLANATION_3_FEATURE_NAME",
+            {
+              "base-type": "type/Text"
+            }
+          ],
+          "name": "EXPLANATION_3_FEATURE_NAME",
+          "base_type": "type/Text",
+          "effective_type": "type/Text",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 4,
+              "nil%": 0
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 22.15
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_3_STRENGTH",
+          "field_ref": [
+            "field",
+            "EXPLANATION_3_STRENGTH",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "EXPLANATION_3_STRENGTH",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 12,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": -0.1553007482,
+                "q1": -0.02121553415,
+                "q3": 0.0773230919,
+                "max": 0.1487361236,
+                "sd": 0.07788646636083732,
+                "avg": 0.027914498504999996
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_3_ACTUAL_VALUE",
+          "field_ref": [
+            "field",
+            "EXPLANATION_3_ACTUAL_VALUE",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "EXPLANATION_3_ACTUAL_VALUE",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 17,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0.4579999999999999,
+                "q1": 0.511,
+                "q3": 34.82287565553229,
+                "max": 1081,
+                "sd": 297.51510142785855,
+                "avg": 111.31405
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_3_QUALITATIVE_STRENGTH",
+          "field_ref": [
+            "field",
+            "EXPLANATION_3_QUALITATIVE_STRENGTH",
+            {
+              "base-type": "type/Text"
+            }
+          ],
+          "name": "EXPLANATION_3_QUALITATIVE_STRENGTH",
+          "base_type": "type/Text",
+          "effective_type": "type/Text",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 3,
+              "nil%": 0
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 1.8
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_4_FEATURE_NAME",
+          "field_ref": [
+            "field",
+            "EXPLANATION_4_FEATURE_NAME",
+            {
+              "base-type": "type/Text"
+            }
+          ],
+          "name": "EXPLANATION_4_FEATURE_NAME",
+          "base_type": "type/Text",
+          "effective_type": "type/Text",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 2,
+              "nil%": 0
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 20.85
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_4_STRENGTH",
+          "field_ref": [
+            "field",
+            "EXPLANATION_4_STRENGTH",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "EXPLANATION_4_STRENGTH",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 12,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": -0.063418991,
+                "q1": -0.023138891898719434,
+                "q3": 0.0209879792,
+                "max": 0.020988024,
+                "sd": 0.03495021082241503,
+                "avg": -0.005589317449999999
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_4_ACTUAL_VALUE",
+          "field_ref": [
+            "field",
+            "EXPLANATION_4_ACTUAL_VALUE",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "EXPLANATION_4_ACTUAL_VALUE",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 13,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0.428,
+                "q1": 0.443,
+                "q3": 35.387425886722795,
+                "max": 36,
+                "sd": 16.336718614906474,
+                "avg": 21.80305
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_4_QUALITATIVE_STRENGTH",
+          "field_ref": [
+            "field",
+            "EXPLANATION_4_QUALITATIVE_STRENGTH",
+            {
+              "base-type": "type/Text"
+            }
+          ],
+          "name": "EXPLANATION_4_QUALITATIVE_STRENGTH",
+          "base_type": "type/Text",
+          "effective_type": "type/Text",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 3,
+              "nil%": 0
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 1.2
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_5_FEATURE_NAME",
+          "field_ref": [
+            "field",
+            "EXPLANATION_5_FEATURE_NAME",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "EXPLANATION_5_FEATURE_NAME",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 1,
+              "nil%": 1
+            },
+            "type": {
+              "type/Number": {
+                "min": null,
+                "q1": null,
+                "q3": null,
+                "max": null,
+                "sd": null,
+                "avg": null
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_5_STRENGTH",
+          "field_ref": [
+            "field",
+            "EXPLANATION_5_STRENGTH",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "EXPLANATION_5_STRENGTH",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 1,
+              "nil%": 1
+            },
+            "type": {
+              "type/Number": {
+                "min": null,
+                "q1": null,
+                "q3": null,
+                "max": null,
+                "sd": null,
+                "avg": null
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_5_ACTUAL_VALUE",
+          "field_ref": [
+            "field",
+            "EXPLANATION_5_ACTUAL_VALUE",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "EXPLANATION_5_ACTUAL_VALUE",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 1,
+              "nil%": 1
+            },
+            "type": {
+              "type/Number": {
+                "min": null,
+                "q1": null,
+                "q3": null,
+                "max": null,
+                "sd": null,
+                "avg": null
+              }
+            }
+          }
+        },
+        {
+          "display_name": "EXPLANATION_5_QUALITATIVE_STRENGTH",
+          "field_ref": [
+            "field",
+            "EXPLANATION_5_QUALITATIVE_STRENGTH",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "EXPLANATION_5_QUALITATIVE_STRENGTH",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 1,
+              "nil%": 1
+            },
+            "type": {
+              "type/Number": {
+                "min": null,
+                "q1": null,
+                "q3": null,
+                "max": null,
+                "sd": null,
+                "avg": null
+              }
+            }
+          }
+        },
+        {
+          "display_name": "PLAYER AGE",
+          "field_ref": [
+            "field",
+            "PLAYER AGE",
+            {
+              "base-type": "type/Number"
+            }
+          ],
+          "name": "PLAYER AGE",
+          "base_type": "type/Number",
+          "effective_type": "type/Number",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 5,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 19,
+                "q1": 20.25,
+                "q3": 22.35424868893541,
+                "max": 23,
+                "sd": 1.3018205875255098,
+                "avg": 21.3
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TOTAL FIELD GOALS MADE",
+          "field_ref": [
+            "field",
+            "TOTAL FIELD GOALS MADE",
+            {
+              "base-type": "type/Number"
+            }
+          ],
+          "name": "TOTAL FIELD GOALS MADE",
+          "base_type": "type/Number",
+          "effective_type": "type/Number",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 20,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 88,
+                "q1": 153,
+                "q3": 223.5,
+                "max": 300,
+                "sd": 52.71182829408655,
+                "avg": 189.3
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TOTAL FIELD GOALS ATTEMPTED",
+          "field_ref": [
+            "field",
+            "TOTAL FIELD GOALS ATTEMPTED",
+            {
+              "base-type": "type/Number"
+            }
+          ],
+          "name": "TOTAL FIELD GOALS ATTEMPTED",
+          "base_type": "type/Number",
+          "effective_type": "type/Number",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 20,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 176,
+                "q1": 335,
+                "q3": 459.5,
+                "max": 612,
+                "sd": 100.48639604182092,
+                "avg": 392.59999999999997
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TOTAL 3 POINT MADE",
+          "field_ref": [
+            "field",
+            "TOTAL 3 POINT MADE",
+            {
+              "base-type": "type/Number"
+            }
+          ],
+          "name": "TOTAL 3 POINT MADE",
+          "base_type": "type/Number",
+          "effective_type": "type/Number",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 16,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0,
+                "q1": 4.645751311064591,
+                "q3": 66.5,
+                "max": 88,
+                "sd": 31.91646168226969,
+                "avg": 38.35
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TOTAL 3 POINT ATTEMPTED",
+          "field_ref": [
+            "field",
+            "TOTAL 3 POINT ATTEMPTED",
+            {
+              "base-type": "type/Number"
+            }
+          ],
+          "name": "TOTAL 3 POINT ATTEMPTED",
+          "base_type": "type/Number",
+          "effective_type": "type/Number",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 18,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0,
+                "q1": 14,
+                "q3": 176,
+                "max": 230,
+                "sd": 85.86611365191865,
+                "avg": 103.4
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TOTAL FREE THROWS MADE",
+          "field_ref": [
+            "field",
+            "TOTAL FREE THROWS MADE",
+            {
+              "base-type": "type/Number"
+            }
+          ],
+          "name": "TOTAL FREE THROWS MADE",
+          "base_type": "type/Number",
+          "effective_type": "type/Number",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 20,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 32,
+                "q1": 82.5,
+                "q3": 152.5,
+                "max": 239,
+                "sd": 50.92615913467779,
+                "avg": 120
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TOTAL FREE THROWS ATTEMPTED",
+          "field_ref": [
+            "field",
+            "TOTAL FREE THROWS ATTEMPTED",
+            {
+              "base-type": "type/Number"
+            }
+          ],
+          "name": "TOTAL FREE THROWS ATTEMPTED",
+          "base_type": "type/Number",
+          "effective_type": "type/Number",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 19,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 47,
+                "q1": 103.10050506338834,
+                "q3": 201,
+                "max": 324,
+                "sd": 70.93916964183951,
+                "avg": 160.05
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TOTAL OFFENSIVE REBOUND",
+          "field_ref": [
+            "field",
+            "TOTAL OFFENSIVE REBOUND",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "TOTAL OFFENSIVE REBOUND",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 18,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 12,
+                "q1": 26.5,
+                "q3": 84,
+                "max": 135,
+                "sd": 35.6185566656956,
+                "avg": 58.45
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TOTAL DEFENSIVE REBOUND",
+          "field_ref": [
+            "field",
+            "TOTAL DEFENSIVE REBOUND",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "TOTAL DEFENSIVE REBOUND",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 19,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 50,
+                "q1": 112.5,
+                "q3": 202,
+                "max": 369,
+                "sd": 71.82442041827454,
+                "avg": 157.7
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TOTAL REBOUND",
+          "field_ref": [
+            "field",
+            "TOTAL REBOUND",
+            {
+              "base-type": "type/Number"
+            }
+          ],
+          "name": "TOTAL REBOUND",
+          "base_type": "type/Number",
+          "effective_type": "type/Number",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 19,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 62,
+                "q1": 139,
+                "q3": 284.65685424949237,
+                "max": 504,
+                "sd": 104.06843649101398,
+                "avg": 216.15
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TOTAL ASSISTS",
+          "field_ref": [
+            "field",
+            "TOTAL ASSISTS",
+            {
+              "base-type": "type/Number"
+            }
+          ],
+          "name": "TOTAL ASSISTS",
+          "base_type": "type/Number",
+          "effective_type": "type/Number",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 20,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 19,
+                "q1": 46.5,
+                "q3": 104,
+                "max": 324,
+                "sd": 72.8939207630549,
+                "avg": 95.05
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TOTAL STEALS",
+          "field_ref": [
+            "field",
+            "TOTAL STEALS",
+            {
+              "base-type": "type/Number"
+            }
+          ],
+          "name": "TOTAL STEALS",
+          "base_type": "type/Number",
+          "effective_type": "type/Number",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 18,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 22,
+                "q1": 31.5,
+                "q3": 56.5,
+                "max": 71,
+                "sd": 15.852195597555498,
+                "avg": 44.65
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TOTAL BLOCKS",
+          "field_ref": [
+            "field",
+            "TOTAL BLOCKS",
+            {
+              "base-type": "type/Number"
+            }
+          ],
+          "name": "TOTAL BLOCKS",
+          "base_type": "type/Number",
+          "effective_type": "type/Number",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 19,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 1,
+                "q1": 6.585786437626905,
+                "q3": 44,
+                "max": 170,
+                "sd": 39.45213622393062,
+                "avg": 35.05
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TOTAL TURNOVERS",
+          "field_ref": [
+            "field",
+            "TOTAL TURNOVERS",
+            {
+              "base-type": "type/Number"
+            }
+          ],
+          "name": "TOTAL TURNOVERS",
+          "base_type": "type/Number",
+          "effective_type": "type/Number",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 18,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 38,
+                "q1": 51.5,
+                "q3": 78.5,
+                "max": 125,
+                "sd": 25.236721365168613,
+                "avg": 69.55
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TOTAL PERSONAL FOULS",
+          "field_ref": [
+            "field",
+            "TOTAL PERSONAL FOULS",
+            {
+              "base-type": "type/Number"
+            }
+          ],
+          "name": "TOTAL PERSONAL FOULS",
+          "base_type": "type/Number",
+          "effective_type": "type/Number",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 18,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 43,
+                "q1": 69.5,
+                "q3": 89.58578643762691,
+                "max": 111,
+                "sd": 17.559747630364885,
+                "avg": 78.65
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TOTAL POINTS",
+          "field_ref": [
+            "field",
+            "TOTAL POINTS",
+            {
+              "base-type": "type/Number"
+            }
+          ],
+          "name": "TOTAL POINTS",
+          "base_type": "type/Number",
+          "effective_type": "type/Number",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 19,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 208,
+                "q1": 444.5,
+                "q3": 630.5,
+                "max": 853,
+                "sd": 156.83194995381453,
+                "avg": 536.95
+              }
+            }
+          }
+        },
+        {
+          "display_name": "MINUTES PLAYED PERGAME",
+          "field_ref": [
+            "field",
+            "MINUTES PLAYED PERGAME",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "MINUTES PLAYED PERGAME",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 18,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 22.3,
+                "q1": 30.75,
+                "q3": 34.2,
+                "max": 37.7,
+                "sd": 3.475216767188397,
+                "avg": 32.385
+              }
+            }
+          }
+        },
+        {
+          "display_name": "FIELD GOALS MADE PER GAME",
+          "field_ref": [
+            "field",
+            "FIELD GOALS MADE PER GAME",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "FIELD GOALS MADE PER GAME",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 16,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 2.8,
+                "q1": 4.846410161513775,
+                "q3": 6.5171572875253805,
+                "max": 8.6,
+                "sd": 1.4309639739479267,
+                "avg": 5.635
+              }
+            }
+          }
+        },
+        {
+          "display_name": "FIELD GOALS ATTEMPTED PER GAME",
+          "field_ref": [
+            "field",
+            "FIELD GOALS ATTEMPTED PER GAME",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "FIELD GOALS ATTEMPTED PER GAME",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 18,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 5.7,
+                "q1": 10.072792206135786,
+                "q3": 13.275735931288072,
+                "max": 17.5,
+                "sd": 2.9521223409251642,
+                "avg": 11.735000000000001
+              }
+            }
+          }
+        },
+        {
+          "display_name": "3 POINT MADE PER GAME",
+          "field_ref": [
+            "field",
+            "3 POINT MADE PER GAME",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "3 POINT MADE PER GAME",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 15,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0,
+                "q1": 0.11771243444677047,
+                "q3": 2,
+                "max": 2.7,
+                "sd": 0.9811244891235233,
+                "avg": 1.1549999999999998
+              }
+            }
+          }
+        },
+        {
+          "display_name": "3 POINT ATTEMPTED PER GAME",
+          "field_ref": [
+            "field",
+            "3 POINT ATTEMPTED PER GAME",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "3 POINT ATTEMPTED PER GAME",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 18,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0,
+                "q1": 0.4,
+                "q3": 5.6,
+                "max": 7.6,
+                "sd": 2.655659299644718,
+                "avg": 3.1100000000000003
+              }
+            }
+          }
+        },
+        {
+          "display_name": "FREE THROWS MADE PER GAME",
+          "field_ref": [
+            "field",
+            "FREE THROWS MADE PER GAME",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "FREE THROWS MADE PER GAME",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 16,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 1,
+                "q1": 2.3499999999999996,
+                "q3": 4.8,
+                "max": 6.8,
+                "sd": 1.4455375980473222,
+                "avg": 3.5699999999999994
+              }
+            }
+          }
+        },
+        {
+          "display_name": "FREE THROWS ATTEMPTED PER GAME",
+          "field_ref": [
+            "field",
+            "FREE THROWS ATTEMPTED PER GAME",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "FREE THROWS ATTEMPTED PER GAME",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 17,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 1.5,
+                "q1": 3.0585786437626905,
+                "q3": 6.092893218813452,
+                "max": 9.3,
+                "sd": 1.9877188724237322,
+                "avg": 4.745
+              }
+            }
+          }
+        },
+        {
+          "display_name": "OFFENSIVE REBOUND PER GAME",
+          "field_ref": [
+            "field",
+            "OFFENSIVE REBOUND PER GAME",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "OFFENSIVE REBOUND PER GAME",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 15,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0.5,
+                "q1": 0.7414213562373095,
+                "q3": 2.534314575050762,
+                "max": 3.9,
+                "sd": 1.0640043529788281,
+                "avg": 1.75
+              }
+            }
+          }
+        },
+        {
+          "display_name": "DEFENSIVE REBOUND PER GAME",
+          "field_ref": [
+            "field",
+            "DEFENSIVE REBOUND PER GAME",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "DEFENSIVE REBOUND PER GAME",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 18,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 1.9,
+                "q1": 3.2585786437626902,
+                "q3": 5.9,
+                "max": 10.5,
+                "sd": 2.133442979638411,
+                "avg": 4.7
+              }
+            }
+          }
+        },
+        {
+          "display_name": "REBOUND PER GAME",
+          "field_ref": [
+            "field",
+            "REBOUND PER GAME",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "REBOUND PER GAME",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 20,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 2.4,
+                "q1": 3.95,
+                "q3": 8.1,
+                "max": 14.4,
+                "sd": 3.1003225638633154,
+                "avg": 6.44
+              }
+            }
+          }
+        },
+        {
+          "display_name": "ASSISTS PER GAME",
+          "field_ref": [
+            "field",
+            "ASSISTS PER GAME",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "ASSISTS PER GAME",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 16,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0.6,
+                "q1": 1.5,
+                "q3": 3.3499999999999996,
+                "max": 9.3,
+                "sd": 2.1089471057228635,
+                "avg": 2.815
+              }
+            }
+          }
+        },
+        {
+          "display_name": "STEALS PER GAME",
+          "field_ref": [
+            "field",
+            "STEALS PER GAME",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "STEALS PER GAME",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 13,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0.6,
+                "q1": 1.0366025403784438,
+                "q3": 1.7000000000000002,
+                "max": 2.2,
+                "sd": 0.47947339534337596,
+                "avg": 1.3400000000000003
+              }
+            }
+          }
+        },
+        {
+          "display_name": "BLOCKS PER GAME",
+          "field_ref": [
+            "field",
+            "BLOCKS PER GAME",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "BLOCKS PER GAME",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 14,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0,
+                "q1": 0.2,
+                "q3": 1.448528137423857,
+                "max": 4.7,
+                "sd": 1.1305680919459542,
+                "avg": 1.035
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TURNOVERS PER GAME",
+          "field_ref": [
+            "field",
+            "TURNOVERS PER GAME",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "TURNOVERS PER GAME",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 13,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 1.2,
+                "q1": 1.61583123951777,
+                "q3": 2.45,
+                "max": 3.8,
+                "sd": 0.7331259674916216,
+                "avg": 2.0799999999999996
+              }
+            }
+          }
+        },
+        {
+          "display_name": "PERSONAL FOULS PER GAME",
+          "field_ref": [
+            "field",
+            "PERSONAL FOULS PER GAME",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "PERSONAL FOULS PER GAME",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 14,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 1.5,
+                "q1": 2.044948974278318,
+                "q3": 2.6500000000000004,
+                "max": 3.1,
+                "sd": 0.46029166954511747,
+                "avg": 2.335
+              }
+            }
+          }
+        },
+        {
+          "display_name": "POINTS PER GAME",
+          "field_ref": [
+            "field",
+            "POINTS PER GAME",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "POINTS PER GAME",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 19,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 6.7,
+                "q1": 13.350000000000001,
+                "q3": 18.65,
+                "max": 24.4,
+                "sd": 4.341731403362876,
+                "avg": 15.970000000000002
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TOTAL GAME PLAYED",
+          "field_ref": [
+            "field",
+            "TOTAL GAME PLAYED",
+            {
+              "base-type": "type/Number"
+            }
+          ],
+          "name": "TOTAL GAME PLAYED",
+          "base_type": "type/Number",
+          "effective_type": "type/Number",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 8,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 26,
+                "q1": 32.441518440112254,
+                "q3": 35.7,
+                "max": 38,
+                "sd": 3.2019730759248066,
+                "avg": 33.6
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TOTAL GAME STARTED",
+          "field_ref": [
+            "field",
+            "TOTAL GAME STARTED",
+            {
+              "base-type": "type/Number"
+            }
+          ],
+          "name": "TOTAL GAME STARTED",
+          "base_type": "type/Number",
+          "effective_type": "type/Number",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 9,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 24,
+                "q1": 32.16227766016838,
+                "q3": 35.52786404500042,
+                "max": 38,
+                "sd": 3.5258444303979752,
+                "avg": 33.3
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TOTAL MINUTES",
+          "field_ref": [
+            "field",
+            "TOTAL MINUTES",
+            {
+              "base-type": "type/Number"
+            }
+          ],
+          "name": "TOTAL MINUTES",
+          "base_type": "type/Number",
+          "effective_type": "type/Number",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 20,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 691,
+                "q1": 1023,
+                "q3": 1212,
+                "max": 1311,
+                "sd": 161.22700570444474,
+                "avg": 1089.6
+              }
+            }
+          }
+        },
+        {
+          "display_name": "FIELD GOALS MADE PER 36 MINUTES",
+          "field_ref": [
+            "field",
+            "FIELD GOALS MADE PER 36 MINUTES",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "FIELD GOALS MADE PER 36 MINUTES",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 15,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 4.2,
+                "q1": 5,
+                "q3": 7.5,
+                "max": 9.3,
+                "sd": 1.4135714380696562,
+                "avg": 6.234999999999999
+              }
+            }
+          }
+        },
+        {
+          "display_name": "FIELD GOALS ATTEMPTED PER 36 MINUTES",
+          "field_ref": [
+            "field",
+            "FIELD GOALS ATTEMPTED PER 36 MINUTES",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "FIELD GOALS ATTEMPTED PER 36 MINUTES",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 18,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 7.8,
+                "q1": 10.5,
+                "q3": 14.65,
+                "max": 17.1,
+                "sd": 2.673160951698234,
+                "avg": 12.95
+              }
+            }
+          }
+        },
+        {
+          "display_name": "FIELD GOALS % PER 36 MINUTES",
+          "field_ref": [
+            "field",
+            "FIELD GOALS % PER 36 MINUTES",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "FIELD GOALS % PER 36 MINUTES",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 20,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0.402,
+                "q1": 0.435,
+                "q3": 0.525,
+                "max": 0.654,
+                "sd": 0.06938942358359203,
+                "avg": 0.4845499999999999
+              }
+            }
+          }
+        },
+        {
+          "display_name": "3 POINT MADE PER 36 MINUTES",
+          "field_ref": [
+            "field",
+            "3 POINT MADE PER 36 MINUTES",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "3 POINT MADE PER 36 MINUTES",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 14,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0,
+                "q1": 0.18228756555322956,
+                "q3": 2.1500000000000004,
+                "max": 2.8,
+                "sd": 1.0189778159870233,
+                "avg": 1.2400000000000002
+              }
+            }
+          }
+        },
+        {
+          "display_name": "3 POINT ATTEMPTED PER 36 MINUTES",
+          "field_ref": [
+            "field",
+            "3 POINT ATTEMPTED PER 36 MINUTES",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "3 POINT ATTEMPTED PER 36 MINUTES",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 16,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0,
+                "q1": 0.4485281374238571,
+                "q3": 5.94142135623731,
+                "max": 8.2,
+                "sd": 2.792112952020764,
+                "avg": 3.3299999999999996
+              }
+            }
+          }
+        },
+        {
+          "display_name": "3 POINT % PER 36 MINUTES",
+          "field_ref": [
+            "field",
+            "3 POINT % PER 36 MINUTES",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "3 POINT % PER 36 MINUTES",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 17,
+              "nil%": 0.05
+            },
+            "type": {
+              "type/Number": {
+                "min": 0,
+                "q1": 0.33875,
+                "q3": 0.38025,
+                "max": 0.466,
+                "sd": 0.12354545532784177,
+                "avg": 0.331578947368421
+              }
+            }
+          }
+        },
+        {
+          "display_name": "FREE THROWS MADE PER 36 MINUTES",
+          "field_ref": [
+            "field",
+            "FREE THROWS MADE PER 36 MINUTES",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "FREE THROWS MADE PER 36 MINUTES",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 16,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 1.7,
+                "q1": 2.55,
+                "q3": 5.05,
+                "max": 6.7,
+                "sd": 1.4480113404615529,
+                "avg": 3.91
+              }
+            }
+          }
+        },
+        {
+          "display_name": "FREE THROWS ATTEMPTED PER 36 MINUTES",
+          "field_ref": [
+            "field",
+            "FREE THROWS ATTEMPTED PER 36 MINUTES",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "FREE THROWS ATTEMPTED PER 36 MINUTES",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 20,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 2.4,
+                "q1": 3.7,
+                "q3": 6.8,
+                "max": 10,
+                "sd": 2.070055936188046,
+                "avg": 5.225
+              }
+            }
+          }
+        },
+        {
+          "display_name": "FREE THROWS % PER 36 MINUTES",
+          "field_ref": [
+            "field",
+            "FREE THROWS % PER 36 MINUTES",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "FREE THROWS % PER 36 MINUTES",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 20,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0.59,
+                "q1": 0.6895,
+                "q3": 0.8274999999999999,
+                "max": 0.86,
+                "sd": 0.08304127065248308,
+                "avg": 0.7558
+              }
+            }
+          }
+        },
+        {
+          "display_name": "OFFENSIVE REBOUND PER 36 MINUTES",
+          "field_ref": [
+            "field",
+            "OFFENSIVE REBOUND PER 36 MINUTES",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "OFFENSIVE REBOUND PER 36 MINUTES",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 16,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0.5,
+                "q1": 0.7585786437626905,
+                "q3": 3.05,
+                "max": 4.2,
+                "sd": 1.2493787930091709,
+                "avg": 2.0100000000000002
+              }
+            }
+          }
+        },
+        {
+          "display_name": "DEFENSIVE REBOUND PER 36 MINUTES",
+          "field_ref": [
+            "field",
+            "DEFENSIVE REBOUND PER 36 MINUTES",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "DEFENSIVE REBOUND PER 36 MINUTES",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 18,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 2.1,
+                "q1": 3.3585786437626903,
+                "q3": 7.25,
+                "max": 11.4,
+                "sd": 2.516320413034205,
+                "avg": 5.335
+              }
+            }
+          }
+        },
+        {
+          "display_name": "REBOUND PER 36 MINUTES",
+          "field_ref": [
+            "field",
+            "REBOUND PER 36 MINUTES",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "REBOUND PER 36 MINUTES",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 19,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 2.6,
+                "q1": 4.2,
+                "q3": 9.850000000000001,
+                "max": 15.6,
+                "sd": 3.673586373301336,
+                "avg": 7.345000000000001
+              }
+            }
+          }
+        },
+        {
+          "display_name": "ASSISTS PER 36 MINUTES",
+          "field_ref": [
+            "field",
+            "ASSISTS PER 36 MINUTES",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "ASSISTS PER 36 MINUTES",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 16,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 1,
+                "q1": 1.75,
+                "q3": 3.6500000000000004,
+                "max": 9.1,
+                "sd": 1.9842736971655792,
+                "avg": 2.995
+              }
+            }
+          }
+        },
+        {
+          "display_name": "STEALS PER 36 MINUTES",
+          "field_ref": [
+            "field",
+            "STEALS PER 36 MINUTES",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "STEALS PER 36 MINUTES",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 13,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0.7,
+                "q1": 1.1449489742783179,
+                "q3": 1.8414213562373094,
+                "max": 2.4,
+                "sd": 0.4669047011971501,
+                "avg": 1.47
+              }
+            }
+          }
+        },
+        {
+          "display_name": "BLOCKS PER 36 MINUTES",
+          "field_ref": [
+            "field",
+            "BLOCKS PER 36 MINUTES",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "BLOCKS PER 36 MINUTES",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 12,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 0,
+                "q1": 0.2,
+                "q3": 1.65,
+                "max": 5.4,
+                "sd": 1.3677103417563852,
+                "avg": 1.23
+              }
+            }
+          }
+        },
+        {
+          "display_name": "TURNOVERS PER 36 MINUTES",
+          "field_ref": [
+            "field",
+            "TURNOVERS PER 36 MINUTES",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "TURNOVERS PER 36 MINUTES",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 12,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 1.3,
+                "q1": 1.7828427124746191,
+                "q3": 2.8071067811865476,
+                "max": 3.6,
+                "sd": 0.7022332795783524,
+                "avg": 2.2950000000000004
+              }
+            }
+          }
+        },
+        {
+          "display_name": "PERSONAL FOULS PER 36 MINUTES",
+          "field_ref": [
+            "field",
+            "PERSONAL FOULS PER 36 MINUTES",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "PERSONAL FOULS PER 36 MINUTES",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 15,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 1.6,
+                "q1": 2.1414213562373097,
+                "q3": 2.95,
+                "max": 4.8,
+                "sd": 0.751489748503107,
+                "avg": 2.6500000000000004
+              }
+            }
+          }
+        },
+        {
+          "display_name": "POINTS PER 36 MINUTES",
+          "field_ref": [
+            "field",
+            "POINTS PER 36 MINUTES",
+            {
+              "base-type": "type/Float"
+            }
+          ],
+          "name": "POINTS PER 36 MINUTES",
+          "base_type": "type/Float",
+          "effective_type": "type/Float",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 20,
+              "nil%": 0
+            },
+            "type": {
+              "type/Number": {
+                "min": 10.8,
+                "q1": 13.95,
+                "q3": 20.65,
+                "max": 24.5,
+                "sd": 4.083600062895998,
+                "avg": 17.6
+              }
+            }
+          }
+        },
+        {
+          "display_name": "LONGEVITY",
+          "field_ref": [
+            "field",
+            "LONGEVITY",
+            {
+              "base-type": "type/Text"
+            }
+          ],
+          "name": "LONGEVITY",
+          "base_type": "type/Text",
+          "effective_type": "type/Text",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 2,
+              "nil%": 0
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 2.5
+              }
+            }
+          }
+        },
+        {
+          "display_name": "LAST AND FIRST NAME",
+          "field_ref": [
+            "field",
+            "LAST AND FIRST NAME",
+            {
+              "base-type": "type/Text"
+            }
+          ],
+          "name": "LAST AND FIRST NAME",
+          "base_type": "type/Text",
+          "effective_type": "type/Text",
+          "semantic_type": null,
+          "fingerprint": {
+            "global": {
+              "distinct-count": 20,
+              "nil%": 0
+            },
+            "type": {
+              "type/Text": {
+                "percent-json": 0,
+                "percent-url": 0,
+                "percent-email": 0,
+                "percent-state": 0,
+                "average-length": 13.7
+              }
+            }
+          }
+        }
+      ]
+    },
+    "insights": null
+  },
+  "database_id": 34,
+  "started_at": "2023-08-30T03:13:34.478528Z",
+  "json_query": {
+    "constraints": {
+      "max-results": 10000,
+      "max-results-bare-rows": 2000
+    },
+    "type": "native",
+    "middleware": {
+      "js-int-to-string?": true,
+      "ignore-cached-results?": false,
+      "process-viz-settings?": false
+    },
+    "native": {
+      "query": "SELECT * FROM XDB_B69FE52C_6CFF_4BB0_9599_DE026DDD2875.PREDICTION_RESULTS.\"PR_193E4C98_FF9B_4BDF_878A_2AE63DC4B81E\""
+    },
+    "database": 34,
+    "async?": true,
+    "cache-ttl": null
+  },
+  "average_execution_time": null,
+  "status": "completed",
+  "context": "question",
+  "row_count": 20,
+  "running_time": 165
+}
